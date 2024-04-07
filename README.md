@@ -35,7 +35,7 @@
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
-|Compañero 1 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
+| Ramirez Contreras, Zaid Valentino <img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%"> | U202218472   |Ingenieria de software| C++, python, HTML5, CSS3, Javascript, SQL, persistente y amigable  |
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -97,7 +97,7 @@ Texto
 3. ¿A qué se dedica? 
 4. ¿[Opinion de idea de propuesta]? 
 
-**Entrevistas usuario segmento 2**
+**Entrevistas usuario segmento 1**
 1. ¿Lorem?
 2. ¿Lorem?
 3. ¿Lorem?
@@ -110,11 +110,17 @@ Texto
 4. ¿Lorem? 
 ### 2.2.2. Registro de entrevistas.
 **Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+##### Entrevista 1
+ - Entrevistador: Zaid Valentino Ramirez Contreras
+  - Entrevistado: Maverick Mendoza
+  - Residencia: Lima - San Miguel
+  - Enlace del video: https://youtu.be/Xa1a5AWHRSw
+
+<img src="./assets/entrevistas/maverick.png" alt="Imagen de entrevista1" style="width:60%">
+	
+Resumen: 
+Mi entrevistado, Maverick Mendoza, es un estudiante de Ingenieria en Sistemas y dueño del emprendimiento EnchiTacos. Menciona que actualmente la empresa solo maneja Facebook e Instagram con anuncios, por lo que cree que la adquisición de una página web mejoraría la rentabilidad del negocio. También menciona que la parte más importante al implementar una página web es la parte del diseño y la arquitectura. Menciona que le sería conveniente el tener a disposición una plataforma que le facilite el contacto con 
+
 
 **Segmento 2**  
 Nombre: _____
