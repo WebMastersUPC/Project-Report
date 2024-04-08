@@ -67,21 +67,21 @@ Después de examinar las principales plataformas dedicadas a conectar a empresas
 1. **Freelancer:**
 Plataforma en línea donde que conecta a profesionales independientes con proyectos de trabajo remoto propuestos por pequeñas y grandes empresas. Los usuarios pueden buscar y postular a trabajos freelance en áreas de desarrollo de software, diseño gráfico, consultoría, etc. donde pueden establecer su propio horario y tarifas. La plataforma también proporciona a las empresas acceso a una gran base de talento global para contratrar según las necesidades del proyecto.
 
-<div style="text-align: center;">
+<div align="center">
                 <img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/logos/logo-freelancer.png?raw=true" alt="Freelancer logo" style="max-width: 400px; width: 25%;">
 </div>
 
 2. **Upwork:**
 Plataforma de contratación online que brinda un espacio de comunicación entre empresas y freelancers para colaborar en una variedad de trabajos. De igual forma ofrece una gama de herramientas para la comunicación, gestión y seguridad en los pagos. Además, proporciona servicios de compra de proyectos, asesoramiento empresarial y recursos educativos de diversas áreas.
 
-<div style="text-align: center;">
+<div align="center">
                 <img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/logos/logo-upwork.png?raw=true" alt="Upwork logo" style="max-width: 400px; width: 25%;">
 </div>
 
 3. **Codementor:**
 Plataforma en línea especializada en el aprendizaje y la tutoría dentro del cmapo de la programación. Ofrece diversos recursos educativos para mejorar las habilidades técnicas de sus usuarios. Esto incluye, tutoriales, cursos, libros, etc. También permite a los usuarios conectarse con mentores calificados para sesiones de tutoría personalizadas.  Además, facilita la búsqueda y contratación de otros programadores para llevar a cabo proyectos de desarrollo de software.
  
-<div style="text-align: center;">
+<div align="center">
                 <img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/logos/logo-codementor.png?raw=true" alt="Codementor logo" style="max-width: 400px; width: 25%;">
 </div>
 
