@@ -238,44 +238,96 @@ Nuestro enfoque principal como startup se basa en las siguientes estrategias y t
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
-**Preguntas generales:**
 
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
+**Segmento objetivo: Empresarios o emprendedores**
 
-**Entrevistas usuario segmento 1**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
+Buen día, soy [Nombre del entrevistador]. En esta ocasión llevaré a cabo una entrevista para la Startup From Zero con el objetivo de recopilar la información necesaria para el desarrollo de nuestra plataforma.
+
+Webmasters  es una plataforma diseñada para ayudar a las empresas y emprendimientos que requieran de una solución de software. Conectamos a estos emprendimientos y empresas con desarrolladores freelancers capaces de satisfacer sus necesidades de manera eficaz.
+
+  **Preguntas generales:**
+  1. ¿Cuál es su nombre? 
+  2. ¿Cuántos años tienes? 
+  3. ¿Dónde resides actualmente? 
+  4. ¿Cuál es el nombre de tu empresa o emprendimiento? 
+
+  **Preguntas de indagación:**
+  1. ¿Actualmente su empresa/emprendimiento cuenta con presencia digital? 
+  2. ¿Considera que a día de hoy es importante que su empresa/emprendimiento tenga presencia en internet? ¿Por qué?
+  3. ¿De qué manera mejorarías la presencial digital de tu negocio?
+  4. ¿Alguna vez su empresa/emprendimiento ha requerido de una solución de software? Si es así, ¿de qué tipo?
+  5. ¿Ha considerado realizar un proyecto de software para mejorar su empresa/emprendimiento? ¿Por qué?
+  6. ¿Qué tan familiarizado está con las plataformas de contratación de desarrolladores freelance?
+
+  **Preguntas de validación:**
+  1. ¿Estaría dispuesto a trabajar con un desarrollador de software para desarrollar una solución de software para su empresa/emprendimiento? 
+  2. ¿Considerarías utilizar una plataforma que te conecte con desarrolladores freelance calificados? ¿Por qué?
+  3. ¿Cuáles serían las características más importantes que debería tener la plataforma?
+  4. ¿Qué beneficios esperas de utilizar una plataforma?
+  5. ¿Qué preocupaciones tendrías al utilizar la plataforma para trabajar con desarrolladores freelance?
+  6. ¿Estarías dispuesto a usar o pagar por una plataforma que te ayude a encontrar a un desarrollador adecuado para tu proyecto?
+
+<br>
+
+**Segmento objetivo: Desarrolladores freelance**
+
+Buen día, soy [Nombre del entrevistador]. En esta ocasión llevaré a cabo una entrevista para la Startup From Zero con el objetivo de recopilar la información necesaria para el desarrollo de nuestra plataforma.
+Webmasters  es una plataforma diseñada para ayudar a las empresas y emprendimientos que requieran de una solución de software. Conectamos a estos emprendimientos y empresas con desarrolladores freelancers capaces de satisfacer sus necesidades de manera eficaz.
+
+  **Preguntas generales:**
+  1. ¿Cuál es su nombre? 
+  2. ¿Cuántos años tienes? 
+  3. ¿Dónde resides actualmente? 
+  4. ¿Cuál es tu área de especialidad en el desarrollo de software (móvil, escritorio, web, ciberseguridad, etc.)? 
+
+  **Preguntas de indagación:**
+  1. ¿Con qué tecnologías sueles realizar tus proyectos?
+  2. ¿Has tenido experiencia trabajando en proyectos de desarrollo de software? 
+  3. ¿Qué tipos de proyectos has realizado?
+  4. ¿Cuáles son los principales problemas con los que te has enfrentado como desarrollador freelance?
+  5. ¿Qué consideras en un proyecto para trabajar en él?
+  6. ¿De qué manera manejas la comunicación con tus clientes a lo largo del desarrollo del trabajo?
+  7. ¿Qué tan familiarizado está con las plataformas de contratación de desarrolladores freelance?
+
+
+  **Preguntas de validación:**
+  1. ¿Cuáles son las características que consideras importantes dentro de este tipo de plataformas?
+  2. ¿Qué otras características te gustaría ver en dichas plataformas?
+  3. ¿Qué te haría elegir una plataforma de contratación de desarrolladores freelance frente a otras en el mercado?
+  4. ¿Qué beneficios esperas de utilizar una plataforma?
+  5. ¿Cuáles serían tus preocupaciones al momento de trabajar en una plataforma?
+  6. ¿Estarías dispuesto a usar o pagar por una plataforma que te conecte con empresas que buscan desarrolladores freelance?
 ### 2.2.2. Registro de entrevistas.
-**Segmento 1**  
-##### Entrevista 1
- - Entrevistador: Zaid Valentino Ramirez Contreras
+
+**Segmento empresarios o emprendedores**  
+
+**Entrevista 1**
+
+  - Entrevistador: Zaid Valentino Ramirez Contreras
   - Entrevistado: Maverick Mendoza
+  - Edad:
   - Residencia: Lima - San Miguel
   - Enlace del video: https://youtu.be/Xa1a5AWHRSw
 
-<img src="./assets/interviews/Maverick.png" alt="Imagen de entrevista1" style="width:60%">
+<img src="./assets/interviews/Maverick.png" alt="Imagen de entrevista1" style="width:60% align-center">
 	
 Resumen: 
-Mi entrevistado, Maverick Mendoza, es un estudiante de Ingenieria en Sistemas y dueño del emprendimiento EnchiTacos. Menciona que actualmente la empresa solo maneja Facebook e Instagram con anuncios, por lo que cree que la adquisición de una página web mejoraría la rentabilidad del negocio. También menciona que la parte más importante al implementar una página web es la parte del diseño y la arquitectura. Menciona que le sería conveniente el tener a disposición una plataforma que le facilite el contacto con 
+El entrevistado, Maverick Mendoza, es un estudiante de Ingenieria en Sistemas y dueño del emprendimiento EnchiTacos. Menciona que actualmente la empresa solo maneja Facebook e Instagram con anuncios, por lo que cree que la adquisición de una página web mejoraría la rentabilidad del negocio. También menciona que la parte más importante al implementar una página web es la parte del diseño y la arquitectura. Menciona que le sería conveniente el tener a disposición una plataforma que le facilite el contacto con 
 
 
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+**Segmento desarrolladores freelance**  
+
+**Entrevista 1** 
+
+  - Entrevistador: 
+  - Entrevistado: 
+  - Edad:
+  - Residencia:
+  - Enlace del video: 
+
+<img src="" alt="" style="width:60%">
+	
+Resumen: 
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
