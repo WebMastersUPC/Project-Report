@@ -61,32 +61,180 @@ Texto
 ---
 
 # Capítulo II: Requirements Elicitation & Analysis
-## 2.1. Competidores.
-### 2.1.1. Análisis competitivo.
+## 2.1. Competidores
+Después de examinar las principales plataformas dedicadas a conectar a empresas con desarrolladores freelance para el desarrollo de soluciones de software, hemos identificado a los principales competidores a los que se enfrenta nuestra startup en este sector. Estos son los siguientes:
 
-| Competitive Analysis Landscape                          |  |
-| ------------------------------------------------------- | -|
-| ¿Por qué llevar a cabo este análisis?                   | -- |
+1. **Freelancer:**
+Plataforma en línea donde que conecta a profesionales independientes con proyectos de trabajo remoto propuestos por pequeñas y grandes empresas. Los usuarios pueden buscar y postular a trabajos freelance en áreas de desarrollo de software, diseño gráfico, consultoría, etc. donde pueden establecer su propio horario y tarifas. La plataforma también proporciona a las empresas acceso a una gran base de talento global para contratrar según las necesidades del proyecto.
 
+<div style="text-align: center;">
+                <img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/logos/logo-freelancer.png?raw=true" alt="Freelancer logo" style="max-width: 400px; width: 25%;">
+</div>
 
-| |  | (Nosotros) | Competidor  | Comptdor |
-|-|-|-|-|-|
-| PERFIL| Overview | lorem | ipsum | lorem |
-|| Ventaja competitiva ¿Qué valor ofrece a los clientes? |  ipsu | impuz |
-|| Mercado Objetivo                                        | Jeda | asa | asa2 |
-| Perfil de marketing                                     | Estrategia de Marketing | Redes Sociales | Redes Sociales | Televisión, Redes Sociales |
-| Perfil del producto                                     | Productos y servicios | Elementos Gráficos Interactivos Enseñanza de Matemáticas Lúdica y Autodidacta Educación matemática interactiva Ámbito Freemium | Educación matemática interactiva Mas de 100 cursos en 28 idiomas diferentes | Educación general interactiva Contratos con Movistar |
-|| Precios y costos                                        | Freemium (Cuenta Premium permite personalizar los juegos) Gratis | Gratuito | Gratuito |
-|| Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Móvil Web | Web y móvil Web |
-### 2.1.2. Estrategias y tácticas frente a competidores.
+2. **Upwork:**
+Plataforma de contratación online que brinda un espacio de comunicación entre empresas y freelancers para colaborar en una variedad de trabajos. De igual forma ofrece una gama de herramientas para la comunicación, gestión y seguridad en los pagos. Además, proporciona servicios de compra de proyectos, asesoramiento empresarial y recursos educativos de diversas áreas.
 
+<div style="text-align: center;">
+                <img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/logos/logo-upwork.png?raw=true" alt="Upwork logo" style="max-width: 400px; width: 25%;">
+</div>
 
-|Competidores ->|  | Nosotros | Competidor2| Competidor3|
-|-|-|-|-|-|
-| Análisis SWOT | Fortalezas | lorem | Lorem | lorem |
-|| Debilidades   | lorem | lorem | lorem | lorem | 
-|| Oportunidades | lorem | lorem | lorem | lorem | 
-|| Amenazas      | lorem | lorem | lorem | lorem |
+3. **Codementor:**
+Plataforma en línea especializada en el aprendizaje y la tutoría dentro del cmapo de la programación. Ofrece diversos recursos educativos para mejorar las habilidades técnicas de sus usuarios. Esto incluye, tutoriales, cursos, libros, etc. También permite a los usuarios conectarse con mentores calificados para sesiones de tutoría personalizadas.  Además, facilita la búsqueda y contratación de otros programadores para llevar a cabo proyectos de desarrollo de software.
+ 
+<div style="text-align: center;">
+                <img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/logos/logo-codementor.png?raw=true" alt="Codementor logo" style="max-width: 400px; width: 25%;">
+</div>
+
+### 2.1.1. Análisis competitivo
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+  </tr>
+  <tr>
+    <td colspan="5">Este análisis se realizó para identificar a nuestros competidores y desarrollar estrategias para sobresalir sobre ellos.</td>
+  </tr>
+  <tr>
+    <td colspan="3"></td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        WebMaster
+        <br>
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="" alt="" width="60px">
+        </div>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+    Freelancer
+    <div style="text-align: center; margin-top: 60px;">
+                <img src="" alt="" width="60px">
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      Upwork
+      <div style="text-align: center; margin-top: 10px;">
+                <img src="" alt="" width="60px">
+            </div>
+      </td>
+    <td colspan="1" valign="top" style="font-weight: bold;" >
+      Codementor
+      <div style="text-align: center; margin-top: 10px;">
+                <img src="" alt="" width="60px">
+            </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil</p></td>
+    <td colspan="2">Overview</td>
+    <td colspan="1" valign="top">Plataforma que facilita la conexión entre desarrolladores independientes y pequeñas y medianas empresas que buscan una solución de software.</td>
+    <td colspan="1" valign="top">Plataforma online donde freelancers de distintos rubros ofrecen sus servicios para desarrollar proyectos propuestos por pequeñas y grandes empresas.</td>
+    <td colspan="1" valign="top">Plataforma de contratación online que funciona como un medio de comunicación entre empresas y freelancers para facilitar la contratación para proyectos, así como la compra de trabajos y asesoramiento.</td>
+    <td colspan="1" valign="top">Plataforma en línea que permite conectar desarrolladores con mentorías personalizadas y oportunidades de trabajo freelance. También ofrece recursos educativos para mejorar las habilidades técnicas de sus usuarios.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Ventaja competitiva</td>
+    <td colspan="1" valign="top">Brinda herramientas para seguimiento del progreso de los proyectos, así como la oportunidad de verificar los conocimientos de los freelancers mediante evaluaciones como manera de garantizar un servicio de calidad en la plataforma.</td>
+    <td colspan="1" valign="top">Funciona como un escrow (cuenta de retención), donde el pago por el proyecto es liberado cuando ambas partes se encuentran satisfechas al finalizar el trabajo. Tiene un sistema de evaluaciones para garantizar la calidad y conocimientos de los freelancers</td>
+    <td colspan="1" valign="top">Ofrece oportunidades laborales en distintas industrias y rubros, por lo que tiene una oferta laboral diversificada. Además, proporciona servicios de consultoría con expertos. Tiene herramientas que facilita la comunicación, gestión y seguimiento de proyectos.</td>
+    <td colspan="1" valign="top">Se especializa en el ámbito del desarrollo de software, por lo que sus servicios son más especializados en esta industria. Ofrece sesiones de mentoría personalizadas.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+    <td colspan="2">Mercado objetivo</td>
+    <td colspan="1" valign="top">PYMEs y emprendimientos que buscan subcontratar a un desarrollador para trabajar en una solución de software y freelancers en busca de una oportunidad de trabajo.</td>
+    <td colspan="1" valign="top">Pequeñas, medianas y grandes empresas que quieran contratar a freelancers para desarrollar sus proyectos. Trabajadores independientes que buscan una oportunidad de trabajo.</td>
+    <td colspan="1" valign="top">Empresas de todos los tamaños que buscan contratar trabajadores independientes para desarrollar proyectos de distintas áreas. Freelancers en busca de una oportunidad de trabajo.</td>
+    <td colspan="1" valign="top">PYMEs y emprendimientos que requieran una solución de software. Desarrolladores en busca de un mentor o una oportunidad de trabajo.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Estrategias de marketing</td>
+    <td colspan="1" valign="top">Publicidad en línea, eventos y asociaciones con organizaciones y empresas de la industria tecnológica.</td>
+    <td colspan="1" valign="top">Testimonios de freelancers y artículos en línea.</td>
+    <td colspan="1" valign="top">Testimonios de usuarios y reseñas. Recursos gratuitos. Patrocinio de eventos.</td>
+    <td colspan="1" valign="top">Contenido educativo gratuito y colaboración con influencers.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+    <td colspan="2">Productos & Servicios</td>
+    <td colspan="1" valign="top">Plataforma de trabajo.</td>
+    <td colspan="1" valign="top">Plataforma de trabajo. Inteligencia artificial.</td>
+    <td colspan="1" valign="top">Plataforma de trabajo freelance. Consultoría. </td>
+    <td colspan="1" valign="top">Servicio de mentoría. Recursos educativos. Plataforma de trabajo.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Precios & Costos</td>
+    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">Membresías para los freelancers de $4.99 dólares por el plan básico, $8.95 dólares por el Plus, $49.00 dólares por el Profesional y $99.00 dólares por el Premium mensualmente. Tarifa del 3% o $3.00 dólares por proyectos por precio fijo para los empleadores. 3% para proyectos por hora. Tarifa del 10% o $5.00 dólares por proyectos por precio fijo para los freelancers. 10% para proyectos por hora.</td>
+    <td colspan="1" valign="top">$20 dólares mensuales por una membresía para freelancers. Tarifa del 5% de los pagos realizados a los trabajadores independientes. $0,15 dólares por cada “connect” que permite publicitar y dar  más visibilidad a los trabajos de los freelancers.</td>
+    <td colspan="1" valign="top">Tarifa variante dependiendo de ciertos factores.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1" valign="top">Página web.</td>
+    <td colspan="1" valign="top">Página web y aplicación móvil.</td>
+    <td colspan="1" valign="top">Página web y aplicación móvil.</td>
+    <td colspan="1" valign="top">Página web y aplicación móvil.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+    <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Fortalezas</td>
+    <td colspan="1" valign="top">Sistemas de supervisión y evaluación para garantizar la finalización y calidad de los proyectos.</td>
+    <td colspan="1" valign="top">Amplia reputación en el sector freelance. API propia.</td>
+    <td colspan="1" valign="top">Distintas formas de contratación dependiendo de las necesidades de los empleadores. Proyectos relacionados a distintos campos.</td>
+    <td colspan="1" valign="top">Gran comunidad activa. Enfoque en proyectos de desarrollo de software.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Debilidades</td>
+    <td colspan="1" valign="top">Bajo número de usuarios por ser una startup emergente.</td>
+    <td colspan="1" valign="top">Tarifas altas para los trabajadores independientes </td>
+    <td colspan="1" valign="top">Dependencia de las calificaciones para los freelancers.</td>
+    <td colspan="1" valign="top">Opciones de servicios limitadas.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Oportunidades</td>
+    <td colspan="1" valign="top">Introducción de servicios para nichos de mercado como desarrollo de soluciones móviles, IoT, etc.</td>
+    <td colspan="1" valign="top">Ampliar el uso de la inteligencia artificial (IA).</td>
+    <td colspan="1" valign="top">Desarrollo de un programa de afiliación para los trabajadores independientes.</td>
+    <td colspan="1" valign="top">Diversificación de servicios en más áreas del desarrollo de software.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Amenazas</td>
+    <td colspan="1" valign="top">Alta competencia en el sector. Sin posicionamiento en el mercado.</td>
+    <td colspan="1" valign="top">Incremento de nuevas plataformas en el mercado. Alta competencia en el sector.</td>
+    <td colspan="1" valign="top">Alta competencia en el sector. Problemas relacionados a la ciberseguridad y estafas en la plataforma.</td>
+    <td colspan="1" valign="top">Alta competencia en el sector. Disminución de la calidad del servicio.</td>
+  </tr>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+Nuestro enfoque principal como startup se basa en las siguientes estrategias y tácticas clave:
+
+<table>
+  <tr>
+    <td colspan="1" valign="top">Competidores</td>
+    <td colspan="1" valign="top">¿Qué se puede hacer para ganarle a la competencia?</td>
+  </tr>
+
+  <tr>
+    <td colspan="1" valign="top">Competidor 1: Freelancer</td>
+    <td colspan="1" valign="top">Frente a Freelancer, se ofrecen precios de suscripción más accesibles a los desarrolladores, así como tarifas flexibles tanto para las empresas como para los trabajadores independientes, para una mayor accesibilidad y atraer nuevos usuarios a la plataforma.</td>
+  </tr>
+
+  <tr>
+    <td colspan="1" valign="top">Competidor 2: Upwork</td>
+    <td colspan="1" valign="top">Comparado con Upwork, se adopta un enfoque exclusivo en proyectos de desarrollo de software para tener una oferta más orientada a la industria tecnológica, implicando la inclusión de desarrolladores con conocimientos más especializados y técnicos que atraigan empresas en busca de una solución más compleja y técnica.</td>
+  </tr>
+
+  <tr>
+    <td colspan="1" valign="top">Competidor 3: Codementor</td>
+    <td colspan="1" valign="top">Con Codementor, se enfatiza la importancia de las distintas herramientas de seguimiento y supervisión disponibles en la plataforma para garantizar el cumplimiento de los contratos y mejorar la satisfacción de nuestros clientes.</td>
+  </tr>
+
+</table>
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
