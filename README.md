@@ -36,6 +36,7 @@
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
 | Ramirez Contreras, Zaid Valentino <img src="./assets/members-profile/Zado.png" alt="Imagen del compañero" style="width:60%"> | U202218472   |Ingenieria de software| C++, python, HTML5, CSS3, Javascript, SQL, persistente y amigable  |
+| Velasquez Pizarro Jair <img src="./assets/members-profile/Jair.jpeg" alt="Imagen del compañero" style="width:60%"> | U202218114   |Ingenieria de software| C++, Java, HTML5, CSS3, Tailwind CSS Javascript, SQL. Detallista y proactivo.  |
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -602,9 +603,10 @@ Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
 ### 4.2.3. SEO Tags and Meta Tags
 
 **Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+* Titulo: ```<title>WebMaster - Conectando Empresas y Desarrolladores Freelance</title>```
+* Descripcion: ```<meta name="description" content="WebMaster es la plataforma que conecta a empresas en búsqueda de soluciones de software con desarrolladores freelance dispuestos a trabajar en proyectos."> ```
+* Palabras Clave: ```<meta name="keywords" content="plataforma de contratación, desarrolladores freelance, software a medida, proyectos de desarrollo, conectar empresas con desarrolladores"> ```
+* Autores: ```<meta name="author" content="Equipo de Desarrollo de WebMaster">```
 
 ### 4.2.4. Searching Systems.
 **Que se busca?:** Que buscara el usuario  
