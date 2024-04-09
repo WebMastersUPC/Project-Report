@@ -619,13 +619,12 @@ Basicamente aqui definimos como funciona la navegacion del web app
 **Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
-la pagina donde te registras y ves info del web app (te manda al web app)
-
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
-### 4.3.2. Landing Page Mock-up.
 <img src="./assets/Wireframes/Pagina-Principal.png" alt="Landing Page">
 <img src="./assets/Wireframes/Sobre-Nosotros.png" alt="Sección sobre nosotros">
+
+### 4.3.2. Landing Page Mock-up.
+<img src="./assets/Mockups/Pagina-Principal.png" alt="Landing Page">
+<img src="./assets/Mockups/Sobre-Nosotros.png" alt="Sección sobre nosotros">
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
@@ -681,8 +680,62 @@ Wireframe es todo lo funcional de la pagina
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
 ![Web Aplication Wireflow](image.jpg)
 ### 4.4.2. Web Applications Mock-ups.
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+**Inicio de Sesión**<br>
+<img src="./assets/Mockups/Iniciar-Sesion.png" alt="Login Page">
+
+**Registro**<br>
+<img src="./assets/Mockups/Crear-Cuenta_Desplegable.png" alt="Sign Up Page">
+<img src="./assets/Mockups/Crear-Cuenta_Empresa.png" alt="Sign Up Empresa Page">
+<img src="./assets/Mockups/Crear-Cuenta_Dev.png" alt="Sign Up Dev Page">
+
+##### Empresas
+**HomePage**<br>
+<img src="./assets/Mockups/Inicio-Empresas.png" alt="Homepage Empresa">
+<img src="./assets/Mockups/Inicio-Empresas-Postulaciones.png" alt="Postulaciones">
+<img src="./assets/Mockups/Inicio-Empresas-Ver_Postulantes.png" alt="Ver Postulante">
+<img src="./assets/Mockups/Inicio-Empresas-New Project.png" alt="Nuevo Proyecto">
+
+**ProjectsPage**<br>
+<img src="./assets/Mockups/Añadir-Proyecto.png" alt="Adding new project">
+<img src="./assets/Mockups/Confirmar-Proyecto.png" alt="Confirm Adding New Project">
+
+**Deliverables Timeline**<br>
+<img src="./assets/Mockups/Cronograma-entregables.png" alt="Timeline Deliverables">
+<img src="./assets/Mockups/Cronograma-Crear_Entregable.png" alt="Create Deliverable">
+<img src="./assets/Mockups/Ver-Entregable.png" alt="View Deliverable">
+
+**Explore Devs**
+<img src="./assets/Mockups/Explorar-Desarrolladores.png" alt="Exploring Developers">
+<img src="./assets/Mockups/Ver-Perfil-dev.png" alt="See Profile">
+
+**Messages**<br>
+<img src="./assets/Mockups/Mensaje-Desarrollador.png" alt="Message to developer">
+
+##### Desarrolladores
+**HomePage**<br>
+<img src="./assets/Mockups/Inicio-Desarrolladores.png" alt="Homepage Dev">
+<img src="./assets/Mockups/Inicio-Desarrolladores-Postulacion.png" alt="Apply for a job">
+<img src="./assets/Mockups/Inicio-Desarrolladores-PostulacionActiva.png" alt="Active Job Application">
+
+**Browse Projects**<br>
+<img src="./assets/Mockups/Explorar-Proyectos.png" alt="Browse projects">
+<img src="./assets/Mockups/Ver_Perfil-Empresas.png" alt="See Company's profile">
+
+**Apply for Job**<br>
+<img src="./assets/Mockups/Postular-proyecto.png" alt="Application form">
+<img src="./assets/Mockups/Confirmar-postulación.png" alt="Confirm application">
+<img src="./assets/Mockups/Ver_Proyecto-trabajar.png" alt="Work with the company">
+
+**Deliverables Timeline**<br>
+<img src="./assets/Mockups/Cronograma_entregables-Dev.png" alt="Deliverables">
+<img src="./assets/Mockups/Subir-Entregable.png" alt="Upload deliverable">
+
+**Messages**<br>
+<img src="./assets/Mockups/Mensaje-Desarrollador.png" alt="Message for recruiter">
+
+**Support**<br>
+<img src="./assets/Mockups/Soporte.png" alt="Support Page">
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
 ![Web Aplication User Flow Diagram](image.jpg)
