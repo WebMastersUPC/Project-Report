@@ -624,12 +624,59 @@ la pagina donde te registras y ves info del web app (te manda al web app)
 Wireframe es todo lo funcional de la pagina
 ![Landing page Wireframe](image.jpg)
 ### 4.3.2. Landing Page Mock-up.
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+<img src="./assets/Wireframes/Pagina-Principal.png" alt="Landing Page">
+<img src="./assets/Wireframes/Sobre-Nosotros.png" alt="Sección sobre nosotros">
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
-![Web Aplication Wireframe](image.jpg)
+**Inicio de Sesión**
+<img src="./assets/Wireframes/Iniciar-Sesion.png" alt="Imagen de Inicio de Sesión">
+
+##### Vista de empresas
+**Inicio**
+<img src="./assets/Wireframes/Inicio-Empresas.png" alt="Inicio Empresas" style="width:60%">
+
+**Añadir Proyecto**
+<img src="./assets/Wireframes/Añadir-Proyecto.png" alt="Añadir Proyecto" style="width:60%">
+<img src="./assets/Wireframes/Confirmar-Proyecto.png" alt="Confirmar Proyecto" style="width:60%">
+
+**Cronograma de Entregables**
+<img src="./assets/Wireframes/Cronograma-de-entregables.png" alt="Cronograma de entregables" style="width:60%">
+<img src="./assets/Wireframes/Cronograma-de-entregables_entregable-n.png" alt="Crear entregable" style="width:60%">
+
+**Ver Entregable**
+<img src="./assets/Wireframes/Ver-Entregable.png" alt="Ver Entregable" style="width:60%">
+
+**Explorar Desarrolladores**
+<img src="./assets/Wireframes/Explorar-Desarrolladores.png" alt="Explorar" style="width:60%">
+<img src="./assets/Wireframes/Ver-perfil-desarrollador.png" alt="Ver perfil de dev" style="width:60%">
+
+**Mensajes**
+<img src="./assets/Wireframes/Mensaje-Empresa.png" alt="Mensajes" style="width:60%">
+
+##### Vista de Desarrolladores
+**Inicio**
+<img src="./assets/Wireframes/Inicio-Desarrolladores.png" alt="Inicio Devs" style="width:60%">
+
+**Explorar Proyectos**
+<img src="./assets/Wireframes/Explorar-Proyectos.png" alt="Explorar Proyectos" style="width:60%">
+<img src="./assets/Wireframes/Ver-perfil-Empresas.png" alt="Ver perfil de empresa" style="width:60%">
+
+**Postular a Proyecto**
+<img src="./assets/Wireframes/Postular-a-proyecto.png" alt="Postular a proyecto" style="width:60%">
+<img src="./assets/Wireframes/Confirmar-Proyecto_Desarrollador.png" alt="Confirmar proyecto" style="width:60%">
+
+**Trabajar en Proyecto**
+<img src="./assets/Wireframes/Ver-Proyecto-a-trabajar.png" alt="Trabajar en proyecto" style="width:60%">
+
+**Entregables**
+<img src="./assets/Wireframes/Cronograma-de-entregables_Dev.png" alt="Ver entregables" style="width:60%">
+<img src="./assets/Wireframes/Subir-Entregable.png" alt="Entregar entregable" style="width:60%">
+
+**Mensajes**
+<img src="./assets/Wireframes/Mensaje-Desarrollador.png" alt="Mensajes" style="width:60%">
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
 ![Web Aplication Wireflow](image.jpg)
