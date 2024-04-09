@@ -629,51 +629,51 @@ Wireframe es todo lo funcional de la pagina
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-**Inicio de Sesión**
+**Inicio de Sesión**<br>
 <img src="./assets/Wireframes/Iniciar-Sesion.png" alt="Imagen de Inicio de Sesión">
 
 ##### Vista de empresas
-**Inicio**
+**Inicio**<br>
 <img src="./assets/Wireframes/Inicio-Empresas.png" alt="Inicio Empresas" style="width:60%">
 
-**Añadir Proyecto**
+**Añadir Proyecto**<br>
 <img src="./assets/Wireframes/Añadir-Proyecto.png" alt="Añadir Proyecto" style="width:60%">
 <img src="./assets/Wireframes/Confirmar-Proyecto.png" alt="Confirmar Proyecto" style="width:60%">
 
-**Cronograma de Entregables**
+**Cronograma de Entregables**<br>
 <img src="./assets/Wireframes/Cronograma-de-entregables.png" alt="Cronograma de entregables" style="width:60%">
 <img src="./assets/Wireframes/Cronograma-de-entregables_entregable-n.png" alt="Crear entregable" style="width:60%">
 
-**Ver Entregable**
+**Ver Entregable**<br>
 <img src="./assets/Wireframes/Ver-Entregable.png" alt="Ver Entregable" style="width:60%">
 
-**Explorar Desarrolladores**
+**Explorar Desarrolladores**<br>
 <img src="./assets/Wireframes/Explorar-Desarrolladores.png" alt="Explorar" style="width:60%">
 <img src="./assets/Wireframes/Ver-perfil-desarrollador.png" alt="Ver perfil de dev" style="width:60%">
 
-**Mensajes**
+**Mensajes**<br>
 <img src="./assets/Wireframes/Mensaje-Empresa.png" alt="Mensajes" style="width:60%">
 
 ##### Vista de Desarrolladores
-**Inicio**
+**Inicio**<br>
 <img src="./assets/Wireframes/Inicio-Desarrolladores.png" alt="Inicio Devs" style="width:60%">
 
-**Explorar Proyectos**
+**Explorar Proyectos**<br>
 <img src="./assets/Wireframes/Explorar-Proyectos.png" alt="Explorar Proyectos" style="width:60%">
 <img src="./assets/Wireframes/Ver-perfil-Empresas.png" alt="Ver perfil de empresa" style="width:60%">
 
-**Postular a Proyecto**
+**Postular a Proyecto**<br>
 <img src="./assets/Wireframes/Postular-a-proyecto.png" alt="Postular a proyecto" style="width:60%">
 <img src="./assets/Wireframes/Confirmar-Proyecto_Desarrollador.png" alt="Confirmar proyecto" style="width:60%">
 
-**Trabajar en Proyecto**
+**Trabajar en Proyecto**<br>
 <img src="./assets/Wireframes/Ver-Proyecto-a-trabajar.png" alt="Trabajar en proyecto" style="width:60%">
 
-**Entregables**
+**Entregables**<br>
 <img src="./assets/Wireframes/Cronograma-de-entregables_Dev.png" alt="Ver entregables" style="width:60%">
 <img src="./assets/Wireframes/Subir-Entregable.png" alt="Entregar entregable" style="width:60%">
 
-**Mensajes**
+**Mensajes**<br>
 <img src="./assets/Wireframes/Mensaje-Desarrollador.png" alt="Mensajes" style="width:60%">
 
 
