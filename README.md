@@ -677,8 +677,10 @@ Basicamente aqui definimos como funciona la navegacion del web app
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+Wireflow es como se va a navegar por la pagina
+<img src="./assets/Diagrams/Wireflow Diagrams.jpg">
+[Wireflow Diagrams URL](https://miro.com/app/board/uXjVKan87nU=/?share_link_id=445049586231)
+
 ### 4.4.2. Web Applications Mock-ups.
 **Inicio de Sesión**<br>
 <img src="./assets/Mockups/Iniciar-Sesion.png" alt="Login Page">
@@ -737,10 +739,14 @@ Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y e
 <img src="./assets/Mockups/Soporte.png" alt="Support Page">
 
 ### 4.4.3. Web Applications User Flow Diagrams.
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
-![Web Aplication User Flow Diagram](image.jpg)
+un flow diagram de como el usuario utilizara la pagina
+<img src="./assets/Diagrams/Userflow Diagrams.jpg">
+[User Flow Diagrams URL](https://miro.com/app/board/uXjVKamKkbg=/?share_link_id=930804003541)
+
 ## 4.5. Web Applications Prototyping.
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+<img src="./assets/extras/PrototypingFigma.png">
+
+[URL del Prototipo (Hecho en figma)](https://www.figma.com/proto/5iojd3qBJ11W0yVLzEvabk/Mockup-Webmaster?type=design&node-id=1202-2&t=NFKzpbUoKtnoQftu-1&scaling=scale-down&page-id=2%3A325&starting-point-node-id=1202%3A2&show-proto-sidebar=1&mode=design)
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
