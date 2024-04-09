@@ -336,69 +336,198 @@ Resumen:
 {texto}
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
-**Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+**Segmento empresarios y emprendedores**  
 
-**Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+<img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/user-personas/user-persona-marcia-garcia-lopez.png?raw=true" alt="Segmento empresarios y emprendedores user persona">
+
+<br>
+
+**Segmento desarrolladores freelance**
+
+<img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/user-personas/user-persona-jorge-vargas-quispe.png?raw=true" alt="Segmento desarrolladores freelance user persona">
 
 ### 2.3.2. User Task Matrix.
-| --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
-| --- | ------ | ----------- | ------------ | ----------- | ---------- |
-| ID  | Titulo | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X| {Texto}| Alta        | Alta         | Media       | Baja       |
+A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td rowspan>Matriz de tareas</td>
+        <td colspan=4>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>Empresario y emprendedor Promedio</b> </br>Segmento Objetivo: Empresarios y emprendedores entre 18 años a más
+        </td>
+        <td colspan=2>
+            <b>Desarrollador freelance Promedio</b> </br>Segmento Objetivo: Desarrolladores freelance entre 18 años a más
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Gestionar su tiempo de manera eficiente
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mantenerse al día con las últimas tendencias y estilos
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Gestionar pedidos, ventas y envíos
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            Low
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Optimizar el sitio web para mejorar la experiencia de usuario	
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Buscar proyectos de desarrollo de software
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Resolver problemas técnicos y encontrar soluciones creativas
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Desarrollar soluciones de software
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            Low
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+</table>
+
 ### 2.3.3. User Journey Mapping.
-**Registration:**
-Why would they trust us?
-- s
-- s
-- s
-  
-**Onboarding and first use:**
-How can they feel successful?
-- s
-- s
-- s  
-  
-**Sharing:**
-Why would they invite others?
-- s
-- s
-- s
+A continuación se pueden observar los User Journey Mapping de los segmentos objetivos.
+<img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/user-journey-mapping/user-journey-map.png?raw=true" alt="">
 
 ### 2.3.4. Empathy Mapping.
-**Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
+A continuación se muestra los Empathy Mapping de los segmentos objetivos.
 
-**Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+**Segmento empresario y emprendedor:**
+<img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/empathy-mapping/empathy-map-marcia-garcia-lopez.png?raw=true" alt="Empresario y emprendedor empathy mapping">
+
+**Segmento desarrollador freelance:**
+<img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/empathy-mapping/empathy-map-jorge-vargas-quispe.png?raw=true" alt="Desarrollador freelance empathy mapping">
+
 ### 2.3.5. As-is Scenario Mapping.
+A continuación se precentan los As-Is Scenario de los segmentos objetivos.
 
-**Segmento 1**  
-Escenario: {escenario}
+**Segmento empresario y emprendedor:**
+<img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/as-is-scenario-mapping/as-is-escenario-mapping-empresarios-y-emprendimientos.jpg?raw=true" alt="Empresario y emprendedor as-is scenario mapping">
 
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+**Segmento desarrollador freelance:**
+<img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/as-is-scenario-mapping/as-is-escenario-mapping-desarrolladores-freelance.jpg?raw=true" alt="Desarrollador freelance as-is scenario mapping">
 
-**Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
+Enlace de Miro: https://miro.com/app/board/uXjVKWrUG98=/?share_link_id=990115567422
 
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
 ## 2.4. Ubiquitous Language.
-```
-Texto ubiquo: Definicion de este
-```
-
----
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
