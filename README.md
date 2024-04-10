@@ -779,7 +779,29 @@ Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, is
 Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
 extensiones tmbn? nose bn q quieren aca
 ### 5.1.2. Source Code Management.
-El gitjab donde tengamos el proyecto
+- Repositorios:
+    - Url del repositorio de GitHub para el Landing Page:
+    [URL del Landing Page](https://github.com/WebMastersUPC/FromZero-LandingPage)
+    - URL del repositorio de GitHub para los Acceptance Tests:
+    [URL de los Acceptance Tests](https://github.com/WebMastersUPC/acceptance-test)
+- Git Flow:
+    <img src="./assets/Product Implementation/gitflow.png">
+    Se aplicará GitFlow utilizando el artículo de Vincent Driessen, “A successful Git branching model”.
+    A continuación se dará una explicación de cada Branch que se utiliza en el modelo GitFlow.
+    - **MASTER**: Se utilizara esta rama como la versión estable y lista para producción. Todos los cambios que se fusionan aquí ya se consideran seguros y listos para implementar.
+    - **DEVELOP**: Esta rama es donde se trabajarán nuevas características y correcciones de errores. Es la rama principal de desarrollo.
+    - **FEATURE BRANCHES**: Son ramas de características para trabajar en nuevas funciones. Cada característica tendrá su propia rama, para que se trabaje de manera aislada, luego se fusiona con la rama DEVELOP.
+    - **RELEASE BRANCHES**: Son las ramas de lanzamiento que sirven para preparar una nueva versión del software. Se corrigen errores, pruebas finales y se prepara para fusionarse con MASTER y DEVELOP.
+    - **HOTFIX BRANCHES**: Son esenciales cuando ocurren errores en la producción. Se crean directamente desde MASTER, se solucionan los problemas y se fusionan los cambios en las ramas de MASTER y DEVELOP.
+- Commit Conventions    
+Para el formato de los COMMITS se aplicará lo siguiente:
+    ```<type>:<description>```
+Donde:
+
+    - TYPE: Solo pueden ser 3 tipos, sea BREAKING que se relaciona con X, luego FEAT que se relaciona con Y y por último FIX que se relaciona con Z.
+
+
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 Que usamos con css (en caso usemos software para SASS)
 supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
