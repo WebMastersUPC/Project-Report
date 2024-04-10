@@ -806,7 +806,21 @@ Donde:
 Que usamos con css (en caso usemos software para SASS)
 supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
 ### 5.1.4. Software Deployment Configuration.
-Configuraciones de donde y como deployeamos el proyecto
+En esta sección abordaremos el despliegue de nuestro Landing Page mediante el servicio de Netlify, a continuación se describirán los pasos a seguir
+
+- Nos situamos en el apartado principal como organización
+Como organización contamos con un repositorio del landing page, es la cual se estuvo desarrollando la implementación del código. Y este repositorio será el que se vincula a Netlify.
+    <img src="./assets/Product Implementation/step1.png">
+- Luego procedemos a iniciar sesión (o crear una cuenta) en https://www.netlify.com. Una vez ingresemos, buscaremos la sección de sitios y le daremos a la opcion de: “Add new site” y luego a “Import from Git”
+    <img src="./assets/Product Implementation/step2.png">
+- Una vez estemos seleccionando el proveedor de Git, escogeremos Github
+    <img src="./assets/Product Implementation/step3.png">
+- Una vez realizado esto, nos pedirá seleccionar la organización y luego el repositorio donde se realizará el deploy.
+    <img src="./assets/Product Implementation/step4.png">
+- Por último, seleccionaremos el repositorio e indicaremos cual es la branch donde se realizará el deploy y le damos al botón de Deploy.
+    <img src="./assets/Product Implementation/step5.png">
+    <img src="./assets/Product Implementation/step6.png">
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.X. Sprint n
 #### 5.2.X.1. Sprint Planning n.
