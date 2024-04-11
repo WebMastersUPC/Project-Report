@@ -804,8 +804,102 @@ Donde:
 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
+
+**HTML**: https://www.w3schools.com/html/html5_syntax.asp
+           
+**Index.html**
+
+Es la página por defecto dentro de los directorios de los servidores de cualquier sitio web que se carga siempre que se solicita un dominio y no se especifica el nombre de un archivo en específico. Y en la mayoría de los casos el propio servidor web es el que se encarga de buscar el archivo index.
+
+**Convenciones de HTML**:
+
+- Se debe declarar el tipo de documento en la primera línea: `<!DOCTYPE html>`
+- Se recomienda usar minúsculas en las etiquetas y estructuras: `<body>` `<p>`
+- Se recomienda cerrar todas las etiquetas y estructuras: `<p>This is a paragraph.</p>`
+- Se recomienda usar minúsculas en los atributos: `<a href="https://www.google.com/html/">`
+- Se recomienda usar comillas en los valores de atributo: `<table class="striped">`
+- Se debe especificar el alt, ancho y alto de las imágenes: `<img src="html5.gif" alt="HTML5" style="width:128px;height:128px">`
+- Se recomienda no usar espacios a la hora de usar el signo “=”: `<link rel="stylesheet" href="styles.css">`
+- Solo se debe usar líneas en blaco para facilitar la lectura de bloques de códigos grandes o lógicos.
+- No se debe omitir el elemento `<title>` ya que es vital para el motor de búsqueda, así como también se recomienda que el contenido de los `<title>` sea preciso y significativo: `<title>HTML Style Guide and Coding Conventions</title>`
+- No se recomienda omitir las etiquetas `<html>` y `<body>` ya que puede producir errores en navegadores antiguos y puede bloquear el software DOM y XML.
+- Se debe usar el atributo lang para declarar el idioma de la página web: `<html lang="en-us">`
+- Se debe utilizar el atributo meta para una interpretación adecuada e indexación correcta en los motores de búsqueda: `<meta charset="UTF-8">`
+
+**CSS**: https://google.github.io/styleguide/htmlcssguide.html
+           
+**Style.css**
+
+El estilo de cascada (CSS) se puede usar para estilos de texto, por ejemplo, cambiar de color y el tamaño de los encabezados, enlaces, entre otras cosas.
+
+**Convenciones de CSS**:
+
+- Utilizar el protocolo HTTPS para imágenes y otros archivos multimedia: `@import 'https://fonts.googleapis.com/css?family=Open+Sans'` ; Todo el código debe estar en minúsculas como nombres de elementos HTML, atributos, valores de atributo, entre otros: `color : #e5e5e5;`
+- El nombre de una clase debe transmitir lo que hace de la forma más breve posible ya que de esta manera se apoya la comprensibilidad y eficiencia del código: navegación {} . autor {} Se debe separar los nombres de las clases con un guión (“-”): navegación {} . autor {}
+- Se recomienda usar propiedades abreviadas cuando sea posible: `border - top : 0 ;`
+- Se recomienda usar la notación hexadecimal de 3 caracteres en colores que lo permitan: `color : #ebc;`
+- Se recomienda ordenar las declaraciones de propiedades y características en orden alfabético
+- Se debe usar un “;” después de cada declaración: `pantalla : bloque ;`
+- Se debe usar un espacio después de los “:” de cada nombre de la propiedad: `font - weight : bold ;`
+- Se debe usar un espacio entre el último sector y la llave “{ “ que comienza el bloque de declaración:. vídeo {.....}
+- Se debe usar las comillas simples (‘ ‘) para los atributos y valores de propiedad: `familia de fuentes : ' open sans' , arial , sans - serif ;`
+
+**Gherkin**: https://cucumber.io/docs/gherkin/reference/
+
+**`<usertStoryID>`.featrue** :
+
+En este archivo de formato feature estarán las historias de usuario como características de la aplicación. Asimismo se pueden encontrar los criterios de aceptación para las diversas situaciones.
+
+**Convenciones de Gherkin**:
+
+- Se utiliza la palabra Feature para introducir una descripción de alto nivel de una función de software y agruparlos en escenarios relacionados
+- Example o Scenario sirven para plantear una situación
+- Se utiliza Given para describir el contexto inicial, When para describir un evento y Then para describir un resultado esperado y And para adicionar información. Given,When,Then y And se usan para describir un escenario
+- El carácter “|” sirve para formar una tabla datos, las cuales son útiles para pasar una lista de valores a una definición de paso.
+
+**JavaScript**: https://google.github.io/styleguide/jsguide.html. 
+
+**Convenciones de JavaScript**:
+
+- Se debe usar Camelcase para los nombres de variables y funciones.
+- Se debe usar Pascalcase para los nombres de constructores o clases.
+- Se debe usar mayúsculas y guiones bajos para los nombres de la constantes, por ejemplo UPPER_CASE_WITH_UNDERSCORES..
+- Se debe usar let y const para definir las variables, var debe evitarse.
+- Para los comentarios de una sola línea debe usar “ // ” y para bloques de comentario se debe usar  “ /* */ ”.
+Se debe incluir un punto y coma al final de cada instrucción.
+
+**C#**: https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+
+**Convenciones de C#**:
+
+- Se debe usar PascalCase para los nombres de clases, tipos y métodos. Por ejemplo: MiClase, MiTipo, MiMetodo().
+- Se debe usar CamelCase  para los nombres de variables locales y parámetros.Por ejemplo:miVariable, miParametro.
+- Se debe usar mayúsculas para los nombres de variables constantes, por ejemplo: MI_CONSTANTE.
+- Para los comentarios de una sola línea debe usar “ // ” y para bloques de comentario se debe usar  “ /* */ ”.
+- Se debe especificar el modo acceso para las clases, métodos y propiedades como lo son:  public y  private
+- Se debe usar “_” para nombres de instancias privadas, por ejemplo: private int _miCampoPrivado.
+
+**ASP.NET Core** : https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines#coding-guidelines
+
+**Convenciones de ASP.NET Core**:
+
+- Se debe usar PascalCase para los nombres de clases  y métodos. Por ejemplo: MiClase, MiMetodo().
+- Se debe definir los atributos de ruta para definir las rutas del controlador. Por ejemplo: [Route("api/[controller]")].
+- Se debe usar verbos HTTP como prefijos en los métodos de acción, así como también se debe especificar el nombre de la acción, por ejemplo:GetUsuario(), PostUsuario().
+- Se debe emplear espaciado después de usar comas y operadores .
+
+**Vue.js** : https://v2.vuejs.org/v2/style-guide/?redirect=true
+
+**Convenciones de Vue.js**:
+
+- Se debe usar Pascalcase para los nombres de los componentes, por ejemplo: MiComponente.
+- Se debe usar kebab-case para los nombres de archivos y eventos personalizados en los componentes, por ejemplo: mi-componente.vue, mi-evento.
+- Se debe usar el prefijo “ v- “al usar directivas en las plantillas como: v-if, v-for .
+- Se debe usar camelCase para los nombres de método y propiedades en los componentes: miPropiedad, miMetodo.
+- Se debe evitar combinar v-if con v-for en un mismo scope.
+- Se recomienda usar prefijos para evitar conflictos con los nombres de clases de estilos
+
+
 ### 5.1.4. Software Deployment Configuration.
 En esta sección abordaremos el despliegue de nuestro Landing Page mediante el servicio de Netlify, a continuación se describirán los pasos a seguir
 
