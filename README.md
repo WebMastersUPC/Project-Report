@@ -583,8 +583,10 @@ Link: <https://miro.com/app/board/uXjVKdVpEPw=/?share_link_id=435283866563> <br>
 |E4-US107|Mayor visibilidad en postulación de proyectos|**Como** freelancer premium **quiero** tener prioridad en la lista de postulación **para** tener mayor probabilidad de ser aceptado en el desarrollo del proyecto|<p>**Escenario 1: Sistema de prioridad en las postulaciones**</p><p>**Dado que** el freelancer desea tener prioridad en la lista de postulación</p><p>**Cuando** pague su suscripción premium</p><p>**Entonces** tendrá prioridad en la lista de postulación de desarrollo del proyecto</p>|4|
 |E4-US108|Sistema de verificado para los freelancer|**Como** freelancer premium **quiero** el sistema de verificado **para** generar mayor fiabilidad a los empresarios|<p>**Escenario 1: Obtención del verificado**</p><p>**Dado que** soy un freelancer</p><p>**Cuando** haya pagado la suscripción premium</p><p>**Entonces** obtendre el verificado en mi cuenta</p>|4|
 ## 3.3. Impact Mapping.
-
-![Impact Mapping](image.jpg)
+**Empresarios**
+![impact mapping empresarios](https://imgur.com/i9m1E97.png)
+**Freelancers**
+![Impact mapping freelancers](https://imgur.com/t0XnZF9.png)
 
 ## 3.4. Product Backlog.
 
