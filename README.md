@@ -535,26 +535,18 @@ Enlace de Miro: https://miro.com/app/board/uXjVKWrUG98=/?share_link_id=990115567
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
-Segmento 1:
-
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
-
-Segmento 2:
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
+**Segmento 1: Empresarios**<br>
+Escenario principal: Adquirir freelancers para el desarrollo de proyecto de software <br>
+Fases: Búsqueda y selección de freelancers, Negociación y acuerdo, Colaboración y seguimiento, Evaluación y cierre.
+![to be scenario mapping empresario](https://imgur.com/W1RUBh9.png)
+Link: <https://miro.com/app/board/uXjVKdVpEPw=/?share_link_id=435283866563> <br>
+**Segmento 2: Freelancers**<br>
+Escenario Principal: Adquirir un proyecto cuyo desarrollo sea remunerado<br>
+Fases: Búsqueda de proyectos de software en la plataforma, Elección del proyecto y contacto con el jefe del proyecto, Desarrollo del proyecto, Entrega final del proyecto y pago del trabajo.
+![to be scenario mapping freelancer](https://imgur.com/fDDwhoS.png)
+Link: <https://miro.com/app/board/uXjVKdVpEPw=/?share_link_id=435283866563> <br>
 
 ## 3.2. User Stories.
-
-| HU0X | Historia Usuario | "Descripcion"  |
-|-|-|-|
-
 ## 3.3. Impact Mapping.
 
 ![Impact Mapping](image.jpg)
