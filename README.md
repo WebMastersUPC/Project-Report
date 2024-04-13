@@ -835,8 +835,53 @@ Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, is
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
+A continuación, daremos a conocer los productos de software que hemos utilizado para el desarrollo de nuestro proyecto.<br>
+**Project Management**				
+
+- **Whatsapp: [https://web.whatsapp.com/](https://web.whatsapp.com/)**<br>
+  La plataforma de Whatsapp se empleó para realizar la organización de tareas para el equipo, así como también para poder ayudarnos entre nosotros ante cualquier duda que se tuviera en el trabajo.
+- **Discord: [https://discord.com/](https://discord.com/)**<br>
+  La plataforma Discord se empleó para poder realizar las reuniones de forma virtual, en dichas reuniones dábamos un reporte sobre el avance de las tareas que se nos habían asignado así como también se usó para la elaboración de idea de negocio.
+
+**Product UX/UI Design**
+
+- **Miro: [https://www.miro.com](https://www.miro.com)**<br>
+  La plataforma Miro se empleó para el desarrollo del Lean ux canvas, Análisis de competidores,  As-is Scenario mapping, To-be Scenery mapping
+- **Uxpresia: [https://uxpressia.com/](https://uxpressia.com/)**<br>
+  La plataforma Uxpresia se empleó para la elaboración del User Persona, Empathy maps, Journey Maps e Impact maps.
+- **Figma: [https://www.figma.com/](https://www.figma.com/)**<br>
+  La plataforma figma se empleó para el desarrollo wireframes y mock up del landing page, y para los wireframes, mock up y prototyping del web applications 
+
+**Software Development**
+
+- **Landing Page**<br>
+  Para el desarrollo de nuestro landing page se usará  HTML5, CSS y Javascript.
+- **Frontend Web Application**<br>
+  Se ha utilizado a Vue como framework de Javascript. En adición, para la implementación de componentes reutilizables y accesibles se usó PrimeVue como biblioteca de componentes UI. 
+
+**Software Testing**<br>
+Para la realización de pruebas de testeo de software  que se ha utilizado para el landing page y  la aplicación web hemos empleado las herramientas de desarrollador de los siguientes navegadores web: Google Chrome (<https://www.google.com/chrome/>), Microsoft Edge (<https://www.microsoft.com/en-us/edge>) y Mozilla Firefox (<https://www.mozilla.org/en-US/firefox/browsers/>). Asimismo, dichos navegadores cuentan con aplicaciones desktop y móviles las cuales son totalmente gratuitas y por consiguientes accesible para todas las personas.
+
+**IDE's de desarrollo**
+
+- **Webstorm: [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/)**<br>
+  Webstorm es un IDE enfocado al desarrollo de frontend y posee una gran cantidad de herramientas que pueden agilizar el proceso de desarrollo. Para poder usar Webstorm es necesario tener una licencia
+
+**Software Deployment**
+
+- **Netlify: [https://www.netlify.com/](https://www.netlify.com/)**<br>
+  La plataforma Netlify se empleó para el deployment del landing page, para ello fue necesario vincular el repositorio de github con Netlify. De esta manera, Netlify se encargará automáticamente del deploy de la página.
+
+**Software Documentation**
+
+- **Google Drive: [https://www.google.com/intl/es-419_pe/drive/](https://www.google.com/intl/es-419_pe/drive/)**<br>
+   La plataforma Google Drive se empleó para la creación de archivos de documento (Google Docs)  y presentación. Se optó por esta plataforma ya que permite el desarrollo colaborativo.
+- **Github: https: [https://github.com/](https://github.com/)**<br>
+    La plataforma Github se empleó para la creación de documentación de nuestro proyecto así como del landing page. Se optó por esta plataforma porque permite el desarrollo colaborativo entre desarrolladores. La evidencia de commits demuestra la participación que ha tenido cada uno de los integrantes en el desarrollo del proyecto.
+- **Structurizr: [https://structurizr.com/](https://structurizr.com/)**<br>
+    La plataforma Structurizr se empleó para la creación de los diagramas C4 de nuestro proyecto, para la elaboración de los diagramas se necesita emplear una sintaxis similar a un lenguaje de programación.
+- **Vertabelo: [https://vertabelo.com/](https://vertabelo.com/)**<br>
+    La plataforma Vertabelo es una aplicación web colaborativa la cual ha sido empleada para la elaboración del diseño de base de datos.
 ### 5.1.2. Source Code Management.
 - Repositorios:
     - Url del repositorio de GitHub para el Landing Page:
