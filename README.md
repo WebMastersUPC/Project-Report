@@ -37,8 +37,11 @@
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
-| Ramirez Contreras, Zaid Valentino <img src="./assets/members-profile/Zado.png" alt="Imagen del compañero" style="width:60%"> | U202218472   |Ingenieria de software| C++, python, HTML5, CSS3, Javascript, SQL, persistente y amigable  |
-| Velasquez Pizarro Jair <img src="./assets/members-profile/Jair.jpeg" alt="Imagen del compañero" style="width:60%"> | U202218114   |Ingenieria de software| C++, Java, HTML5, CSS3, Tailwind CSS Javascript, SQL. Detallista y proactivo.  |
+| Ramirez Contreras, Zaid Valentino <img src="./assets/members-profile/Zado.png" alt="Zaid Ramirez" style="width:60%"> | U202218472   |Ingeniería de software| C++, python, HTML5, CSS3, Javascript, SQL, persistente y amigable  |
+| Velasquez Pizarro, Jair <img src="./assets/members-profile/Jair.jpeg" alt="Jair Velasquez" style="width:60%"> | U202218114   |Ingeniería de software| C++, Java, HTML5, CSS3, Tailwind CSS Javascript, SQL. Detallista y proactivo.  |
+| Alvarez Araguache, Samira Jetzabel <img src="./assets/members-profile/Samira.jpeg" alt="Samira Alvarez" style="width:60%"> | U20211A046   |Ingeniería de software| C++, HTML5, CSS3, Javascript, SQL. Comunicativa y dinámica  |
+
+
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
