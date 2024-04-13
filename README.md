@@ -587,12 +587,41 @@ Link: <https://miro.com/app/board/uXjVKdVpEPw=/?share_link_id=435283866563> <br>
 ![impact mapping empresarios](https://imgur.com/i9m1E97.png)
 **Freelancers**
 ![Impact mapping freelancers](https://imgur.com/t0XnZF9.png)
-
 ## 3.4. Product Backlog.
+![Product Backlog Trello](https://imgur.com/b4uis4p.png)
+**Link de Trello: [https://trello.com/b/CUnuKXxm/webmasters](https://trello.com/b/CUnuKXxm/webmasters)**
+|# Orden|User story ID|Título|Descripción|Story Points (1 / 2 / 3 / 5 / 8)|
+| :- | :- | :- | :- | :- |
+|1|E1-US101|Barra de navegación en landing page|**Como** usuario **quiero** una barra de navegación de landing page **para** tener accesos directos a la información de la aplicación |1|
+|2|E1-US102|Sección hero de landing page|**Como** usuario **quiero** visualizar una sección hero en el landing page **para** tener una idea sobre lo que ofrece la aplicación|2|
+|3|E1-US103|Sección de producto de landing page|**Como** usuario **quiero** visualizar características de la aplicación en el landing page **para** saber sobre las características que ofrece la aplicación|2|
+|4|E1-US104|Sección de testimonios en landing page|**Como** usuario **quiero** visualizar testimonios de usuarios que utilizaron la aplicación **para** saber sobre experiencias reales de usuarios|2|
+|5|E1-US105|Sección de planes en landing page|**Como** usuario **quiero** visualizar los planes que ofrece la aplicación **para** considerar adquirir la membresía|2|
+|6|E1-US106|Sección de footer a la aplicación en landing page|**Como** usuario **quiero** visualizar la sección de footer **para** acceder a links de la página|2|
+|7|E1-US107|Sección para conocer al equipo de trabajo|**Como** posible cliente, **quiero** conocer más sobre el equipo que desarrolla la aplicación **para** adquirir confianza de dicho equipo de trabajo.|2|
+|8|E1-US108|Atención al cliente|**Como** usuario **quiero** el servicio de atención al cliente **para** poder reportar fallas en el aplicativo o incumplimiento entre empresario y freelancer|3|
+|9|E2-US101|Registro e inicio de sesión|**Como** usuario **quiero** tener en la app un apartado de inicio de sesión **para** que se guarde mi información|4|
+|10|E2-US102|Formulario de login|**Como** usuario de la página web, **quiero** ingresar con mi cuenta con la cual me registre **para** usar las herramientas a mi disposición.|3|
+|11|E2-US103|Recuperación de contraseñas|**Como** usuario **quiero** que la aplicación tenga un apartado que me permita recuperar mi contraseña en caso me olvide  **para** ingresar a mi cuenta de usuario|3|
+|12|E3-US101|Pantalla de inicio del empresario|**Como** empresario **quiero** visualizar todos los proyectos publicados **para** poder ver fácilmente el progreso de los mismos|3|
+|13|E4-US101|Pantalla de inicio del freelancer|**Como** freelancer **quiero** visualizar todos los proyectos que debo de desarrollar  **para** poder tener facilidades en el  envío de los avances |3|
+|14|E3-US102|Publicar una solicitud de proyecto de desarrollo web|**Como** empresario que necesita una página web, **quiero** utilizar la aplicación para publicar una solicitud de proyecto de desarrollo web **para** que los freelancer  interesados puedan contactarnos.|3|
+|15|E4-US102|Postularse para Proyectos de Desarrollo Web|**Como** freelancer, **quiero** utilizar la aplicación **para** buscar proyectos de desarrollo web publicados por empresas y postularse a aquellos que se ajusten a mis habilidades y disponibilidad.|3|
+|16|E3-US103|Sistema de postulación|**Como** empresario **quiero** un sistema de postulación **para** poder rechazar o aceptar a los  freelancer|5|
+|17|E3-US104|Sistema de calificacion de desarrolladores|**Como** empresario **quiero** un sistema de calificación **para** conocer la fiabilidad de los desarrolladores web.|5|
+|18|E3-US105|Visualizar repositorio de un desarrollador |**Como** empresario premium **quiero** visualizar una lista con los trabajos realizados por un desarrollador **para** poder tener una mayor confianza al momento de necesitar contactar con alguno|3|
+|19|E4-US103|Sistema de calificación de pago de los proyectos|**Como** freelancer **quiero** que la aplicación organice los proyecto en función del más pagado **para** escoger más rápido el proyecto de software|2|
+|20|E3-US106|Sistema de entregables|**Como** empresario **quiero** un sistema de entregables **para** establecer una fecha límite a la creación de mi proyecto|5|
+|21|E4-US104|Sistema de notificaciones para la entrega de avance de la página web|**Como** freelancer **quiero** que la aplicación me notifique las fechas de entrega de los avances  **para** poder cumplir el proyecto en las fechas establecidas |5|
+|22|E3-US107|Sistema de reclutamiento de freelancers|**Como** empresario **quiero** un sistema de reclutamiento **para** poder enviar solicitud de desarrollo de mi proyecto a los freelancer|5|
+|23|E4-US105|Sistema de postulación de empresarios|**Como** freelancer **quiero** un sistema de reclutamiento **para** poder aceptar o rechazar las invitaciones de desarrollo de los empresarios|3|
+|24|E3-US108|Visualizar lista de desarrolladores por calificación|<p>**Como** empresario **quiero** visualizar una lista con los desarrolladores mejor calificados **para** ahorrar tiempo de contacto y contratación</p>|3|
+|25|E4-US106|Sistema de notificaciones de proyectos recomendados|**Como** freelancer premium **quiero** que la aplicación me notifique proyectos de acuerdo a mis habilidades **para** obtener más rápido un proyecto a desarrollar|5|
+|26|E3-US109|Mayor visibilidad de proyecto|**Como** empresario premium **quiero** mayor visibilidad en mis proyectos **para** conseguir más rápido freelancers al proyecto|3|
+|27|E4-US107|Mayor visibilidad en postulación de proyectos|**Como** freelancer premium **quiero** tener prioridad en la lista de postulación **para** tener mayor probabilidad de ser aceptado en el desarrollo del proyecto|3|
+|28|E3-US110|Sistema de verificado para el empresario|**Como** empresario premium **quiero** el sistema de verificado **para** dar mayor fiabilidad y confianza a los freelancer|3|
+|29|E4-US108|Sistema de verificado para los freelancer|**Como** freelancer premium **quiero** el sistema de verificado **para** generar mayor fiabilidad a los empresarios|3|
 
-| #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
-| ------ | ------------- | ----- | ---------- | ------------------------ |
-| 1      | HU01          | titulo his | desc  | 5                        |
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
