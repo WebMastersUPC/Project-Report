@@ -23,9 +23,6 @@
 # Project Report Collaboration Insights
 [URL del repositorio](https://github.com/WebMastersUPC/FromZero-LandingPage.git)
 
-(Imagenes de los commits cada entrega)
-
-
 # Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
