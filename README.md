@@ -1524,6 +1524,8 @@ formato
 ```
 # Anexos
 
-datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
+**Landing page deployment**: https://sitewebmasters.netlify.app
 
-![Imagen de algo no nuestro lol](image.jpg)
+**Web Application Prototyping**: [Link a figma](https://www.figma.com/proto/5iojd3qBJ11W0yVLzEvabk/Mockup-Webmaster?type=design&node-id=1202-2&t=NFKzpbUoKtnoQftu-1&scaling=scale-down&page-id=2%3A325&starting-point-node-id=1202%3A2&show-proto-sidebar=1&mode=design)
+
+**Repositorio en Github**: https://github.com/WebMastersUPC
