@@ -453,15 +453,24 @@ Matías Vázquez, de 20 años, residente en Lima, Perú, es el fundador de "Fash
 
 **Entrevista 1** 
 
-  - Entrevistador: 
-  - Entrevistado: 
-  - Edad:
-  - Residencia:
-  - Enlace del video: 
+  - Entrevistador: Samira Jetzabel Alvarez Araguache 
+  - Entrevistado: Alessandro Medina Agnini
+  - Edad: 20 años
+  - Residencia: Lima - San Miguel
+  - Enlace del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/EWWgW2c4bpBAv8OynwXt7U0BYi6t_W0BXMEkAjINtI4rkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8ZQyv6
 
-<img src="" alt="" style="width:60%">
+<img src="./assets/interviews/Alessandro.PNG" alt="Entrevista 1 segmento desarrolladores freelance" style="width:60% align-center">
 	
 Resumen: 
+<br>
+Se entrevistó a Alessandro Medina, un joven de 20 años estudiante de Ciencias de la Computación quien se dedica al trabajo freelance. Alessandro se especializa en el desarrollo web como Front-End, con el uso de HTML5, CSS3, JS, React y Angular. utilizando tecnologías como HTML5, CSS3, JS, React y Angular. Él ha participado en diversos proyectos, principalmente en la creación de landing pages para emprendedores y pequeñas empresas.
+
+Inicialmente,enfrentó dificultades para encontrar proyectos debido a la falta de un portafolio que respaldara sus habilidades y profesionalismo. Asímismo, antes de elegir un proyecto investiga al cliente para evaluar su reputación y toma en cuenta plazo de entrega del trabajo. Una vez aceptado un proyecto, Alessandro comenta que suele  mantener una comunicación activa con el empleador a través de reuniones periódicas para recibir retroalimentación. 
+
+
+Menciona que está familiarizado con las plataformas de contratación de desarrolladores freelance y destaca la importancia de personalizar su perfil para resaltar sus habilidades y tener un portafolio asociado. Además, espera encontrar sistemas de pago seguros en estas plataformas. Alessandro menciona que selecciona las plataformas basándose en su reputación y en la facilidad para encontrar proyectos e los que trabajar. Mientras tanto, espera que una plataforma  le brinde la oportunidad de conectarse con un público más amplio. Por otro lado, sus preocupaciones a esto gira entorno a la competencia con freelancers establecidos.
+
+Finalmente, consideraría usar una plataforma conecte con empresas que buscan desarrolladores freelance según el modelo de cobro, ya sea por suscripción o por comisiones.
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
@@ -646,6 +655,8 @@ A continuación se muestra los Empathy Mapping de los segmentos objetivos.
 
 **Segmento empresario y emprendedor:**
 <img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/empathy-mapping/empathy-map-marcia-garcia-lopez.png?raw=true" alt="Empresario y emprendedor empathy mapping">
+
+<br>
 
 **Segmento desarrollador freelance:**
 <img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/empathy-mapping/empathy-map-jorge-vargas-quispe.png?raw=true" alt="Desarrollador freelance empathy mapping">
