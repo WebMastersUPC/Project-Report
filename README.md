@@ -1396,12 +1396,44 @@ Ocupación: _____
 [URL del video about the team](https://www.example.com)
 
 # Bibliografía
+```
 qoomon. (2021, 11 enero). Conventional Commit Messages. Gist.
-Recuperado 20 de junio de 2022, de [LINK](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
+   Recuperado 20 de junio de 2022, de https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
+```
 
+```
 LeaseIN. (2018). Importancia de contar con un equipo de soporte
-técnico. [Entrada en blog]. Recuperado de:
-[LINK](https://leasein.pe/blog/branding-empresarial-importanciasoporte-tecnico/)
+   técnico. [Entrada en blog]. Recuperado de:
+   https://leasein.pe/blog/branding-empresarial-importanciasoporte-tecnico/
+```
+
+``` 
+Gothelf, J., & Seiden, J. (2013). 
+  Lean UX: Applying lean principles to improve user experience. O'Reilly Media. 
+  https://books.google.es/books?hl=es&lr=&id=wLw6EAAAQBAJ&oi=fnd&pg=PT37&dq=Lean+ux&ots=QuMNDmvouC&sig=36AUu53YuLt_4OXBjwdg9RSLr_4#v=onepage&q=Lean%20ux&f=false
+```
+```
+Cohn, M. (2004). User stories applied: For agile software development. Addison-Wesley. 
+  https://books.google.es/books?hl=es&lr=&id=SvIwuX4SVigC&oi=fnd&pg=PR13&dq=Cohn,+M.+(2004).+User+stories+applied:+For+agile+software+development.+Addison-Wesley.&ots=VsSb68rUSO&sig=zVJsoYVopnqITrtBXPAIzePb96w#v=onepage&q=Cohn%2C%20M.%20(2004).%20User%20stories%20applied%3A%20For%20agile%20software%20development.%20Addison-Wesley.&f=false
+```
+
+```
+Duckett, J. (2014). 
+  HTML and CSS: Design and build websites. John Wiley & Sons. https://wtf.tw/ref/duckett.pdf
+```
+
+```
+Ambler, S. W. (2004). The object primer: Agile model-driven development with UML 2.0. 
+  Cambridge University Press. 
+  https://www.researchgate.net/publication/235616285_The_object_primer_agile_modeling-driven_development_with_UML_20
+```
+
+```
+Teorey, T. J., Lightstone, S. S., & Nadeau, T. (2011). 
+  Database modeling and design: Logical design (5th ed.). Morgan Kaufmann. 
+  https://eketab2.wordpress.com/wp-content/uploads/2007/09/databasemodelinganddesignlogical-design.pdf
+```
+
 ``` 
 formato
 
