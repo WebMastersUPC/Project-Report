@@ -421,7 +421,20 @@ Webmasters  es una plataforma diseñada para ayudar a las empresas y emprendimie
 <img src="./assets/interviews/Maverick.png" alt="Imagen de entrevista1" style="width:60% align-center">
 	
 Resumen: 
-El entrevistado, Maverick Mendoza, es un estudiante de Ingenieria en Sistemas y dueño del emprendimiento EnchiTacos. Menciona que actualmente la empresa solo maneja Facebook e Instagram con anuncios, por lo que cree que la adquisición de una página web mejoraría la rentabilidad del negocio. También menciona que la parte más importante al implementar una página web es la parte del diseño y la arquitectura. Menciona que le sería conveniente el tener a disposición una plataforma que le facilite el contacto con 
+El entrevistado, Maverick Mendoza, es un estudiante de Ingenieria en Sistemas y dueño del emprendimiento EnchiTacos. Menciona que actualmente la empresa solo maneja Facebook e Instagram con anuncios, por lo que cree que la adquisición de una página web mejoraría la rentabilidad del negocio. También menciona que la parte más importante al implementar una página web es la parte del diseño y la arquitectura. Menciona que le sería conveniente el tener a disposición una plataforma que le facilite el contacto con desarrolladores freelancer para la creación de su página web. Además dice que estaría dispuesto a pagar por el uso de la plataforma si esto significa que podrá elegir al desarrollador que mejor le convenga. 
+
+**Entrevista 2**
+
+  - Entrevistador: Jair Velasquez Pizarro
+  - Entrevistado: Alexandra Ñañez
+  - Edad: 21
+  - Residencia: Lima - Comas
+  - Enlace del video: https://youtu.be/mPzigiarmsM
+
+<img src="./assets/interviews/Alexandra.png" alt="Imagen de entrevista1" style="width:60% align-center">
+	
+Resumen: 
+Mi entrevistada, Alexandra Ñañez, es estudiante de la carrera de Administración y Marketing, y es asesora de Marketing en un negocio que brinda el servicio de juegos infantiles, estimulación temprana y alquiler de local para fiestas infantiles. Menciona que actualmente la empresa solo maneja Facebook e Instagram con anuncios, por lo que cree que la adquisición de una página web mejoraría la rentabilidad del negocio. También menciona que la parte más importante al implementar una página web es la parte del diseño y la arquitectura. También recalca que lo principal al momento de contratar un programador para un producto de software es la seguridad, comunicación y pruebas de trabajos anteriores para comprender si su forma de diseño se asemeja a la empresa.
 
 
 **Segmento desarrolladores freelance**  
