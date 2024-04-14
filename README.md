@@ -436,7 +436,7 @@ El entrevistado, Maverick Mendoza, es un estudiante de Ingenieria en Sistemas y 
 Resumen: 
 Mi entrevistada, Alexandra Ñañez, es estudiante de la carrera de Administración y Marketing, y es asesora de Marketing en un negocio que brinda el servicio de juegos infantiles, estimulación temprana y alquiler de local para fiestas infantiles. Menciona que actualmente la empresa solo maneja Facebook e Instagram con anuncios, por lo que cree que la adquisición de una página web mejoraría la rentabilidad del negocio. También menciona que la parte más importante al implementar una página web es la parte del diseño y la arquitectura. También recalca que lo principal al momento de contratar un programador para un producto de software es la seguridad, comunicación y pruebas de trabajos anteriores para comprender si su forma de diseño se asemeja a la empresa.
 
-**Entrevista 2**
+**Entrevista 3**
 
   - Entrevistador: Joseph Ulysses Llacchua Peralta
   - Entrevistado: Mathias Leonardo Vasquez Requejo
@@ -444,7 +444,7 @@ Mi entrevistada, Alexandra Ñañez, es estudiante de la carrera de Administraci�
   - Residencia: Lima - San Isidro
   - Enlace del video: https://youtu.be/QzQxQPJS9TA
 
-<img src="./assets/interviews/Matias.jpeg" alt="Imagen de entrevista2" style="width:60% align-center">
+<img src="./assets/interviews/Matias.jpeg" alt="Imagen de entrevista2" style="width:50% align-center">
 	
 Resumen: 
 Matías Vázquez, de 20 años, residente en Lima, Perú, es el fundador de "FashionWave", un emprendimiento de moda con presencia digital en redes sociales como Instagram y Facebook. Reconoce la importancia de tener presencia en internet para llegar a un público amplio y mantenerse actualizado. Considera desarrollar un sitio web propio para mejorar la experiencia de compra. Está dispuesto a trabajar con desarrolladores freelance y consideraría usar una plataforma para encontrar talento especializado. Sus preocupaciones incluyen la calidad del trabajo y la seguridad de la información. Estaría dispuesto a pagar por una plataforma que cumpla con sus necesidades.
