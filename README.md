@@ -274,7 +274,7 @@ Plataforma en línea especializada en el aprendizaje y la tutoría dentro del cm
   </tr>
   <tr>
     <td colspan="2">Precios & Costos</td>
-    <td colspan="1" valign="top"></td>
+    <td colspan="1" valign="top">Membresías para freelancers de S/15 ($4 dólares). Membresía para empresas de S/50 ($14 dólares). Tarifa del 15% a los desarrolladores freelance por proyecto.</td>
     <td colspan="1" valign="top">Membresías para los freelancers de $4.99 dólares por el plan básico, $8.95 dólares por el Plus, $49.00 dólares por el Profesional y $99.00 dólares por el Premium mensualmente. Tarifa del 3% o $3.00 dólares por proyectos por precio fijo para los empleadores. 3% para proyectos por hora. Tarifa del 10% o $5.00 dólares por proyectos por precio fijo para los freelancers. 10% para proyectos por hora.</td>
     <td colspan="1" valign="top">$20 dólares mensuales por una membresía para freelancers. Tarifa del 5% de los pagos realizados a los trabajadores independientes. $0,15 dólares por cada “connect” que permite publicitar y dar  más visibilidad a los trabajos de los freelancers.</td>
     <td colspan="1" valign="top">Tarifa variante dependiendo de ciertos factores.</td>
