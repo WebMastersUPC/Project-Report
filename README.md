@@ -446,7 +446,7 @@ Mi entrevistada, Alexandra Ñañez, es estudiante de la carrera de Administraci�
   - Entrevistado: Mathias Leonardo Vasquez Requejo
   - Edad: 20
   - Residencia: Lima - San Isidro
-  - Enlace del video: https://youtu.be/QzQxQPJS9TA
+  - Enlace del video: [https://upcedupe-my.sharepoint.com](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/Eetr9ewHf85HqMa4X9g8o40B5Dyr6Ou6Mmm0dJMRdkMWWw?e=nK5z6r&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <img src="./assets/interviews/Matias.jpeg" alt="Imagen de entrevista2" style="width:50% align-center">
 	
