@@ -34,37 +34,140 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+
+Somos una startup conocida como From Zero, la cual se estableció en 2024 y está compuesta por cinco jóvenes universitarios de la Universidad Peruana de Ciencias Aplicadas. La fundación de esta startup surge de la creciente demanda de las empresas por contar con soluciones digitales de calidad y la necesidad de los desarrolladores freelance en busca de proyectos para desarrollar y generar ingresos.
+Nuestro enfoque se centra en proporcionar una plataforma web intuitiva y fácil de usar que permita a las empresas publicar proyectos de software y a los desarrolladores freelance postularse para trabajar en ellos. Buscamos satisfacer las necesidades tanto de las empresas, que requieren soluciones digitales a medida, como de los desarrolladores freelance, que buscan oportunidades para aplicar sus conocimientos y obtener ingresos.
+
+<ins>**Misión:**</ins>
+
+Nuestra misión es facilitar la conexión entre empresas en busca de soluciones digitales y desarrolladores freelance en busca de oportunidades de trabajo. Nos comprometemos a proporcionar una plataforma transparente y eficiente que promueva la colaboración, la calidad y la innovación en cada proyecto. Estamos dedicados a contribuir al crecimiento y éxito tanto de nuestros usuarios como de nuestra propia empresa.
+
+<ins>**Visión:**</ins>
+
+ Nuestra visión es convertirnos en el principal recurso para empresas que buscan soluciones digitales y desarrolladores freelance en busca de oportunidades de trabajo en el campo del desarrollo de software. Nos esforzamos por ser reconocidos como líderes en innovación, calidad y eficiencia, siendo la primera opción tanto para empresas en búsqueda de soluciones digitales como para desarrolladores en busca de proyectos emocionantes y lucrativos. 
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
 | Ramirez Contreras, Zaid Valentino <img src="./assets/members-profile/Zado.png" alt="Zaid Ramirez" style="width:60%"> | U202218472   |Ingeniería de software| C++, python, HTML5, CSS3, Javascript, SQL, persistente y amigable  |
 | Velasquez Pizarro, Jair <img src="./assets/members-profile/Jair.jpeg" alt="Jair Velasquez" style="width:60%"> | U202218114   |Ingeniería de software| C++, Java, HTML5, CSS3, Tailwind CSS Javascript, SQL. Detallista y proactivo.  |
 | Alvarez Araguache, Samira Jetzabel <img src="./assets/members-profile/Samira.jpeg" alt="Samira Alvarez" style="width:60%"> | U20211A046   |Ingeniería de software| C++, HTML5, CSS3, Javascript, SQL. Comunicativa y dinámica  |
+|Llacchua Peralta, Joseph <img src="./assets/members-profile/Joseph.jpeg" alt="Joseph Llacchua" style="width:70%"> | U202317002   |Ingeniería de software| C++, Pyhon, CSS , Html ,Javascript, SQL. Sociable y perseverante  |
 
-
-
-## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+
+Para entender completamente la solución propuesta, es fundamental analizar a fondo la naturaleza del problema que se va a abordar. Esto implica detallar los aspectos esenciales que nuestra solución debe cubrir y establecer metas y restricciones que nos guíen en su definición. Para facilitar este proceso, empleamos herramientas reconocidas como "Las 5W y 2H" y el "Proceso Lean UX". Estas herramientas nos ayudan a realizar un análisis detallado y a enfocarnos en los aspectos clave para desarrollar una solución efectiva y centrada en el usuario.
+
+**What/Qué:** El contexto que enfrentan las microempresas peruanas después del COVID-19 fue determinante, llevando a muchas de ellas a iniciar un proceso de transformación digital. Según una investigación de Microsoft (2023), el 95% de las Pymes peruanas aceleraron este proceso. Sin embargo, según Movistar Empresas (2023), el 73% de las Pymes señala enfrentar dificultades en la digitalización de sus negocios.
+
+**Why/Por qué:** Existen varios factores que contribuyen a estas dificultades en la digitalización de los negocios, principalmente el desconocimiento de las herramientas digitales necesarias.
+
+**Who/Quién:** Esta problemática afecta a cualquier microempresario o emprendedor independiente mayor de 18 años, especialmente a aquellos con poco conocimiento de las herramientas digitales necesarias para tener una página web propia y virtualizar su empresa. Además, también impacta a los desarrolladores freelance que buscan oportunidades de trabajo en proyectos de software variados y emocionantes.
+
+**When/Cuándo:** Esta problemática afecta a los microempresarios todos los días, ya que al ser un negocio, no pueden detener su producción, lo que podría aumentar sus deudas. Además, considerando el 95% de aceleración en el proceso de transformación digital para las empresas.
+
+**Where/Dónde:** El problema está presente en cualquier lugar, ya que en la actualidad estamos rodeados de tecnología. Esto afecta a las Mypes que no están involucradas en el alcance que se puede lograr con herramientas digitales y el retraso que esto puede causar al no darles uso.
+
+**How/Cómo:** El problema se presenta en la búsqueda de los microempresarios de formas para mejorar sus ventas recurriendo a herramientas digitales. Respecto a las oportunidades que están brindan, se menciona que el 43% de líderes mencionan que la tecnología lleva a aperturar a nuevos mercados y clientes (Microsoft, 2023).
+
+**How much/Cuánto:** Es importante considerar que el 74.4% del total de empresas en el Perú son microempresas (CIEN, 2023), y que más del 90% de estas empresas consideran que la transformación digital impacta positivamente en su negocio. En cuanto a la inversión en esta transformación, se estima que el 50% de estas empresas asignan menos del 5% de su presupuesto para gastos tecnológicos (EY, 2021).
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
-#### 1.2.2.2. Lean UX Assumptions.
-|Business Assumptions|User Assumptions|
-|-|-|
-|1. - 12. |1. - 6.|
-#### 1.2.2.3. Lean UX Hypothesis Statements.
-Texto
-#### 1.2.2.4. Lean UX Canvas.
-(imagen con texto)
-## 1.3. Segmentos objetivo.
-| | Segmento 1 | Segmento 2  |
-| - | - |-|
-| Variables                 |  |  |
-| Geográfica                |  |  |
-| Demográfica               |  |  |
-| Psicológica               |  |  |
-| Función de comportamiento |  |  |
+#### Segmento objetivo: Microempresas y emprendimientos
 
----
+Hemos observado que muchas microempresas y emprendimientos en Perú enfrentan dificultades para establecer una presencia en línea debido a la falta de conocimientos técnicos para desarrollar un sitio web. Esta carencia se agrava por las deficiencias en la educación digital en el país.
+
+**Problema:**
+¿Cómo podríamos crear una alternativa accesible y profesional para el desarrollo de páginas web dirigidas a propietarios de microempresas y emprendimientos que están en medio de un proceso de crecimiento desafiante?
+
+#### Segmento objetivo: Desarrolladores freelance
+
+Hemos observado que existe una comunidad activa de desarrolladores freelance en Perú que buscan constantemente oportunidades de trabajo en proyectos de desarrollo web. Estos desarrolladores valoran la flexibilidad y la variedad de proyectos que pueden abordar como freelancers, pero a menudo enfrentan desafíos para encontrar oportunidades que se ajusten a sus habilidades y preferencias.
+
+**Problema:**
+¿Cómo podríamos crear una opción de empleo para desarrolladores web en nuestra aplicación, dirigida específicamente a desarrolladores freelance con el conocimiento necesario?
+
+#### 1.2.2.2. Lean UX Assumptions.
+### ASSUMPTIONS WORKSHEET
+
+#### ¿Quién es el usuario?
+- Desarrolladores freelance.
+- Microempresas y emprendimientos.
+
+#### ¿Dónde encaja nuestro producto en su trabajo o vida?
+La plataforma impacta positivamente tanto en el trabajo como en la vida de las microempresas y emprendimientos:
+   - Simplifica el proceso de búsqueda y contratación de servicios digitales, lo que ahorra tiempo y recursos.
+   - Facilita la conexión con una amplia red de talentosos desarrolladores freelance, permitiendo una selección basada en sus necesidades específicas.
+   - Proporciona transparencia al permitir comparar precios, servicios y reseñas de otros clientes, facilitando la toma de decisiones informadas.
+   - Mejora su presencia en línea y les permite llegar a una audiencia más amplia, lo que puede impulsar el crecimiento y las ventas.
+
+Para los desarrolladores freelance, la plataforma también ofrece beneficios significativos:
+   - Facilita la búsqueda de oportunidades laborales, lo que les permite encontrar proyectos adecuados de manera más eficiente.
+   - Amplía su alcance al conectarlos con empresas de todo el país, brindándoles acceso a una variedad de proyectos interesantes.
+   - Les proporciona una plataforma para desarrollar y mejorar sus habilidades, así como para establecer relaciones profesionales con otros desarrolladores en la comunidad.
+
+#### ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
+Problema 1: Falta de certeza acerca de la fiabilidad y calidad de los desarrolladores contratados.
+   - Solución: Implementar un sistema de evaluación y calificación en nuestra plataforma. Permitir que tanto las empresas como los desarrolladores se califiquen mutuamente proyecto por proyecto proporcionará comentarios valiosos y construirá confianza en la comunidad.
+
+Problema 2: Dificultad para encontrar coincidencias adecuadas.
+   - Solución: Mejorar la funcionalidad de búsqueda y el algoritmo de emparejamiento. Esto podría incluir opciones para filtrar por habilidades específicas, experiencia previa y ubicación geográfica, asegurando así que las empresas encuentren desarrolladores que se ajusten a sus necesidades.
+
+Problema 3: Retos en la comunicación y la colaboración.
+   - Solución: Integrar herramientas de comunicación directa en la plataforma para facilitar las interacciones entre empresas y desarrolladores. Además, proporciona funciones como seguimiento de proyectos y gestión de tareas para mejorar la colaboración en línea.
+
+#### ¿Cuándo y cómo es usado nuestro producto?
+Nuestra plataforma será utilizada por empresas y desarrolladores freelance en cualquier momento y lugar. Las empresas pueden emplearla para encontrar desarrolladores freelance cuando requieran crear o mejorar sus sitios web. Del mismo modo, los desarrolladores freelance pueden emplearla para buscar oportunidades laborales y colaborar con empresas.
+
+#### ¿Qué características son importantes?
+Las características más importantes de nuestra aplicación serán las siguientes:
+   - Facilidad de uso: La aplicación será fácil de usar para microempresas, emprendimientos y desarrolladores freelance de todos los niveles de experiencia.
+   - Accesibilidad: La aplicación será accesible para microempresas, emprendimientos y desarrolladores freelance de todo el mundo.
+   - Seguridad: La aplicación protegerá la privacidad y la seguridad de los datos de los usuarios.
+
+#### ¿Cómo debe verse nuestro producto y cómo comportarse?
+Nuestra aplicación debe tener un diseño claro, sencillo y fácil de entender y utilizar. Debe ser visualmente atractiva y fácil de navegar. Además, debería funcionar de manera eficiente y fluida, brindando una experiencia de usuario fluida y placentera.
+
+#### ASSUMPTIONS
+1. Creo que mis usuarios necesitan una plataforma intuitiva y fácil de usar que les permita a las microempresas publicar proyectos de desarrollo web y a los desarrolladores freelance postularse para trabajar en ellos de manera eficiente y transparente.
+2. Estas necesidades se pueden resolver proporcionando una plataforma tecnológica robusta y segura que facilite la conexión entre empresas y desarrolladores freelance, ofreciendo herramientas de búsqueda y selección efectivas, así como sistemas de comunicación y colaboración integrados.
+3. Mis clientes iniciales son microempresas y emprendimientos peruanos que buscan soluciones digitales para mejorar su presencia en línea, así como desarrolladores freelance que desean encontrar oportunidades de trabajo en proyectos de desarrollo web.
+4. El valor #1 que un cliente requiere de mi servicio es la eficiencia en la búsqueda y contratación de tecnologías que sea funcional para el desarrollo de su página web, asegurando que puedan encontrar rápidamente soluciones a medida para sus necesidades, lo que les permitirá ahorrar tiempo y recursos.
+5. Obtendremos la mayoría de nuestros clientes a través de campañas de marketing digital dirigidas a microempresas y emprendimientos en el mercado peruano, así como mediante la participación en eventos y ferias comerciales relevantes para el sector de desarrollo web.
+6. Haremos dinero a través de membresías premium para empresas y desarrolladores freelance que les brinden acceso ilimitado a características avanzadas de la plataforma, como herramientas de búsqueda más detalladas, soporte prioritario y la capacidad de publicar y aplicar a un número ilimitado de proyectos.
+7. Mi competencia principal será otras plataformas similares que conectan a empresas con desarrolladores freelance, así como agencias de desarrollo web establecidas que ofrecen servicios similares en el mercado.
+8. Los venceremos a través de una experiencia de usuario superior, con una plataforma más fácil de usar y transparente, así como proporcionando un amplio pool de talentosos desarrolladores freelance y garantizando la calidad y eficiencia en cada proyecto.
+9. Mi mayor riesgo del producto es la falta de adopción por parte de los usuarios debido a la competencia existente en el mercado y la necesidad de construir una base de usuarios sólida desde el principio.
+10. Resolveremos esto a través de estrategias de marketing efectivas, atención al cliente excepcional y constantes mejoras en la plataforma basadas en retroalimentación de usuarios y análisis de datos para asegurar su relevancia y competitividad en el mercado.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements.
+## Hypothesis Statement 1
+
+Creemos que al permitir que los desarrolladores creen perfiles y muestren sus trabajos anteriores, los usuarios interesados en obtener una página web podrán tener una visión más clara de sus necesidades. Sabremos que esto es cierto, cuando más del 50% de los usuarios que utilizan la aplicación finalizan proyectos o se ponen en contacto con un desarrollador.
+
+## Hypothesis Statement 2
+
+Creemos que nuestra aplicación potenciará las estrategias de marketing digital de diversos emprendimientos. Sabremos que tuvimos éxito, cuando más del 20% de usuarios nuevos conozcan la aplicación por medio de recomendación de otros usuarios.
+
+## Hypothesis Statement 3
+
+Creemos que al conectar desarrolladores web con emprendimientos, facilitaremos el proceso de creación de nuevos sitios web o la mejora de sitios web existentes, satisfaciendo sus necesidades específicas. Sabremos que hemos tenido éxito cuando más del 80% de los emprendimientos que se pusieron en contacto con un desarrollador hayan lanzado el nuevo sitio web desarrollado.
+
+
+#### 1.2.2.4. Lean UX Canvas.
+
+<img src="./assets/Lean Canvas/LEAN UX CANVAS.png" alt="Lean UX Canvas">
+
+## 1.3. Segmentos objetivo.
+
+Nuestro segmento objetivo está compuesto por dos tipos de usuarios:
+
+### Microempresas y Emprendimientos
+Este segmento incluye a pequeñas empresas, startups y emprendedores independientes en el mercado peruano que buscan soluciones digitales centradas en el desarrollo web. Estas empresas necesitan mejorar su presencia en línea a través de la creación de sitios web y otras aplicaciones web personalizadas. Reconocen la importancia de la transformación digital para el éxito de sus negocios, pero carecen de los recursos o conocimientos técnicos para desarrollar estas soluciones internamente.
+
+### Desarrolladores Freelance
+Este segmento abarca a profesionales independientes especializados en el desarrollo web y otras tecnologías relacionadas. Estos desarrolladores están buscando oportunidades de trabajo específicamente en proyectos de desarrollo web. Valoran la flexibilidad laboral y la posibilidad de trabajar en proyectos desafiantes que les permitan aplicar y mejorar sus habilidades en este campo.
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
