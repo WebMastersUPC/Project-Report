@@ -474,7 +474,15 @@ Menciona que está familiarizado con las plataformas de contratación de desarro
 Finalmente, consideraría usar una plataforma conecte con empresas que buscan desarrolladores freelance según el modelo de cobro, ya sea por suscripción o por comisiones.
 
 ### 2.2.3. Análisis de entrevistas.
-**Segmento 1:**
+**Segmento empresarios o emprendedores:**<br>
+Se destaca una convergencia de ideas y necesidades comunes entre los emprendedores. Todos reconocen la importancia de ampliar la presencia en línea de sus negocios más allá de las redes sociales, considerando la adquisición de una página web como un paso fundamental para mejorar la rentabilidad y llegar a un público más amplio.<br>
+
+Un punto clave resaltado por cada uno de ellos es la importancia del diseño y la arquitectura de la página web. Esto sugiere que no solo valoran la apariencia visual, sino también la funcionalidad y la experiencia del usuario como componentes esenciales para el éxito en línea. Además, todos muestran disposición para trabajar con desarrolladores freelance, indicando una preferencia por la flexibilidad y la especialización que estos profesionales ofrecen.<br>
+
+Otro aspecto compartido entre los entrevistados es su preocupación por la calidad del trabajo y la seguridad de la información al contratar desarrolladores freelance o utilizar plataformas para encontrar talento. Esta cautela refleja una mentalidad empresarial prudente y enfocada en asegurar resultados satisfactorios y proteger la integridad de sus negocios.<br>
+
+Finalmente, es notable que todos están dispuestos a invertir en soluciones que satisfagan sus necesidades específicas, ya sea en el desarrollo de un sitio web de calidad o en la selección de talento especializado a través de plataformas pagas. Esta disposición a pagar por servicios adecuados demuestra un enfoque estratégico y comprometido hacia el crecimiento y la mejora continua de sus emprendimientos en el entorno digital.<br>
+<br><br>
 {texto}
 **Segmento 2:**
 {texto}
@@ -1389,55 +1397,6 @@ Link del repositorio en Github: https://github.com/WebMastersUPC/FromZero-Landin
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
 ![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
 
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-**Preguntas generales:**
-
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
-
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
-### 5.3.2. Registro de Entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
-
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
-### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
-| --------------------------------------------- | ---------- | --------- |
-| Visibilidad del estado del sistema            |            | {texto}   |
-| Coincidencia entre el sistema y el mundo real |            | {texto}   |
-| Control y libertad del usuario                |            | {texto}   |
-| Consistencia y estándares                     |            | {texto}   |
-| Prevención de errores                         |            | {texto}   |
-| Mostrar antes que recordar                    |            | {texto}   |
-| Flexibilidad y eficiencia de uso              |            | {texto}   |
-| Diseño estético y minimalista                 |            | {texto}   |
-| Comunicar errores con facilidad               |            | {texto}   |
-| Ayuda y documentación                         |            | {texto}   |
-## 5.4. Video About-the-Product.
-[URL del video about the product](https://www.example.com)
 # Conclusiones
 # Conclusiones y recomendaciones.
 
