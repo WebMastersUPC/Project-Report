@@ -1056,6 +1056,9 @@ un flow diagram de como el usuario utilizara la pagina
 <img src="./assets/extras/PrototypingFigma.png">
 
 [URL del Prototipo (Hecho en figma)](https://www.figma.com/proto/5iojd3qBJ11W0yVLzEvabk/Mockup-Webmaster?type=design&node-id=1202-2&t=NFKzpbUoKtnoQftu-1&scaling=scale-down&page-id=2%3A325&starting-point-node-id=1202%3A2&show-proto-sidebar=1&mode=design)
+
+[URL de video de flujos de interaccion](https://upcedupe-my.sharepoint.com/personal/u20211a046_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211a046_upc_edu_pe%2FDocuments%2FWEB%20-%20TB1%20-%20VIDEOS%2FPrototyping%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 
