@@ -21,7 +21,7 @@
 | 0.0 | 19/03/2024 |Grupo 1 |Se crea el documento |
 
 # Project Report Collaboration Insights
-[URL del repositorio](https://www.example.com)
+[URL del repositorio](https://github.com/WebMastersUPC/FromZero-LandingPage.git)
 
 (Imagenes de los commits cada entrega)
 
