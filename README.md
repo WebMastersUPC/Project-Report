@@ -3,8 +3,8 @@
 ## CURSO: SI730 Aplicaciones Web | SECCIÓN WX54 
  Profesor: Alex Humberto Sánchez Ponce
 # Informe de TB1
-**Nombre del Startup**: "TechConnect Solutions"
-**Nombre del Producto**: "OfficeTech"
+**Nombre del Startup**: ""
+**Nombre del Producto**: "Webmasters"
 ### Integrantes:
 - Jair Velasquez Pizarro (u202218114)
 - André Alonso Arroyo Ormeño (u202114714)
