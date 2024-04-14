@@ -420,7 +420,7 @@ Webmasters  es una plataforma diseñada para ayudar a las empresas y emprendimie
   - Entrevistado: Maverick Mendoza
   - Edad:
   - Residencia: Lima - San Miguel
-  - Enlace del video: https://youtu.be/Xa1a5AWHRSw
+  - Enlace del video: [https://upcedupe-my.sharepoint.com](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218472_upc_edu_pe/EZ6MFAwyeatGnXEs5o7rN-8BH9oREGQs-aek24_WSUpdxw?e=JDVm7r&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <img src="./assets/interviews/Maverick.png" alt="Imagen de entrevista1" style="width:60% align-center">
 	
