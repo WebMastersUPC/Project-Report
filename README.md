@@ -1548,3 +1548,5 @@ formato
 **Web Application Prototyping**: [Link a figma](https://www.figma.com/proto/5iojd3qBJ11W0yVLzEvabk/Mockup-Webmaster?type=design&node-id=1202-2&t=NFKzpbUoKtnoQftu-1&scaling=scale-down&page-id=2%3A325&starting-point-node-id=1202%3A2&show-proto-sidebar=1&mode=design)
 
 **Repositorio en Github**: https://github.com/WebMastersUPC
+
+**Presentación TB1**: [upc-pre-202401-si730-WX54- FromZero-expo-tb1](https://upcedupe-my.sharepoint.com/personal/u20211a046_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211a046_upc_edu_pe%2FDocuments%2Fupc-pre-202401-si730-WX54-%20FromZero-expo-tb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
