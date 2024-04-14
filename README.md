@@ -3,7 +3,7 @@
 ## CURSO: SI730 Aplicaciones Web | SECCIÓN WX54 
  Profesor: Alex Humberto Sánchez Ponce
 # Informe de TB1
-**Nombre del Startup**: ""
+**Nombre del Startup**: "From Zero"
 **Nombre del Producto**: "Webmasters"
 ### Integrantes:
 - Jair Velasquez Pizarro (u202218114)
@@ -21,7 +21,7 @@
 | 0.0 | 19/03/2024 |Grupo 1 |Se crea el documento |
 
 # Project Report Collaboration Insights
-[URL del repositorio](https://www.example.com)
+[URL del repositorio](https://github.com/WebMastersUPC/FromZero-LandingPage.git)
 
 (Imagenes de los commits cada entrega)
 
@@ -29,8 +29,8 @@
 # Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Zaid Ramirez:<br> *TB1:* Durante la elaboración del proyecto, pude aprender nuevas tecnologías al implementar de manera colaborativa y desplegar con éxito la Landing Page y el diseño de la aplicación web, cumpliendo con los requisitos del backlog y objetivos del sprint. Aplicamos adecuadamente los lenguajes, frameworks y herramientas recomendados, siguiendo las convenciones de programación y buenas prácticas establecidas. Además, buscamos mejorar continuamente al realizar modificaciones basadas en observaciones y recomendaciones, contribuyendo activamente al éxito de esta fase inicial del proyecto.<br> *TB2:* texto etc.. |Su texto de conclusion|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Zaid Ramirez:<br> *TB1:*  Durante la elaboración del proyecto, pude identificar problemáticas y aplicar un proceso de UX Design basado en Lean UX. Realizando investigación de UX Research para establecer User Personas, Task Matrix y Journey Maps, integrándolos en el diseño del Landing Page y las Web Apps. Ademas de utilizar las User Stories y principios de diseño para crear propuestas visuales coherentes con nuestros style guideline. <br> *TB2:* texto etc.. |Su texto de conclusion|
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
@@ -421,7 +421,20 @@ Webmasters  es una plataforma diseñada para ayudar a las empresas y emprendimie
 <img src="./assets/interviews/Maverick.png" alt="Imagen de entrevista1" style="width:60% align-center">
 	
 Resumen: 
-El entrevistado, Maverick Mendoza, es un estudiante de Ingenieria en Sistemas y dueño del emprendimiento EnchiTacos. Menciona que actualmente la empresa solo maneja Facebook e Instagram con anuncios, por lo que cree que la adquisición de una página web mejoraría la rentabilidad del negocio. También menciona que la parte más importante al implementar una página web es la parte del diseño y la arquitectura. Menciona que le sería conveniente el tener a disposición una plataforma que le facilite el contacto con 
+El entrevistado, Maverick Mendoza, es un estudiante de Ingenieria en Sistemas y dueño del emprendimiento EnchiTacos. Menciona que actualmente la empresa solo maneja Facebook e Instagram con anuncios, por lo que cree que la adquisición de una página web mejoraría la rentabilidad del negocio. También menciona que la parte más importante al implementar una página web es la parte del diseño y la arquitectura. Menciona que le sería conveniente el tener a disposición una plataforma que le facilite el contacto con desarrolladores freelancer para la creación de su página web. Además dice que estaría dispuesto a pagar por el uso de la plataforma si esto significa que podrá elegir al desarrollador que mejor le convenga. 
+
+**Entrevista 2**
+
+  - Entrevistador: Jair Velasquez Pizarro
+  - Entrevistado: Alexandra Ñañez
+  - Edad: 21
+  - Residencia: Lima - Comas
+  - Enlace del video: https://youtu.be/mPzigiarmsM
+
+<img src="./assets/interviews/Alexandra.png" alt="Imagen de entrevista1" style="width:60% align-center">
+	
+Resumen: 
+Mi entrevistada, Alexandra Ñañez, es estudiante de la carrera de Administración y Marketing, y es asesora de Marketing en un negocio que brinda el servicio de juegos infantiles, estimulación temprana y alquiler de local para fiestas infantiles. Menciona que actualmente la empresa solo maneja Facebook e Instagram con anuncios, por lo que cree que la adquisición de una página web mejoraría la rentabilidad del negocio. También menciona que la parte más importante al implementar una página web es la parte del diseño y la arquitectura. También recalca que lo principal al momento de contratar un programador para un producto de software es la seguridad, comunicación y pruebas de trabajos anteriores para comprender si su forma de diseño se asemeja a la empresa.
 
 **Entrevista 2**
 
