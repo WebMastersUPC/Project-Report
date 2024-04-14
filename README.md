@@ -18,7 +18,13 @@
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 19/03/2024 |Grupo 1 |Se crea el documento |
+| 0.0 | 25/03/2024 | Grupo 4 | Se crea el documento |
+| 1.0 | 03/04/2024 | Grupo 4 | Se crea la rama correspondiente |
+| 1.1 | 08/04/2024 | Grupo 4 | Capitulo 1 |
+| 1.1 | 08/04/2024 | Grupo 4 | Capitulo 2 |
+| 1.1 | 09/04/2024 | Grupo 4 | Capitulo 3 |
+| 1.1 | 11/04/2024 | Grupo 4 | Capitulo 4 |
+| 1.1 | 12/04/2024 | Grupo 4 | Capitulo 5 |
 
 # Project Report Collaboration Insights
 [URL del repositorio](https://github.com/WebMastersUPC/FromZero-LandingPage.git)
