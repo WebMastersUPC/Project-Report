@@ -1373,10 +1373,24 @@ Como organización contamos con un repositorio del landing page, es la cual se e
     <img src="./assets/Product Implementation/step6.png">
 
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.1. Sprint n
-#### 5.2.1.1. Sprint Planning n.
-Explicar como vamos a plannear el sprint?
-#### 5.2.1.2. Sprint Backlog n.
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1.
+
+|<a name="_6cxtvwxzjfs6"></a>Sprint #|Sprint 1|
+| :- | :- |
+|Sprint Planning Background||
+|Date|7 de abril del 2024|
+|Time|X horas (GMT -5)|
+|Location|Modalidad remota por Discord|
+|Prepared By|From Zero|
+|Attendees (to planning meeting)|Todos los miembros del grupo From Zero|
+|Sprint n – 0 Review Summary|Dado que se trata del primer sprint, no hay un review summary de un sprint anterior.|
+|Sprint n – 1 Retrospective Summary|En este sprint se planea desarrollar el landing page con el framework de estilos Boostrap, herramienta nueva para algunos miembros del equipo. Además, se conversó sobre el contenido de los textos dentro del landing page y el diseño que se ha implementado anteriormente a través de Figma. Al finalizar este sprint, el landing page debe estar desplegado en Netlify y cualquier usuario debería poder acceder y visualizar la página a través del link.|
+|Sprint Goal & User Stories||
+|Sprint 1 Velocity|8|
+|Sum of Story Points|8|
+
+#### 5.2.1.2. Sprint Backlog 1.
 ![SprintBacklog n](image.jpg) Nica hago la tabla 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 A continuación, se presentan los commits realizados en el repositorio de la landing page en el Github.
