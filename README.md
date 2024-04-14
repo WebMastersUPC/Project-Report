@@ -3,7 +3,7 @@
 ## CURSO: SI730 Aplicaciones Web | SECCIÓN WX54 
  Profesor: Alex Humberto Sánchez Ponce
 # Informe de TB1
-**Nombre del Startup**: ""
+**Nombre del Startup**: "From Zero"
 **Nombre del Producto**: "Webmasters"
 ### Integrantes:
 - Jair Velasquez Pizarro (u202218114)
@@ -29,8 +29,8 @@
 # Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Zaid Ramirez:<br> *TB1:* Durante la elaboración del proyecto, pude aprender nuevas tecnologías al implementar de manera colaborativa y desplegar con éxito la Landing Page y el diseño de la aplicación web, cumpliendo con los requisitos del backlog y objetivos del sprint. Aplicamos adecuadamente los lenguajes, frameworks y herramientas recomendados, siguiendo las convenciones de programación y buenas prácticas establecidas. Además, buscamos mejorar continuamente al realizar modificaciones basadas en observaciones y recomendaciones, contribuyendo activamente al éxito de esta fase inicial del proyecto.<br> *TB2:* texto etc.. |Su texto de conclusion|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Zaid Ramirez:<br> *TB1:*  Durante la elaboración del proyecto, pude identificar problemáticas y aplicar un proceso de UX Design basado en Lean UX. Realizando investigación de UX Research para establecer User Personas, Task Matrix y Journey Maps, integrándolos en el diseño del Landing Page y las Web Apps. Ademas de utilizar las User Stories y principios de diseño para crear propuestas visuales coherentes con nuestros style guideline. <br> *TB2:* texto etc.. |Su texto de conclusion|
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
