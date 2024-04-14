@@ -1398,13 +1398,36 @@ Para esta entrega, el equipo From Zero logró la implementación del landing pag
 Link a la página del landing page: https://main--sitewebmasters.netlify.app
 
 <img src="./assets/Landing/landing.png">
+<img src="./assets/Landing/proyectos.png">
+<img src="./assets/Landing/testimonios.png">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-![Sprint review Services Documentation Evidence](image.jpg)
+
+En este sprint los miembros de From Zero completaron de forma satisfactoria las tareas propuestas. El sprint estuvo netamente enfocado con el diseño y desarrollo de la Landing Page, que con el lanzamiento de la página web se confirma que se termino de forma efectiva el Sprint.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
+
+Par el actual sprint, se ha desarrollado el landing page. Par su desplique se ha utilizado las siguientes herramientas:
+
+- Git: Sistema de control de versiones que nos ayudó a trabajar en equipo durante todo el desarrollo del landing page.
+- GitFlow: Flujo de trabajo que nos ayudó a controlar el avance de cada integrante del equipo en el desarrollo del landing page.
+- GitHub: Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones del proyecto.
+- Netlify: Plataforma que automatiza webs estáticas que nos permitió alojar y desplegar el landing page.
+
+Evidencias del despliegue en Netlify:
+Repositorio vinculado al deploy e la pagina web:
+<img src="./assets/Landing/repositorio.png">
+Prueba de lanzamiento en Netlify:
+<img src="./assets/Landing/deploy.png">
+Prueba del landing en un navegador:
+<img src="./assets/Landing/funcionamiento.png">
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+
+El equipo de desarrollo del landing utilizo las ramas para desarrollar cada sección, mejorarlo y actualizarlo, la ventaja de usar estas ramas es que permiten actualizar y luego corroborar que no haya algún error al unirla con la rama master(develop). Ahora se presentará el insight del equipo a través de GitHub:
+
+<img src="./assets/Insights/ramas.png">
+<img src="./assets/Insights/contributors.png">
 
 # Conclusiones
 # Conclusiones y recomendaciones.
