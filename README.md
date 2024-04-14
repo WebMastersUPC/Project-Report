@@ -991,16 +991,44 @@ un flow diagram de como el usuario utilizara la pagina
 [URL del Prototipo (Hecho en figma)](https://www.figma.com/proto/5iojd3qBJ11W0yVLzEvabk/Mockup-Webmaster?type=design&node-id=1202-2&t=NFKzpbUoKtnoQftu-1&scaling=scale-down&page-id=2%3A325&starting-point-node-id=1202%3A2&show-proto-sidebar=1&mode=design)
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
-1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
-se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 
-2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)]) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
-   
+<img src="./assets/C4-model/structurizr-87476-WebMastersSystemContext.png">
+
 ### 4.6.2. Software Architecture Container Diagrams.
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
+
+<img src="./assets/C4-model/structurizr-87476-WebMastersContainer.png">
 
 ### 4.6.3. Software Architecture Components Diagrams.
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+
+#### Login and Registration Bounded Context
+
+<img src="./assets/C4-model/structurizr-87476-LoginAndRegistrationComponent.png">
+
+#### Developer Profile Bounded Context
+
+<img src="./assets/C4-model/structurizr-87476-DeveloperProfileComponent.png">
+
+#### Enterprise Profile Bounded Context
+
+<img src="./assets/C4-model/structurizr-87476-EnterpriseProfileComponent.png">
+
+#### Project Proposal and Hire a Developer Bounded Context
+
+<img src="./assets/C4-model/structurizr-87476-ProjectProposalAndHireADeveloperComponent.png">
+
+#### Apply for Projects Bounded Context
+
+<img src="./assets/C4-model/structurizr-87476-ApplyForProjectComponent.png">
+
+#### Project Development Bounded Context
+
+<img src="./assets/C4-model/structurizr-87476-ProjectDevelopmentComponent.png">
+
+#### Tech Support Bounded Context
+
+<img src="./assets/C4-model/structurizr-87476-TechnicalSupportComponent.png">
+
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 Respecto a las necesidades del producto, se decidió plantear las clases en el siguiente diagrama:
