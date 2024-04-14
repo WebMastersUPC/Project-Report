@@ -681,15 +681,25 @@ Enlace de Miro: https://miro.com/app/board/uXjVKWrUG98=/?share_link_id=990115567
 
 ## 2.4. Ubiquitous Language.
 Connection Platform (Plataforma de Conexión): Una plataforma digital que conecta a desarrolladores freelance y a empresas/emprendimientos.
+
 User (Usuario): Persona que utilice la plataforma, ya sea un desarrollador freelance o un empresario/emprendedor.
+
 User Profile (Perfil de Usuario): Un espacio personalizado en la plataforma donde se exponen la experiencia, habilidades y proyectos anteriores.
+
 Project Catalog (Catálogo de Proyectos): Una lista de proyectos de software propuestos por empresas o emprendimientos para ser desarrollados por los freelancers.
+
 Rating System (Sistema de valoración): Un sistema de clasificación donde los usuarios de la plataforma pueden calificar la calidad, profesionalidad y satisfacción del proyecto realizado por un desarrollador freelance.
+
 Work Contract (Contrato de trabajo): Un acuerdo formal entre el desarrollador freelance y la empresa donde se establecen los plazos y la remuneración del proyecto, así como otros términos y condiciones.
+
 Project Management (Gestión de Proyectos): Funcionalidad que permite a los usuarios hacer gestión y seguimiento del progreso del proyecto.
+
 Subscription Model (Modelo de Suscripción): Un plan de pago ofrecido a los desarrolladores freelance y empresas para acceder a las funciones premium a cambio de una tarifa recurrente.
+
 Commission System (Sistema de Comisión): Una estructura de tarifas donde se cobra un porcentaje del valor del proyecto a los desarrolladores freelance.
+
 Registration and Verification (Registro y Verificación): Un proceso de verificación de la autenticidad de la identidad de los usuarios de la plataforma.
+
 Customer Support (Soporte al Cliente): Asistencia técnica y atención al cliente para resolver problemas y responder preguntas relacionadas con la plataforma.
 
 # Capítulo III: Requirements Specification
