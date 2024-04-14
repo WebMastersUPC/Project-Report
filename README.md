@@ -468,10 +468,23 @@ Se entrevistó a Alessandro Medina, un joven de 20 años estudiante de Ciencias 
 
 Inicialmente,enfrentó dificultades para encontrar proyectos debido a la falta de un portafolio que respaldara sus habilidades y profesionalismo. Asímismo, antes de elegir un proyecto investiga al cliente para evaluar su reputación y toma en cuenta plazo de entrega del trabajo. Una vez aceptado un proyecto, Alessandro comenta que suele  mantener una comunicación activa con el empleador a través de reuniones periódicas para recibir retroalimentación. 
 
-
 Menciona que está familiarizado con las plataformas de contratación de desarrolladores freelance y destaca la importancia de personalizar su perfil para resaltar sus habilidades y tener un portafolio asociado. Además, espera encontrar sistemas de pago seguros en estas plataformas. Alessandro menciona que selecciona las plataformas basándose en su reputación y en la facilidad para encontrar proyectos e los que trabajar. Mientras tanto, espera que una plataforma  le brinde la oportunidad de conectarse con un público más amplio. Por otro lado, sus preocupaciones a esto gira entorno a la competencia con freelancers establecidos.
 
 Finalmente, consideraría usar una plataforma conecte con empresas que buscan desarrolladores freelance según el modelo de cobro, ya sea por suscripción o por comisiones.
+
+**Entrevista 2** 
+
+  - Entrevistador: André Alonso Arroyo Ormeño 
+  - Entrevistado: William Ramos Vicente
+  - Edad: 20 años
+  - Residencia: Lima - San Isidro
+  - Enlace del video: https://drive.google.com/file/d/1YI69aX5McN_WOQjXbCLinpylN3cQ18LS/view?usp=sharing
+
+<img src="./assets/interviews/William.jpeg" alt="Entrevista 1 segmento desarrolladores freelance" style="width:60% align-center">
+
+<br>Resumen:<br>
+Mi entrevistado es William Ramos Vicente, es desarrollador backend de las plataformas web y  ha tenido experiencia desarrollando proyectos tanto para empresas como personales. En caso de usar plataformas que le ayuden a conseguir proyectos remunerados, le gustaría que los proyectos se dividan en especialidades como: frontend, backend, móviles, ciberseguridad entre otros. Asimismo también le gustaría que los proyectos se clasificaran de acuerdo a la cantidad de experiencia, rubros (salud, política, estados, bancos, etc), todo esto acompañado de una sección en el cual se permite ingresar de forma adecuada los datos personales para poder conseguir dicho proyectos. Lo que haría elegir una plataforma que ayude a conseguir proyectos sobre otras, sería la eficacia, la rapidez y la gran cantidad de empresas en la plataforma de tal forma que se logre una gran variedad de proyectos. Lo que espera de la plataforma sería que facilite el proceso de conseguir los proyectos remunerados así como también proyectos que brinden contratación para periodos cortos como largos. Su principal preocupación en estas plataformas sería la ineficacia de conseguir los proyectos, la falta de comunicación en cuanto al rechazo de la solicitud y la falta de feedback en el desarrollo del proyecto. Para finalizar si estaría dispuesto a pagar por este tipo de plataformas siempre y cuando cumplan con las características que menciono anteriormente.
+
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento empresarios o emprendedores:**<br>
@@ -483,9 +496,13 @@ Otro aspecto compartido entre los entrevistados es su preocupación por la calid
 
 Finalmente, es notable que todos están dispuestos a invertir en soluciones que satisfagan sus necesidades específicas, ya sea en el desarrollo de un sitio web de calidad o en la selección de talento especializado a través de plataformas pagas. Esta disposición a pagar por servicios adecuados demuestra un enfoque estratégico y comprometido hacia el crecimiento y la mejora continua de sus emprendimientos en el entorno digital.<br>
 <br><br>
-{texto}
-**Segmento 2:**
-{texto}
+
+**Segmento desarrolladores freelance:**<br>
+En las entrevistas con Alessandro Medina y William Ramos Vicente, se destaca la importancia crucial de contar con un sólido portafolio y una buena reputación para atraer proyectos de calidad como desarrolladores freelance. Ambos enfatizan la necesidad de mantener una comunicación activa y recibir retroalimentación constante de los empleadores durante los proyectos.
+
+Además, ambos desarrolladores valoran el uso de plataformas de contratación freelance para acceder a una variedad más amplia de oportunidades laborales. William específicamente busca plataformas eficaces que clasifiquen proyectos según especialidades y niveles de experiencia, mientras que Alessandro prefiere plataformas que le permitan conectarse con un público más amplio y que ofrezcan sistemas de pago seguros.
+
+Sus principales preocupaciones incluyen la eficiencia en la selección de proyectos, la comunicación transparente durante todo el proceso y la retroalimentación sobre el progreso del trabajo. En conjunto, estas entrevistas reflejan la importancia de estrategias efectivas de presentación, comunicación clara y selección inteligente de plataformas para maximizar las oportunidades y la satisfacción como desarrolladores freelance.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento empresarios y emprendedores**  
