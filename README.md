@@ -433,7 +433,7 @@ El entrevistado, Maverick Mendoza, es un estudiante de Ingenieria en Sistemas y 
   - Entrevistado: Alexandra Ñañez
   - Edad: 21
   - Residencia: Lima - Comas
-  - Enlace del video: https://youtu.be/mPzigiarmsM
+  - Enlace del video: [https://upcedupe-my.sharepoint.com](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218114_upc_edu_pe/ERCqSU_2GapEunt22M-Mkd8BcsWU3E48f1Yi64nZnEtWqA?e=KUw5GE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <img src="./assets/interviews/Alexandra.png" alt="Imagen de entrevista1" style="width:60% align-center">
 	
