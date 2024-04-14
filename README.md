@@ -649,7 +649,13 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
 
 ### 2.3.3. User Journey Mapping.
 A continuación se pueden observar los User Journey Mapping de los segmentos objetivos.
-<img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/user-journey-mapping/user-journey-map.png?raw=true" alt="">
+
+**Segmento empresario y emprendedor:**
+<img src=https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/user-journey-mapping/user-journey-map-empresario-emprendedor.png alt="User Journey Mapping del segmento empresario y emprendedor">
+
+
+**Segmento desarrollador freelance:**
+<img src="https://github.com/WebMastersUPC/Project-Report/blob/feature/tb1/assets/user-journey-mapping/user-journey-map-desarrollador.png" alt="User Journey Mapping del segmento desarrollador freelance">
 
 ### 2.3.4. Empathy Mapping.
 A continuación se muestra los Empathy Mapping de los segmentos objetivos.
