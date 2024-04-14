@@ -1389,9 +1389,18 @@ Ocupación: _____
 ## 5.4. Video About-the-Product.
 [URL del video about the product](https://www.example.com)
 # Conclusiones
-{texto}
 # Conclusiones y recomendaciones.
-{texto}
+
+**Conclusiones**<br>
+- El enfoque en dos segmentos objetivos fue de gran importancia para realizar el diseño de la aplicacion. Este conocimiento de las necesidades específicas de cada audiencia guió las decisiones relacionadas con el diseño y las funcionalidades de la plataforma. 
+
+- Decidimos crear un diseño amigable e intuitivo para asegurar que los usuarios tengan una experiencia satisfactoria. La elección de colores que transmiten confianza y profesionalismo, junto con una tipografía clara, ha sido crucial para la aceptación por parte de los usuarios. La estructura de la página está diseñada para facilitar la navegación, permitiendo a los usuarios encontrar lo que buscan de manera rápida y eficiente.
+
+- Durante el desarrollo, enfrentamos varios desafíos técnicos y de diseño que superamos mediante pruebas continuas y comentarios directos de los usuarios. Estos desafíos nos brindaron valiosas lecciones sobre adaptabilidad y resolución de problemas, lo que ha mejorado notablemente la calidad de nuestra plataforma. Además, la optimización constante basada en análisis de datos y comentarios de usuarios es fundamental para mantener y mejorar la experiencia en la plataforma.
+
+**Recomendaciones**<br>
+
+
 # Video About-the-Team.
 [URL del video about the team](https://www.example.com)
 
