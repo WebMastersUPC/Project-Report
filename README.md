@@ -481,7 +481,7 @@ Finalmente, consideraría usar una plataforma conecte con empresas que buscan de
   - Entrevistado: William Ramos Vicente
   - Edad: 20 años
   - Residencia: Lima - San Isidro
-  - Enlace del video: https://drive.google.com/file/d/1YI69aX5McN_WOQjXbCLinpylN3cQ18LS/view?usp=sharing
+  - Enlace del video: [https://upcedupe-my.sharepoint.com](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114714_upc_edu_pe/EQEUCRg-1QtPi0p3GgF9F7EB7FETZEYSkWp8kdK47ed_NA?e=6qraXg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <img src="./assets/interviews/William.jpeg" alt="Entrevista 1 segmento desarrolladores freelance" style="width:60% align-center">
 
