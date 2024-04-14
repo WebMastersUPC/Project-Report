@@ -1356,45 +1356,54 @@ Como organización contamos con un repositorio del landing page, es la cual se e
     <img src="./assets/Product Implementation/step6.png">
 
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.X. Sprint n
-#### 5.2.X.1. Sprint Planning n.
+### 5.2.1. Sprint n
+#### 5.2.1.1. Sprint Planning n.
 Explicar como vamos a plannear el sprint?
-#### 5.2.X.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog n.
 ![SprintBacklog n](image.jpg) Nica hago la tabla 
-#### 5.2.X.3. Development Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review.
 A continuación, se presentan los commits realizados en el repositorio de la landing page en el Github.
 Link del repositorio en Github: https://github.com/WebMastersUPC/FromZero-LandingPage
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body| Commited on (Date) |
 | :- | :- | :- | :- | :- | :- |
 |FromZero-LandingPage|develop|dc133ed763dbb340689d71fdba623d2bd6db3556|Initial commit||07/04/2024|
-|FromZero-LandingPage|develop|b4f78db787a4cb34cbf152d7ad84c34f1344eccb|feat: add package name and index basic structure||07/04/2024|
-|FromZero-LandingPage|develop|b45381f55888acc7ae0c8c0c69851721d909b543|feat: add src folder and move files into it||07/04/2024|
-|FromZero-LandingPage|develop|2f88ac8a71f517bcc669871847b41ee282652a58|navar y footer||07/04/2024|
-|FromZero-LandingPage|develop|47c103e6bc8d84c609c8802dc35a2a09fd6dc4a3|Merge pull request #1 from WebMastersUPC/feature/navbar-footer|feat: adding navbar and footer|09/04/2024|
-|FromZero-LandingPage|develop|e515fffff4f432852c7255a021ff39df95304000|feat: add feature and highlighproject html and css||09/04/2024|
-|FromZero-LandingPage|develop|7dab03e081b4876a84d2b606c6329e75983289e3|Merge pull request #2 from WebMastersUPC/feature/feature-highlightedprojects|feat: add feature and highlighproject html, css and images|09/04/2024|
-|FromZero-LandingPage|develop|bdcf22eed2f5e7b219ec090a7aba46100e56663c|feat: adding about us page||09/04/2024|
-|FromZero-LandingPage|develop|4894bf138e8efb67588caf3572d1a210e1683e0e|fix: fixing images src||09/04/2024|
-|FromZero-LandingPage|develop|60dd220d7b8968ca21ec72a3a2d9c80817088237|fix: fixing src url||09/04/2024|
-|FromZero-LandingPage|develop|008752f6159c6af2562de4ec7aa9e6fb7480601c|feat: added boostrap to landing page||12/04/2024|
-|FromZero-LandingPage|develop|23a41a6b53f2ce03e53c81c6726c4ddefd532d65|fix: fixing seccion hero||12/04/2024|
-|FromZero-LandingPage|develop|6c66345e930d52135ffdca0d0d7d5ae209964bd5|feat: added seccion membresia to landing page||12/04/2024|
-|FromZero-LandingPage|develop|a235d884b2b64a483e390159a32574ee786e4448|feat: add 'preguntas frecuentes' section||13/04/2024|
-|FromZero-LandingPage|develop|609e9ac7f6f807293e59e78cb2a284f4fe2ee7d8|feat: add 'testimonios' section||13/04/2024|
-|FromZero-LandingPage|develop|3ffe307cff0333002a89ac2ee16ddb75c7c4642b|Merge pull request #3 from WebMastersUPC/feature/testimonios|feat: add 'testimonios' section|13/04/2024|
-|FromZero-LandingPage|develop|912dc2b83004739df8ffe537ca411a092710cd8a|Merge branch 'develop' into feature/preguntas-frecuentes||13/04/2024|
-|FromZero-LandingPage|develop|14f5651b351b10db8deb03a25afe809dfbfb1291|Merge pull request #5 from WebMastersUPC/feature/preguntas-frecuentes|feat: add 'preguntas frecuentes'section|13/04/2024|
-|FromZero-LandingPage|develop|501ccdc92076717da4a75dfc71391dbf008011cd|feat: fixing the about page and index.html||13/04/2024|
-|FromZero-LandingPage|develop|a3a165bffebef413d66f556286592d7ed246c9b5|feat: replace image||13/04/2024|
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
-#### 5.2.X.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+||develop|b4f78db787a4cb34cbf152d7ad84c34f1344eccb|feat: add package name and index basic structure||07/04/2024|
+||develop|b45381f55888acc7ae0c8c0c69851721d909b543|feat: add src folder and move files into it||07/04/2024|
+||develop|2f88ac8a71f517bcc669871847b41ee282652a58|navar y footer||07/04/2024|
+||develop|47c103e6bc8d84c609c8802dc35a2a09fd6dc4a3|Merge pull request #1 from WebMastersUPC/feature/navbar-footer|feat: adding navbar and footer|09/04/2024|
+||develop|e515fffff4f432852c7255a021ff39df95304000|feat: add feature and highlighproject html and css||09/04/2024|
+||develop|7dab03e081b4876a84d2b606c6329e75983289e3|Merge pull request #2 from WebMastersUPC/feature/feature-highlightedprojects|feat: add feature and highlighproject html, css and images|09/04/2024|
+||develop|bdcf22eed2f5e7b219ec090a7aba46100e56663c|feat: adding about us page||09/04/2024|
+||develop|4894bf138e8efb67588caf3572d1a210e1683e0e|fix: fixing images src||09/04/2024|
+||develop|60dd220d7b8968ca21ec72a3a2d9c80817088237|fix: fixing src url||09/04/2024|
+||develop|008752f6159c6af2562de4ec7aa9e6fb7480601c|feat: added boostrap to landing page||12/04/2024|
+||develop|23a41a6b53f2ce03e53c81c6726c4ddefd532d65|fix: fixing seccion hero||12/04/2024|
+||develop|6c66345e930d52135ffdca0d0d7d5ae209964bd5|feat: added seccion membresia to landing page||12/04/2024|
+||develop|a235d884b2b64a483e390159a32574ee786e4448|feat: add 'preguntas frecuentes' section||13/04/2024|
+||develop|609e9ac7f6f807293e59e78cb2a284f4fe2ee7d8|feat: add 'testimonios' section||13/04/2024|
+||develop|3ffe307cff0333002a89ac2ee16ddb75c7c4642b|Merge pull request #3 from WebMastersUPC/feature/testimonios|feat: add 'testimonios' section|13/04/2024|
+||develop|912dc2b83004739df8ffe537ca411a092710cd8a|Merge branch 'develop' into feature/preguntas-frecuentes||13/04/2024|
+||develop|14f5651b351b10db8deb03a25afe809dfbfb1291|Merge pull request #5 from WebMastersUPC/feature/preguntas-frecuentes|feat: add 'preguntas frecuentes'section|13/04/2024|
+||develop|501ccdc92076717da4a75dfc71391dbf008011cd|feat: fixing the about page and index.html||13/04/2024|
+||develop|a3a165bffebef413d66f556286592d7ed246c9b5|feat: replace image||13/04/2024|
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body| Commited on (Date) |
+| :- | :- | :- | :- | :- | :- |
+|FromZero-LandingPage|develop|d7ff750fcaa03a18c295698428e1416c17dd2775|Merge pull request #6 from WebMastersUPC/develop|Develop|13/04/2024|
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+Para esta entrega, el equipo From Zero logró la implementación del landing page, en donde se encontratan secciones con información especifica para conocer mejor a la organización, planeas de pago y proyectos realizados en la página.
+
+Link a la página del landing page: https://main--sitewebmasters.netlify.app
+
+<img src="./assets/Landing/landing.png">
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 ![Sprint review Services Documentation Evidence](image.jpg)
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 ![Sprint review Software Deployment Evidence](image.jpg)
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
 ![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
 
 # Conclusiones
