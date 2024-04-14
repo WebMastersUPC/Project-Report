@@ -1127,7 +1127,12 @@ Las clases serán explicadas en el siguiente apartado de forma más específica.
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+<div style="display:flex; justify-content:center; flex-direction:column;">
+   <p>A continuación, se muestra el modelo físico de la base de datos de la solución.</p>
+   <img src="./assets/database-diagram/webmasters-database.png" alt="base de datos de WebMasters">
+</div>
+<br>
+
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
