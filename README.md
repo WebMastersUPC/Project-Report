@@ -461,7 +461,7 @@ Matías Vázquez, de 20 años, residente en Lima, Perú, es el fundador de "Fash
   - Entrevistado: Alessandro Medina Agnini
   - Edad: 20 años
   - Residencia: Lima - San Miguel
-  - Enlace del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/EWWgW2c4bpBAv8OynwXt7U0BYi6t_W0BXMEkAjINtI4rkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8ZQyv6
+  - Enlace del video: [https://upcedupe-my.sharepoint.com](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/EWWgW2c4bpBAv8OynwXt7U0BkvrPYFU33fi4NdxbqDtjng?e=En0xjC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <img src="./assets/interviews/Alessandro.PNG" alt="Entrevista 1 segmento desarrolladores freelance" style="width:60% align-center">
 	
