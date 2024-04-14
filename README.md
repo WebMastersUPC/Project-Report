@@ -423,6 +423,18 @@ Webmasters  es una plataforma diseñada para ayudar a las empresas y emprendimie
 Resumen: 
 El entrevistado, Maverick Mendoza, es un estudiante de Ingenieria en Sistemas y dueño del emprendimiento EnchiTacos. Menciona que actualmente la empresa solo maneja Facebook e Instagram con anuncios, por lo que cree que la adquisición de una página web mejoraría la rentabilidad del negocio. También menciona que la parte más importante al implementar una página web es la parte del diseño y la arquitectura. Menciona que le sería conveniente el tener a disposición una plataforma que le facilite el contacto con 
 
+**Entrevista 2**
+
+  - Entrevistador: Joseph Ulysses Llacchua Peralta
+  - Entrevistado: Mathias Leonardo Vasquez Requejo
+  - Edad: 20
+  - Residencia: Lima - San Isidro
+  - Enlace del video: https://youtu.be/QzQxQPJS9TA
+
+<img src="./assets/interviews/Matias.jpeg" alt="Imagen de entrevista2" style="width:60% align-center">
+	
+Resumen: 
+Matías Vázquez, de 20 años, residente en Lima, Perú, es el fundador de "FashionWave", un emprendimiento de moda con presencia digital en redes sociales como Instagram y Facebook. Reconoce la importancia de tener presencia en internet para llegar a un público amplio y mantenerse actualizado. Considera desarrollar un sitio web propio para mejorar la experiencia de compra. Está dispuesto a trabajar con desarrolladores freelance y consideraría usar una plataforma para encontrar talento especializado. Sus preocupaciones incluyen la calidad del trabajo y la seguridad de la información. Estaría dispuesto a pagar por una plataforma que cumpla con sus necesidades.
 
 **Segmento desarrolladores freelance**  
 
@@ -732,40 +744,92 @@ Link: <https://miro.com/app/board/uXjVKdVpEPw=/?share_link_id=435283866563> <br>
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
-Descripcion del porque estos elementos seran importantes
+**Branding**
 
-**Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
+Nuestra marca debe reflejar la esencia de nuestra plataforma, que es la conexión entre desarrolladores web independientes y empresas. Asimismo, la marca debe transmitir confianza, colaboración y creatividad. También, utilizaremos un enfoque moderno y limpio en nuestro diseño, incorporando elementos relacionados con el desarrollo web, como líneas limpias y símbolos de conexión, para representar nuestra especialización. De igual forma, la marca debe evocar la idea de una comunidad unida de profesionales, por lo que los elementos de diseño pueden incluir personas trabajando juntas o elementos que sugieran colaboración.
 
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
+<img src="./assets/ImgCap4/Imagen14.png" alt="img14">
+
+**Typography**
+
+La tipografía de nuestra marca debe ser legible. Por lo tanto, utilizaremos Lato como nuestra fuente principal, ya que combina un aspecto profesional con una sensación amigable. Asimismo, es adecuada para una amplia gama de aplicaciones y transmite confianza.  
+
+<img src="./assets/ImgCap4/Imagen13.png" alt="img13"> <img src="./assets/ImgCap4/Imagen12.png" alt="img12">
+
+Además, se utilizará Open Sans para resaltar detalles y elementos secundarios, aportando variedad visual sin sacrificar la coherencia. 
+
+<img src="./assets/ImgCap4/Imagen10.png" alt="img14"> <img src="./assets/ImgCap4/Imagen11.png" alt="img14">
+
+**Colors**
+
+Nuestra paleta de colores principales, compuesta por Azul (#0072FF), Gris Claro (#F5F7FA) y Morado Claro (#b864f3). La combinación de estos tres colores en la paleta logra un equilibrio entre un aspecto profesional, la claridad necesaria y un toque de dinamismo. Asimismo, el azul continúa siendo el color primordial que genera una sensación de confianza, mientras que el gris claro y el morado se emplean para garantizar legibilidad y resaltar los elementos importantes.
+
+<div style="flex: 1; margin-right: 10px;">
+        <img src="./assets/ImgCap4/Imagen9.png" alt="img9" style="width: 50%;">
+    </div>
+
+Por otro lado, los colores secundarios Naranja Suave (#FFA500), Gris Oscuro (#333333) y Fucsia (#FF00FF) se utilizarán con moderación para resaltar elementos importantes en el aplicativo.
+
+<div style="flex: 1; margin-left: 10px;">
+        <img src="./assets/ImgCap4/Imagen8.png" alt="img8" style="width: 50%;">
+    </div>
+
+**Spacing**
+
+El espaciado en nuestra interfaz de usuario es esencial para una experiencia ordenada. Estableceremos márgenes y rellenos coherentes para mantener una disposición organizada. Los elementos interactivos, como botones y enlaces, tendrán suficiente espacio para evitar toques accidentales en dispositivos móviles.
+
 ### 4.1.2. Web Style Guidelines.
-Descripcion de los elementos que se utilizaran en el web app
+**Encabezado**
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
-**Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
+En la parte superior izquierda de la portada de WebMaster, encontramos un encabezado limpio y elegante con nuestro logotipo, reflejando la conexión entre desarrolladores web y empresarios. A la derecha del logotipo, se encuentra un menú desplegable que representa las diferentes secciones de la aplicación, lo que permite a los usuarios navegar fácilmente por la plataforma.
+
+<div style="flex: 1; margin-right: 10px;">
+        <img src="./assets/ImgCap4/Imagen1.png" alt="img1" style="width: 60%;">
+    </div>
+
+<div style="flex: 1; margin-right: 10px;">
+        <img src="./assets/ImgCap4/Imagen2.png" alt="img2" style="width: 60%;">
+    </div>
+
+**Sección de Opiniones de Clientes**
+
+Destacamos las opiniones de los clientes en un espacio bien diseñado. Cada testimonio se presenta en un recuadro individual con la foto del cliente (si está disponible) y su nombre. 
+Estos testimonios se organizan en un formato de carrusel o galería deslizante para facilitar su visualización. 
+Además de las fotos y nombres de los clientes, cada testimonio incluye un breve título que describe su experiencia, seguido de un párrafo detallado sobre su historia en la plataforma.
+
+<div style="flex: 1; margin-right: 10px;">
+        <img src="./assets/ImgCap4/Imagen3.png" alt="img3" style="width: 60%;">
+    </div>
+
+**Special Features**
+
+La sección "Special Features" se encuentra al final de la página de inicio, justo antes del pie de página. Aunque se encuentra en la parte inferior, su posición permite a los visitantes explorar las características distintivas después de haber tenido una visión general de la plataforma.
+
+<div style="flex: 1; margin-right: 10px;">
+        <img src="./assets/ImgCap4/Imagen4.png" alt="img4" style="width: 60%;">
+    </div>
+
+**Sección de Contacto**
+
+La sección de "Contacto" suele estar en la parte inferior de la página, en el pie de página o en un área visible pero discreta. Esto facilita que los visitantes accedan a información de contacto en cualquier momento, especialmente si desean comunicarse con nosotros.
+
+<div style="flex: 1; margin-right: 10px;">
+        <img src="./assets/ImgCap4/Imagen5.png" alt="img5" style="width: 60%;">
+    </div>
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making use of physical differences, such as size, colour, contrast, alignment etc.
 
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the current step. 
+Respecto al inicio de sesión, jerarquía visual de la aplicación,  la forma de navegar, y las opciones de la página, se presenta el siguiente diagrama que muestra la organización del sistema.
 
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical, Chronological, by topic."
+<img src="./assets/ImgCap4/Imagen7.png" alt="img7">
 ### 4.2.2. Labeling Systems.
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words. 
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+El sistema de etiquetado consistirá en imágenes acompañadas de descripciones cortas, utilizando una o dos palabras simples y fáciles de entender. Se seguirán prácticas comunes para desarrollar un sistema intuitivo.
+
+<div style="flex: 1; margin-right: 10px;">
+        <img src="./assets/ImgCap4/Imagen6.png" alt="img6" style="width: 50%;">
+    </div>
 ### 4.2.3. SEO Tags and Meta Tags
 
 **Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
