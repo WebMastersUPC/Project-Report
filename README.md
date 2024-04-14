@@ -1495,9 +1495,6 @@ El equipo de desarrollo del landing utilizo las ramas para desarrollar cada secc
 - **Identificación de una Necesidad Clara:** La startup From Zero ha identificado una necesidad creciente en el mercado, donde las empresas y emprendimientos requieren una presencia en línea sólida para potenciar sus estrategias de marketing digital. Esta identificación precisa de una necesidad puede ser un factor clave para el éxito, ya que abordar una demanda real puede generar un gran interés y participación.
 
 
-# Video About-the-Team.
-[URL del video about the team](https://www.example.com)
-
 # Bibliografía
 ```
 qoomon. (2021, 11 enero). Conventional Commit Messages. Gist.
