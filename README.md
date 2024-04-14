@@ -1392,11 +1392,11 @@ Ocupación: _____
 # Conclusiones y recomendaciones.
 
 **Conclusiones**<br>
-- El enfoque en dos segmentos objetivos fue de gran importancia para realizar el diseño de la aplicacion. Este conocimiento de las necesidades específicas de cada audiencia guió las decisiones relacionadas con el diseño y las funcionalidades de la plataforma. 
+- **Impacto en el Entorno Digital:** La visión de convertirnos en una plataforma de elección para empresas y emprendimientos que buscan destacar en el entorno digital refleja una ambición significativa. Esta aspiración puede ser un motor motivador para nuestro equipo y un objetivo que guíe las decisiones estratégicas a medida que crece la startup.
 
-- Decidimos crear un diseño amigable e intuitivo para asegurar que los usuarios tengan una experiencia satisfactoria. La elección de colores que transmiten confianza y profesionalismo, junto con una tipografía clara, ha sido crucial para la aceptación por parte de los usuarios. La estructura de la página está diseñada para facilitar la navegación, permitiendo a los usuarios encontrar lo que buscan de manera rápida y eficiente.
-
-- Durante el desarrollo, enfrentamos varios desafíos técnicos y de diseño que superamos mediante pruebas continuas y comentarios directos de los usuarios. Estos desafíos nos brindaron valiosas lecciones sobre adaptabilidad y resolución de problemas, lo que ha mejorado notablemente la calidad de nuestra plataforma. Además, la optimización constante basada en análisis de datos y comentarios de usuarios es fundamental para mantener y mejorar la experiencia en la plataforma.
+- **Equipo Multidisciplinario:** El hecho de que la startup esté compuesta por nosotros 6 esto le da un enfoque multidisciplinario y fresco. Esto puede ser una ventaja ya que cada miembro del equipo puede aportar perspectivas únicas y habilidades complementarias, enriqueciendo así la oferta de servicio, originalidad y eficacia de este proyecto
+  
+- **Identificación de una Necesidad Clara:** La startup From Zero ha identificado una necesidad creciente en el mercado, donde las empresas y emprendimientos requieren una presencia en línea sólida para potenciar sus estrategias de marketing digital. Esta identificación precisa de una necesidad puede ser un factor clave para el éxito, ya que abordar una demanda real puede generar un gran interés y participación.
 
 **Recomendaciones**<br>
 
