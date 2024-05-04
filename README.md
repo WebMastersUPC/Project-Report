@@ -1485,6 +1485,53 @@ El equipo de desarrollo del landing utilizo las ramas para desarrollar cada secc
 <img src="./assets/Insights/ramas.png">
 <img src="./assets/Insights/contributors.png">
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+En el siguiente apartado, se presentará el sprint planning 2, donde se mostrará la planificación e implementación del web application. Asimismo, se mostrarán los avances del proyecto e insights de colaboración a través de Github.
+
+|Sprint #|Sprint 2|
+| :- | :- |
+|Sprint Planning Background||
+|Date|22 de abril del 2024|
+|Time|X horas (GMT -5)|
+|Location|Modalidad remota por Discord|
+|Prepared By|From Zero|
+|Attendees (to planning meeting)|Todos los miembros del grupo From Zero|
+|Sprint n – 1 Review Summary|Se logró implementar el landing page y se desplegó en Netlify|
+|Sprint n – 2 Retrospective Summary|En este sprint se planea desarrollar el web application con el framework Vue.js, herramienta la cual ha sido usada y enseñada a lo largo del curso. Además, se conversó sobre la distribución de pantallas del web application que desarrolla cada uno de acuerdo al diseño que se ha implementado anteriormente a través de Figma. Al finalizar este sprint, el web application debe estar desplegado en Netlify y cualquier usuario debería poder acceder y visualizar la página a través del link.|
+|Sprint Goal & User Stories||
+|Sprint 2 Velocity|5|
+|Sum of Story Points|48|
+
+#### 5.2.2.2. Sprint Backlog 2
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura del tablero y el link en Trello.
+![Tablero del sprint 2 en trello](https://imgur.com/LZI5U9O.jpg)
+Link de Trello: [https://trello.com/b/SG4K7mXW/webmsaters-sprint-2](https://trello.com/b/SG4K7mXW/webmsaters-sprint-2)
+<table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
+<tr><td colspan="2" valign="top">USer Story</td><td colspan="6" valign="top">Work-item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top">Status (To-do / in Process / To - Review / (Done)</td></tr>
+<tr><td rowspan="2" valign="top"><p></p><p>E2-US101</p></td><td rowspan="2" valign="top">Registro e inicio de sesión</td><td valign="top">T1</td><td valign="top">Interfaz de usuario del inicio de registro de cuentas</td><td valign="top">Implementar interfaz de los formularios para registro de cuentas tanto para empresario y freelancer.</td><td valign="top"></td><td valign="top">Samira</td><td valign="top"></td></tr>
+<tr><td valign="top">T2</td><td valign="top">Lógica de inicio de sesión con el api</td><td valign="top">Implementar la lógica para que el usuario pueda ingresar los datos de un usuario existente que le permitirá entrar a la aplicación</td><td valign="top">4</td><td valign="top">Zaid Ramirez</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E2-US102</td><td valign="top">Formulario de login</td><td valign="top">T3</td><td valign="top">Interfaz de usuario del inicio de sesión de cuentas</td><td valign="top">Implementar interfaz de los formularios para inicio de sesión tanto para empresario y freelancer.</td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td rowspan="2" valign="top">E2-US103</td><td rowspan="2" valign="top">Recuperación de contraseñas </td><td valign="top">T4</td><td valign="top">Formulario de recuperación de contraseña</td><td valign="top">Implementar interfaz estática para realizar petición de recuperación de contraseña.</td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top">T5</td><td valign="top">Formulario de cambio de contraseña</td><td valign="top">Implementar interfaz estática para realizar el cambio de contraseña</td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td rowspan="4" valign="top">E3-US101</td><td rowspan="4" valign="top">Pantalla de inicio empresario</td><td valign="top">T6</td><td valign="top">Interfaz de perfil de usuario empresario</td><td valign="top">Implementar interfaz de usuario con datos de la cuenta.</td><td valign="top">21</td><td valign="top">Zaid Ramirez</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T7</td><td valign="top">Interfaz de edicion del usuario<br>empresario</td><td valign="top">Implementar botones que permitan editar el perfil del usuario</td><td valign="top">6</td><td valign="top">Zaid Ramirez</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T8</td><td valign="top">Interfaz de Proyectos<br>empresario</td><td valign="top">Implementar interfaz de los proyectos que ha creado el empresario</td><td valign="top">12</td><td valign="top">Zaid Ramirez</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T9</td><td valign="top">Interfaz de visualización de freelancer en el proyecto</td><td valign="top">Implementar una opción que permite visualizar a los freelancers que están en proyecto</td><td valign="top">14</td><td valign="top">Zaid Ramirez</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E3-US102</td><td valign="top">Publicar una solicitud de proyecto de desarrollo web</td><td valign="top">T10</td><td valign="top">Formulario Crear Proyecto</td><td valign="top">Implementar un formulario que nos permita crear un proyecto</td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top">E3-US103</td><td valign="top">Sistema de postulación</td><td valign="top">T11</td><td valign="top">Interfaz de aceptar o rechazar postulaciones de </td><td valign="top">Implementar una interfaz que nos permita aceptar o rechazar las solicitudes de desarrollo de los freelancers</td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td rowspan="2" valign="top">E3-US106</td><td rowspan="2" valign="top">Sistema de entregables</td><td valign="top">T12</td><td valign="top">Interfaz de visualizar los entregables creados</td><td valign="top">Implementar una interfaz que nos permita visualizar los entregables que ha creado anteriormente el empresario</td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top">T13</td><td valign="top">Formulario crear entregable</td><td valign="top">Implementar un formulario que nos permita crear los entregables del proyecto</td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top">E3-US104</td><td valign="top">Sistema de calificación de desarrolladores</td><td valign="top">T14</td><td valign="top">Interfaz de calificación</td><td valign="top">Implementar una interfaz que nos permite visualizar la calificación del freelancer para conocer su fiabilidad</td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td rowspan="3" valign="top">E4-US101</td><td rowspan="3" valign="top">Pantalla de inicio del freelancer</td><td valign="top">T15</td><td valign="top">Interfaz de perfil de usuario freelancer</td><td valign="top">Implementar interfaz de usuario con datos de la cuenta.</td><td valign="top">18</td><td valign="top">Zaid Ramirez</td><td valign="top">To-do</td></tr>
+<tr><td valign="top">T16</td><td valign="top">Interfaz de edicion del usuario<br>freelancer</td><td valign="top">Implementar botones que permitan editar el perfil del usuario</td><td valign="top">4</td><td valign="top">Zaid Ramirez</td><td valign="top">To-do</td></tr>
+<tr><td valign="top">T17</td><td valign="top">Interfaz de Proyectos<br>freelancer</td><td valign="top">Implementar interfaz de los proyectos que desarrolla el freelancer</td><td valign="top">8</td><td valign="top">Zaid Ramirez</td><td valign="top">To-do</td></tr>
+<tr><td valign="top">E4-US102</td><td valign="top">Postularse para Proyectos de Desarrollo Web</td><td valign="top">T18</td><td valign="top">Interfaz postular proyecto</td><td valign="top">Implementar una interfaz que permita postular a los freelancers a los proyectos de interés</td><td valign="top">10</td><td valign="top">André <br>Arroyo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E4-US103</td><td valign="top">Sistema de calificación de pago de los proyectos</td><td valign="top">T19</td><td valign="top">Interfaz clasificar proyectos por calificación</td><td valign="top">Implementar una interfaz de clasificar los proyectos de acuerdo al pago al momento de buscar proyectos</td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top">E4-US104</td><td valign="top">Sistema de notificaciones para la entrega de avance de la página web</td><td valign="top">T20</td><td valign="top">Interfaz que notifica la entrega de avance de la página web</td><td valign="top">Implementar una interfaz que permite notificar la entrega de los avances web</td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+</table>
+
 # Conclusiones
 # Conclusiones y recomendaciones.
 
