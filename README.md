@@ -1538,7 +1538,7 @@ A continuación, se presentan los commits realizados en el repositorio del web a
 Repositorio en Github: <https://github.com/WebMastersUPC/webmaster-app>
 
 <table><tr><th valign="top">Repository</th><th valign="top">Branch</th><th valign="top">Commit Id</th><th valign="top">Commit Message</th><th valign="top">Commit Message body</th><th valign="top">Committed on (Date)</th></tr>
-<tr><td rowspan="65" valign="top">WebMastersUPC/Webmaster-app</td><td valign="top">develop</td><td valign="top">77b638a4a6635ff647bb13619fa0310e5432d1b4</td><td valign="top">Initial commit</td><td valign="top"></td><td valign="top">23/04/2024</td></tr>
+<tr><td rowspan="74" valign="top">WebMastersUPC/Webmaster-app</td><td valign="top">develop</td><td valign="top">77b638a4a6635ff647bb13619fa0310e5432d1b4</td><td valign="top">Initial commit</td><td valign="top"></td><td valign="top">23/04/2024</td></tr>
 <tr><td valign="top">develop</td><td valign="top">e21bd0aaec071a6fc23a70b4d686f6116f21d839</td><td valign="top">Chore: Initial configuration</td><td valign="top"></td><td valign="top">23/04/2024</td></tr>
 <tr><td valign="top">develop</td><td valign="top">3a39081709d65427b1b691549dd93ada2f4c680f</td><td valign="top">chore: readme changes</td><td valign="top"></td><td valign="top">23/04/2024</td></tr>
 <tr><td valign="top">develop</td><td valign="top">a43d1c609da662b8fe2523bc330dbbe06dbc6ef9</td><td valign="top">feat: adding prime vue and prime flex</td><td valign="top"></td><td valign="top">23/04/2024</td></tr>
