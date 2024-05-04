@@ -1619,7 +1619,7 @@ En el alcance del sprint 2 se ha desarrollado únicamente el front-end del web a
 
 #### 5.2.2.5. Execution Suite Evidence for Sprint Review
 En esta sección se presentan las capturas de las pantallas más relevantes del web application las cuales se desarrollaron en este sprint. Además, se puede acceder al web application a partir del siguiente link.
-Web application deployment:
+Web application deployment: https://webmasterupcapp.netlify.app 
 <br>
 <br>
 <img src="https://media.discordapp.net/attachments/1236314230395895848/1236316638715052127/login.PNG?ex=66379118&is=66363f98&hm=6df242c06c7e7bf7e5d2d4a1e802cbd057b6e52b2500adf5332771a747b9a568&=&format=webp&quality=lossless&width=825&height=460">
