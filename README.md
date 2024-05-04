@@ -1603,6 +1603,15 @@ Repositorio en Github: <https://github.com/WebMastersUPC/webmaster-app>
 <tr><td valign="top">develop</td><td valign="top">d55f97534c3bd5880299ae50a10efe7ef4e66cb7</td><td valign="top"><p>Merge pull request #9 from WebMastersUPC/feature/support</p><p></p></td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
 <tr><td valign="top">develop</td><td valign="top">6446672d5fea9f6d82396ee26d3c263b7be9aa1c</td><td valign="top">Merge branch 'develop' into feature/toolbar-footer</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
 <tr><td valign="top">develop</td><td valign="top">71a7d23b53ab43645a388cee3d6f26a887f724b8</td><td valign="top">Merge pull request #10 from WebMastersUPC/feature/toolbar-footer</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">feature/api-connection</td><td valign="top">e1f70646ef6a03668d801ba3ec4b1b54370c31c7</td><td valign="top">feat: added login function</td><td valign="top"></td><td valign="top">2/05/2024</td></tr>
+<tr><td valign="top">feature/api-connection</td><td valign="top">3bd35427a755fe55605561af91b39377043da32b</td><td valign="top">feat: api conection to company-main-page.component</td><td valign="top"></td><td valign="top">3/05/2024</td></tr>
+<tr><td valign="top">feature/api-connection</td><td valign="top">d2dd9a9ec84d9861fd2c12b90a66577789ddcfae</td><td valign="top">feat: added api consume to project list</td><td valign="top"></td><td valign="top">3/05/2024</td></tr>
+<tr><td valign="top">feature/api-connection</td><td valign="top">cf04138f002f8e1e2249e2f937dc7e03a3e5315b</td><td valign="top">feat: routing search-developer</td><td valign="top"></td><td valign="top">3/05/2024</td></tr>
+<tr><td valign="top">feature/api-connection</td><td valign="top">13c1486a0f21429706a175d31bf856c73202040d</td><td valign="top">feat: added api consume to project list</td><td valign="top"></td><td valign="top">3/05/2024</td></tr>
+<tr><td valign="top">feature/api-connection</td><td valign="top">632c6f71f503db82d24afd4f6f693921fe46dfea</td><td valign="top">feat: adding developer-profile card</td><td valign="top"></td><td valign="top">3/05/2024</td></tr>
+<tr><td valign="top">feature/api-connection</td><td valign="top">b4a85b081c2a3a93d0b28167478af5a7811e0bdc</td><td valign="top">feat: adding routing for message since developer</td><td valign="top"></td><td valign="top">3/05/2024</td></tr>
+<tr><td valign="top">feature/api-connection</td><td valign="top">bc86923574ef86543fe40be0a80666544e5f1be8</td><td valign="top">feat: add routing in authentication</td><td valign="top"></td><td valign="top">4/05/2024</td></tr>
+<tr><td valign="top">feature/api-connection</td><td valign="top">4a67894cf7a832f9a9f1d6dfd663e1827b0842f4</td><td valign="top">feat: add aria labels</td><td valign="top"></td><td valign="top">4/05/2024</td></tr>
 </table>
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
