@@ -1532,6 +1532,79 @@ Link de Trello: [https://trello.com/b/SG4K7mXW/webmsaters-sprint-2](https://trel
 <tr><td valign="top">E4-US104</td><td valign="top">Sistema de notificaciones para la entrega de avance de la página web</td><td valign="top">T20</td><td valign="top">Interfaz que notifica la entrega de avance de la página web</td><td valign="top">Implementar una interfaz que permite notificar la entrega de los avances web</td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
 </table>
 
+#### 5.2.2.3. Deployment Evidence for Sprint Review
+
+A continuación, se presentan los commits realizados en el repositorio del web application en Github.
+Repositorio en Github: <https://github.com/WebMastersUPC/webmaster-app>
+
+<table><tr><th valign="top">Repository</th><th valign="top">Branch</th><th valign="top">Commit Id</th><th valign="top">Commit Message</th><th valign="top">Commit Message body</th><th valign="top">Committed on (Date)</th></tr>
+<tr><td rowspan="65" valign="top">WebMastersUPC/Webmaster-app</td><td valign="top">develop</td><td valign="top">77b638a4a6635ff647bb13619fa0310e5432d1b4</td><td valign="top">Initial commit</td><td valign="top"></td><td valign="top">23/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">e21bd0aaec071a6fc23a70b4d686f6116f21d839</td><td valign="top">Chore: Initial configuration</td><td valign="top"></td><td valign="top">23/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">3a39081709d65427b1b691549dd93ada2f4c680f</td><td valign="top">chore: readme changes</td><td valign="top"></td><td valign="top">23/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">a43d1c609da662b8fe2523bc330dbbe06dbc6ef9</td><td valign="top">feat: adding prime vue and prime flex</td><td valign="top"></td><td valign="top">23/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">c21daa5309afcfb627552570fa353dd5e5970518</td><td valign="top">chore: deleting HelloWorld component</td><td valign="top"></td><td valign="top">23/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">19518b774a3ec096ea0ee0248edc10b63b11f0e6</td><td valign="top">feat: paginator, developer-card and list</td><td valign="top"></td><td valign="top">23/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">1ae90f8032a979b4b828326e6e1a37fc39291e68</td><td valign="top">feat: adding background</td><td valign="top"></td><td valign="top">23/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">15a2274147198d576b2dc001b032267cd40ffd5f</td><td valign="top">feat: deliverable, projects model and components</td><td valign="top"></td><td valign="top">24/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">4a1ea5d0d4723eb9cefd35b581e2d313dc2dfa2d</td><td valign="top">feat: creating viewing components for homepage</td><td valign="top"></td><td valign="top">24/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">bbb926661a92c54f67f1db506d2bd46effcf1274</td><td valign="top">feat: resizing cards</td><td valign="top"></td><td valign="top">24/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">95629bccf8bcd859fa445a3cf0cd55b4897501e3</td><td valign="top">feat: refactoring hover animation</td><td valign="top"></td><td valign="top">24/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">9761db89160d2e373496c1f0bbcedad4bef7a6f2</td><td valign="top">feat: adding support component</td><td valign="top"></td><td valign="top">24/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">5ff77307a0e56774194b6bdc5bd1df6d15e74ce0</td><td valign="top">feat: deliverable card test in app.vue</td><td valign="top"></td><td valign="top">25/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">311fe7e3563a60f36be2899ec000132e807919f2</td><td valign="top">feat: add authentication components</td><td valign="top"></td><td valign="top">25/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">026f931dbe47c204bc9b381d59f133fbad336202</td><td valign="top">feat: add authentication's style</td><td valign="top"></td><td valign="top">25/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">6d55da1104388ae3327cd47e49a326772e8b6277</td><td valign="top">feat: adding formatDate and changes on deli-card</td><td valign="top"></td><td valign="top">25/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">3a2590262eecdd590ca6405216e385cc306a58f6</td><td valign="top">feat: adding confirmationg dialog</td><td valign="top"></td><td valign="top">25/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">cee454b0bd9641d64664019b20ca6a7099f59fcd</td><td valign="top">feat: adding file upload</td><td valign="top"></td><td valign="top">25/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">4bf65a444f105f5889543f523ba1138250aed860</td><td valign="top">feat: add deliverables component list</td><td valign="top"></td><td valign="top">26/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">bcfbd4b9dfe68e7e44eb415b279d105cb8bad530</td><td valign="top">feat: adding project, dev and company entities</td><td valign="top"></td><td valign="top">26/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">fd103c5beb461ac64c7f3417f517f1be31e70e2a</td><td valign="top">commit: adding confirmationDialog in the page</td><td valign="top"></td><td valign="top">26/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">8f31beb9a6ef195ec841a9cf553c54930bf822fb</td><td valign="top">feat: adding confirmation-create-deliverable</td><td valign="top"></td><td valign="top">27/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">c6f3958e9eb1f103b7cdec67e02d0090c2bb4215</td><td valign="top">holi</td><td valign="top"></td><td valign="top">27/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">41fbd3b289a842e49ffdb78ed3ebdb6013b5c9d2</td><td valign="top">holi 2</td><td valign="top"></td><td valign="top">27/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">cd659f93b52c2c46486c25f3161ad7f69f398cfe</td><td valign="top">feat: change styles location</td><td valign="top"></td><td valign="top">27/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">dd41f7199f7967e8632e9a452779f04d0ecc2fc8</td><td valign="top">feat: added project list component</td><td valign="top"></td><td valign="top">27/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">947a358c388607c5f6f8546b4d248cce0dace3cb</td><td valign="top">fix: fixed applicants list vewing problem</td><td valign="top"></td><td valign="top">27/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">8f5fbd164738c0e249338fe40c5197bd08a25272</td><td valign="top">feat: edit modal and cards style</td><td valign="top"></td><td valign="top">27/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">860e065e13836d7ca4321d2f2de8cf6d72d86460</td><td valign="top">feat: edit button's style</td><td valign="top"></td><td valign="top">27/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">e7e40033ace5bfc3f4a26b3e302246d035e9a8eb</td><td valign="top">feat: creating component project creation</td><td valign="top"></td><td valign="top">28/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">d55f8a68d93d6d6195be0a1b0e2688f87feac9cf</td><td valign="top">feat: toolbar-webstorm added</td><td valign="top"></td><td valign="top">28/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">aca8e2d00b21ba95ed061a7b098408f95913d752</td><td valign="top">feat: footer-webstorm added</td><td valign="top"></td><td valign="top">28/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">40dd396dd8ae8cf3268c32606d3f94d2b537f243</td><td valign="top">feat: postulate-project added</td><td valign="top"></td><td valign="top">28/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">fc554661f379898cae5dea540eeb03190a06403b</td><td valign="top">feat: added selection logic</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">56152080b71d7a074544928771675fecc68997ed</td><td valign="top">feat: add edit mode</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">1c34f85835398880c78891db4296116850205b65</td><td valign="top">feat: delete import from app.vue</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">86489fc97375c7870d6e3c3699d604cac5005f5e</td><td valign="top">feat: delete import from App.vue</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">8b5ddc7d0a0ce3f9f13a9c7cdcd7eb1f1dab8579</td><td valign="top">Merge pull request #1 from WebMastersUPC/feature/authentication</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">ebeda9687b47961842cd61cba9b1c125c2b19e5f</td><td valign="top">Merge branch 'develop' into feature/deliverables-schedule</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">946b8b59e06fa9029cb9dd645fecb4d26814ace4</td><td valign="top">Merge pull request #2 from WebMastersUPC/feature/deliverables-schedule</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">390114f49f499dc34c65cf70e320a56ca032793c</td><td valign="top">fix: cleaning app.vue</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">01ee7a8f1009bf1e840c346237cdd63ce73dcc8c</td><td valign="top">fix: clean app.vue</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">c0d3a75189ff7e779cf11a6aeee9faf67189c990</td><td valign="top">fix: cleaning App.vue</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">03b3fe102cc53525b9f804e223234542e4f20dc8</td><td valign="top">fix: clean app.vue</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">f9369146c16da324d49c9775832af389be928df6</td><td valign="top">fix: deleting from app.vue</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">69a9806ee08c5defe7cdf5223f829206c641a5f5</td><td valign="top">Merge branch 'develop' into feature/search-developer</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">19e06b24657b29571f68c7391bdbc582052ef3e5</td><td valign="top">fix: cleaning App.vue</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">7854a8ed4cd6fe236763e4514761b96f8d934a11</td><td valign="top">Merge pull request #3 from WebMastersUPC/feature/search-developer</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">51a45bb1b1ac73f0bf060524933c0b8c1c549daa</td><td valign="top">fix: cleaning App.vue</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">67c0c32e488cc1880d2422f4984c527b1a901573</td><td valign="top">fix: cleaning App.vue</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">4ed8a647a546736a724d8c56da2b0ee64b3b169f</td><td valign="top">Merge branch 'develop' into feature/review-create-deliverables</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">4411264dd2c04a5b12bf09f40bf837b9ed465530</td><td valign="top">Merge pull request #4 from WebMastersUPC/feature/review-create-deliverables</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">0a2b388d2a96bdb28faa0bf3a07f5b6938768bae</td><td valign="top">Merge branch 'develop' into feature/home-page</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">15e18e2e9c37f276939f9a2c7a2bee4c89e7cf26</td><td valign="top">Merge pull request #5 from WebMastersUPC/feature/home-page</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">ec2077d8d1340bf4e1b0ac7ff2f21142c8b50f92</td><td valign="top">Merge branch 'develop' into feature/create-project</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">6ee97ff800fb3ed3757078f476993b100452b7b9</td><td valign="top">Merge pull request #6 from WebMastersUPC/feature/create-project</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">79f8ce530d00334322b775fc510bf9815a2bcaef</td><td valign="top">chore: update primevue version</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">c9956f1bab5a12f11ac75adeab4f06a843821b89</td><td valign="top">Merge branch 'develop' into feature/message</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">ceacac7dcc7726bb467b70b89fff5dd89819411e</td><td valign="top">Merge pull request #7 from WebMastersUPC/feature/message</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">3fefdcfedb5db6a479f99886db432e2d90b50257</td><td valign="top">Merge branch 'develop' into feature/postulate</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">1c1f8bc58fb89ae55166e738b3126f1ef6f15f31</td><td valign="top">Merge pull request #8 from WebMastersUPC/feature/postulate</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">6714c96ca19e967cd4a4d517942151a6635fe6c0</td><td valign="top">Merge branch 'develop' into feature/support</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">d55f97534c3bd5880299ae50a10efe7ef4e66cb7</td><td valign="top"><p>Merge pull request #9 from WebMastersUPC/feature/support</p><p></p></td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">6446672d5fea9f6d82396ee26d3c263b7be9aa1c</td><td valign="top">Merge branch 'develop' into feature/toolbar-footer</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+<tr><td valign="top">develop</td><td valign="top">71a7d23b53ab43645a388cee3d6f26a887f724b8</td><td valign="top">Merge pull request #10 from WebMastersUPC/feature/toolbar-footer</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
+</table>
+
 # Conclusiones
 # Conclusiones y recomendaciones.
 
