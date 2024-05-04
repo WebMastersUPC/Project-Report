@@ -1605,6 +1605,13 @@ Repositorio en Github: <https://github.com/WebMastersUPC/webmaster-app>
 <tr><td valign="top">develop</td><td valign="top">71a7d23b53ab43645a388cee3d6f26a887f724b8</td><td valign="top">Merge pull request #10 from WebMastersUPC/feature/toolbar-footer</td><td valign="top"></td><td valign="top">30/04/2024</td></tr>
 </table>
 
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+En el alcance del sprint 2 se ha desarrollado únicamente el front-end del web application, por consiguiente, no se evidencia el testing
+
+#### 5.2.2.5. Testing Suite Evidence for Sprint Review
+En esta sección se presentan las capturas de las pantallas más relevantes del web application las cuales se desarrollaron en este sprint. Además, se puede acceder al web application a partir del siguiente link.
+Web application deployment:
+
 # Conclusiones
 # Conclusiones y recomendaciones.
 
