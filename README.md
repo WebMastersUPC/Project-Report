@@ -806,22 +806,24 @@ Link: <https://miro.com/app/board/uXjVKdVpEPw=/?share_link_id=435283866563> <br>
 |11|E2-US103|Recuperación de contraseñas|**Como** usuario **quiero** que la aplicación tenga un apartado que me permita recuperar mi contraseña en caso me olvide  **para** ingresar a mi cuenta de usuario|3|
 |12|E3-US101|Pantalla de inicio del empresario|**Como** empresario **quiero** visualizar todos los proyectos publicados **para** poder ver fácilmente el progreso de los mismos|3|
 |13|E4-US101|Pantalla de inicio del freelancer|**Como** freelancer **quiero** visualizar todos los proyectos que debo de desarrollar  **para** poder tener facilidades en el  envío de los avances |3|
-|14|E3-US102|Publicar una solicitud de proyecto de desarrollo web|**Como** empresario que necesita una página web, **quiero** utilizar la aplicación para publicar una solicitud de proyecto de desarrollo web **para** que los freelancer  interesados puedan contactarnos.|3|
-|15|E4-US102|Postularse para Proyectos de Desarrollo Web|**Como** freelancer, **quiero** utilizar la aplicación **para** buscar proyectos de desarrollo web publicados por empresas y postularse a aquellos que se ajusten a mis habilidades y disponibilidad.|3|
-|16|E3-US103|Sistema de postulación|**Como** empresario **quiero** un sistema de postulación **para** poder rechazar o aceptar a los  freelancer|5|
-|17|E3-US104|Sistema de calificacion de desarrolladores|**Como** empresario **quiero** un sistema de calificación **para** conocer la fiabilidad de los desarrolladores web.|5|
-|18|E3-US105|Visualizar repositorio de un desarrollador |**Como** empresario premium **quiero** visualizar una lista con los trabajos realizados por un desarrollador **para** poder tener una mayor confianza al momento de necesitar contactar con alguno|3|
-|19|E4-US103|Sistema de calificación de pago de los proyectos|**Como** freelancer **quiero** que la aplicación organice los proyecto en función del más pagado **para** escoger más rápido el proyecto de software|2|
-|20|E3-US106|Sistema de entregables|**Como** empresario **quiero** un sistema de entregables **para** establecer una fecha límite a la creación de mi proyecto|5|
-|21|E4-US104|Sistema de notificaciones para la entrega de avance de la página web|**Como** freelancer **quiero** que la aplicación me notifique las fechas de entrega de los avances  **para** poder cumplir el proyecto en las fechas establecidas |5|
-|22|E3-US107|Sistema de reclutamiento de freelancers|**Como** empresario **quiero** un sistema de reclutamiento **para** poder enviar solicitud de desarrollo de mi proyecto a los freelancer|5|
-|23|E4-US105|Sistema de postulación de empresarios|**Como** freelancer **quiero** un sistema de reclutamiento **para** poder aceptar o rechazar las invitaciones de desarrollo de los empresarios|3|
-|24|E3-US108|Visualizar lista de desarrolladores por calificación|<p>**Como** empresario **quiero** visualizar una lista con los desarrolladores mejor calificados **para** ahorrar tiempo de contacto y contratación</p>|3|
-|25|E4-US106|Sistema de notificaciones de proyectos recomendados|**Como** freelancer premium **quiero** que la aplicación me notifique proyectos de acuerdo a mis habilidades **para** obtener más rápido un proyecto a desarrollar|5|
-|26|E3-US109|Mayor visibilidad de proyecto|**Como** empresario premium **quiero** mayor visibilidad en mis proyectos **para** conseguir más rápido freelancers al proyecto|3|
-|27|E4-US107|Mayor visibilidad en postulación de proyectos|**Como** freelancer premium **quiero** tener prioridad en la lista de postulación **para** tener mayor probabilidad de ser aceptado en el desarrollo del proyecto|3|
-|28|E3-US110|Sistema de verificado para el empresario|**Como** empresario premium **quiero** el sistema de verificado **para** dar mayor fiabilidad y confianza a los freelancer|3|
-|29|E4-US108|Sistema de verificado para los freelancer|**Como** freelancer premium **quiero** el sistema de verificado **para** generar mayor fiabilidad a los empresarios|3|
+|14|E3-US111|Sistema de navegación del empresario|**Como** empresario **quiero** un sistema de navegación **para** tener accesos directo a la aplicación.|3|
+|15|E4-US109|Sistema de navegación del freelancer|**Como** freelancer **quiero** una barra de navegación **para** tener accesos directos dentro de la aplicación|3|
+|16|E3-US102|Publicar una solicitud de proyecto de desarrollo web|**Como** empresario que necesita una página web, **quiero** utilizar la aplicación para publicar una solicitud de proyecto de desarrollo web **para** que los freelancer  interesados puedan contactarnos.|3|
+|17|E4-US102|Postularse para Proyectos de Desarrollo Web|**Como** freelancer, **quiero** utilizar la aplicación **para** buscar proyectos de desarrollo web publicados por empresas y postularse a aquellos que se ajusten a mis habilidades y disponibilidad.|3|
+|18|E3-US103|Sistema de postulación|**Como** empresario **quiero** un sistema de postulación **para** poder rechazar o aceptar a los  freelancer|5|
+|19|E3-US104|Sistema de calificacion de desarrolladores|**Como** empresario **quiero** un sistema de calificación **para** conocer la fiabilidad de los desarrolladores web.|5|
+|20|E3-US105|Visualizar repositorio de un desarrollador |**Como** empresario premium **quiero** visualizar una lista con los trabajos realizados por un desarrollador **para** poder tener una mayor confianza al momento de necesitar contactar con alguno|3|
+|21|E4-US103|Sistema de calificación de pago de los proyectos|**Como** freelancer **quiero** que la aplicación organice los proyecto en función del más pagado **para** escoger más rápido el proyecto de software|2|
+|22|E3-US106|Sistema de entregables|**Como** empresario **quiero** un sistema de entregables **para** establecer una fecha límite a la creación de mi proyecto|5|
+|23|E4-US104|Sistema de notificaciones para la entrega de avance de la página web|**Como** freelancer **quiero** que la aplicación me notifique las fechas de entrega de los avances  **para** poder cumplir el proyecto en las fechas establecidas |5|
+|24|E3-US107|Sistema de reclutamiento de freelancers|**Como** empresario **quiero** un sistema de reclutamiento **para** poder enviar solicitud de desarrollo de mi proyecto a los freelancer|5|
+|25|E4-US105|Sistema de postulación de empresarios|**Como** freelancer **quiero** un sistema de reclutamiento **para** poder aceptar o rechazar las invitaciones de desarrollo de los empresarios|3|
+|26|E3-US108|Visualizar lista de desarrolladores por calificación|<p>**Como** empresario **quiero** visualizar una lista con los desarrolladores mejor calificados **para** ahorrar tiempo de contacto y contratación</p>|3|
+|27|E4-US106|Sistema de notificaciones de proyectos recomendados|**Como** freelancer premium **quiero** que la aplicación me notifique proyectos de acuerdo a mis habilidades **para** obtener más rápido un proyecto a desarrollar|5|
+|28|E3-US109|Mayor visibilidad de proyecto|**Como** empresario premium **quiero** mayor visibilidad en mis proyectos **para** conseguir más rápido freelancers al proyecto|3|
+|29|E4-US107|Mayor visibilidad en postulación de proyectos|**Como** freelancer premium **quiero** tener prioridad en la lista de postulación **para** tener mayor probabilidad de ser aceptado en el desarrollo del proyecto|3|
+|30|E3-US110|Sistema de verificado para el empresario|**Como** empresario premium **quiero** el sistema de verificado **para** dar mayor fiabilidad y confianza a los freelancer|3|
+|31|E4-US108|Sistema de verificado para los freelancer|**Como** freelancer premium **quiero** el sistema de verificado **para** generar mayor fiabilidad a los empresarios|3|
 
 
 # Capítulo IV: Product Design
