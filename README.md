@@ -1383,19 +1383,71 @@ Como organización contamos con un repositorio del landing page, es la cual se e
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
 
-|<a name="_6cxtvwxzjfs6"></a>Sprint #|Sprint 1|
-| :- | :- |
-|Sprint Planning Background||
-|Date|7 de abril del 2024|
-|Time|X horas (GMT -5)|
-|Location|Modalidad remota por Discord|
-|Prepared By|From Zero|
-|Attendees (to planning meeting)|Todos los miembros del grupo From Zero|
-|Sprint n – 0 Review Summary|Dado que se trata del primer sprint, no hay un review summary de un sprint anterior.|
-|Sprint n – 1 Retrospective Summary|En este sprint se planea desarrollar el landing page con el framework de estilos Boostrap, herramienta nueva para algunos miembros del equipo. Además, se conversó sobre el contenido de los textos dentro del landing page y el diseño que se ha implementado anteriormente a través de Figma. Al finalizar este sprint, el landing page debe estar desplegado en Netlify y cualquier usuario debería poder acceder y visualizar la página a través del link.|
-|Sprint Goal & User Stories||
-|Sprint 1 Velocity|8|
-|Sum of Story Points|8|
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 1 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 7/3/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 19:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de la plataforma Discord <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> From Zero <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Alvarez Araguache, Samira Jetzabel
+        <br>
+          Arroyo Ormeño, André Alonso
+           <br>
+         Ramirez Contreras, Zaid Valentino
+          <br>
+           Llacchua Peralta Joseph Ulysses
+          <br>
+	 Velasquez Pizarro, Jair
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
+        <td> Dado que se trata del primer sprint, no hay un review summary de un sprint anterior.<td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+        <td> Dado a que nos encontramos en nuestro primer sprint, aun no identifcamos planes de mejora.<td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Goal</td>
+          <td> En este sprint se espera implementar la landing page de la aplicación web y la startup. Al finalizar este sprint, la landing page debe estar desplegada en Netlifly y cualquier usuario debería poder acceder y visualizar la página a través de un link. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+          <td> 8 <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 8 <td>
+      </tr>
+
+
+  </table>
+  
 
 #### 5.2.1.2. Sprint Backlog 1.
 
@@ -1486,6 +1538,129 @@ El equipo de desarrollo del landing utilizo las ramas para desarrollar cada secc
 <img src="./assets/Insights/ramas.png">
 <img src="./assets/Insights/contributors.png">
 
+
+## 5.2.2. Sprint 2
+
+### 5.2.1.2. Sprint Planning 2 
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 2 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 22/04/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 22:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de la plataforma Discord <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> From Zero <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Alvarez Araguache, Samira Jetzabel
+        <br>
+          Arroyo Ormeño, André Alonso
+           <br>
+         Ramirez Contreras, Zaid Valentino
+          <br>
+           Llacchua Peralta Joseph Ulysses
+          <br>
+	 Velasquez Pizarro, Jair
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+        <td> Durante el Sprint 1, se implementó con éxito la landing page y se realizó su despliegue en Netlify. Se cumplió satisfactoriamente con todos los requisitos funcionales del sprint.<td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+        <td> En el sprint 1, nuestro trabajo colaborativo y la clara definición de los alcances de cada tarea permitieron una entrega exitosa. No obstante, consideramos necesario optimizar la planificación de nuestros tiempos de entrega para futuras iteraciones.<td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Goal</td>
+          <td>  En este sprint se tiene como objetivo implementar el frontend de la aplicación web, utilizando las tecnologías Vue.js y PrimeFlex para el frontend y JSON Server para el backend. Se contempla el desarrollo de las secciones de inicio, perfil de empresas, entregables, atención, y postulantes. Además, se planifica el despliegue en la plataforma Netlify. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+          <td> --------  <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> ----- <td>
+      </tr>
+
+
+  </table>
+
+
+### 5.2.2.2. Sprint backlog 2
+
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link al tablero.
+
+Link de Trello: 
+
+<img src="" width:200px/>
+
+<table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 2 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+     <tr>
+      <th> EP2-US-- </th>
+     <th colspan="3"> Nombre  </th>
+      <th> W--  </th>
+     <th> User Bounded Context </th>
+      <th> Implementar ----.
+      </th>
+     <th> --- </th>
+     <th> ------ </th>
+     <th> Done </th> 
+   </tr>
+    <tr>
+      <th> EP2-US-- </th>
+     <th colspan="3"> Inicio de sesión </th>
+      <th> W--  </th>
+     <th> User Bounded Context  </th>
+     <th> Implementar el inicio de sesión desde una cuenta externa o interna.</th>
+     <th> --- </th>
+     <th> ----- </th> 
+     <th> ---- </th>
+   </tr>
+
+</table>
+
+### 5.2.2.3. Development Evidence for Sprint Review.
+
 # Conclusiones
 # Conclusiones y recomendaciones.
 
@@ -1535,13 +1710,6 @@ Teorey, T. J., Lightstone, S. S., & Nadeau, T. (2011).
   https://eketab2.wordpress.com/wp-content/uploads/2007/09/databasemodelinganddesignlogical-design.pdf
 ```
 
-``` 
-formato
-
-"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
-        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
-
-```
 # Anexos
 
 **Landing page deployment**: https://sitewebmasters.netlify.app
