@@ -1617,9 +1617,37 @@ Repositorio en Github: <https://github.com/WebMastersUPC/webmaster-app>
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 En el alcance del sprint 2 se ha desarrollado únicamente el front-end del web application, por consiguiente, no se evidencia el testing
 
-#### 5.2.2.5. Testing Suite Evidence for Sprint Review
+#### 5.2.2.5. Execution Suite Evidence for Sprint Review
 En esta sección se presentan las capturas de las pantallas más relevantes del web application las cuales se desarrollaron en este sprint. Además, se puede acceder al web application a partir del siguiente link.
 Web application deployment:
+<br>
+<br>
+<img src="https://media.discordapp.net/attachments/1236314230395895848/1236316638715052127/login.PNG?ex=66379118&is=66363f98&hm=6df242c06c7e7bf7e5d2d4a1e802cbd057b6e52b2500adf5332771a747b9a568&=&format=webp&quality=lossless&width=825&height=460">
+
+<img src="https://media.discordapp.net/attachments/1236314230395895848/1236316873658728468/registro.PNG?ex=66379150&is=66363fd0&hm=376188b6a024f22abadd415d08b1efccd92bb9ac4c3966edc3ca0a4496ca5313&=&format=webp&quality=lossless&width=1804&height=1002">
+
+
+<img src="https://media.discordapp.net/attachments/1236314230395895848/1236316925504524419/cambiar-contrasenha.PNG?ex=6637915c&is=66363fdc&hm=ceeb093a5bc9c0f96549bb5e8631ec0c7c9d1ad9d67d789d4ef87851a1eaae20&=&format=webp&quality=lossless&width=1806&height=1002">
+
+
+<img src="https://media.discordapp.net/attachments/1236314230395895848/1236314482528227439/home-page.jpg?ex=66378f16&is=66363d96&hm=798f4551842e631e1784bfd8bc8cecc71560a10bcea9c7592f239e35bce97093&=&format=webp&width=1575&height=1000">
+
+<img src="https://media.discordapp.net/attachments/1236314230395895848/1236314712073834506/elegir-postulantes.PNG?ex=66378f4c&is=66363dcc&hm=3ef1ea3dee3ba1efc326eb1cac782625c0ba48b304400e5458edaa373ffba39f&=&format=webp&quality=lossless&width=825&height=510">
+
+
+<img src="https://media.discordapp.net/attachments/1236314230395895848/1236314932556075108/entregables-1.PNG?ex=66378f81&is=66363e01&hm=fcd7d93efc5b1eb64b5a08d916d0ddd21758a28e82fee2eea62f18ec431dcfb6&=&format=webp&quality=lossless&width=825&height=441">
+
+<img src="https://media.discordapp.net/attachments/1236314230395895848/1236315050067628053/entregables-2.PNG?ex=66378f9d&is=66363e1d&hm=e48e86d2a9e0500a7e326b6f130a55a1ff8fadc88dec03f0c3b3ae337a42e39b&=&format=webp&quality=lossless&width=825&height=477">
+
+<img src="https://media.discordapp.net/attachments/1236314230395895848/1236315466662809660/entregables-3.PNG?ex=66379000&is=66363e80&hm=a27f62bafc99ed96f180f33e9e28fbdde4954c758091fb400c8a01c91ab85990&=&format=webp&quality=lossless&width=1762&height=1002">
+
+<img src="https://media.discordapp.net/attachments/1236314230395895848/1236315820343169084/crear-proyecto.jpg?ex=66379055&is=66363ed5&hm=220071d20a60ed515435bdfa02b31937de4a57466ef03dc2e1dcc10f144fff1c&=&format=webp&width=1150&height=1002">
+
+
+<img src="https://media.discordapp.net/attachments/1236314230395895848/1236315965164359680/explorar-desarrolladores.jpg?ex=66379077&is=66363ef7&hm=e95bef39177c46871bd56787af32f312f99f768f8203c867fd7b68d13992e8e1&=&format=webp&width=1155&height=1002">
+
+<img src="https://media.discordapp.net/attachments/1236314230395895848/1236316157275934730/mensajes.jpg?ex=663790a5&is=66363f25&hm=255edaef7b83ae79d17700105db2cf00e76b9eacde495f294fc7bab23232bd3e&=&format=webp&width=1428&height=1002">
+
 
 # Conclusiones
 # Conclusiones y recomendaciones.
