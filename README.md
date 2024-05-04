@@ -1780,3 +1780,5 @@ Teorey, T. J., Lightstone, S. S., & Nadeau, T. (2011).
 **Repositorio en Github**: https://github.com/WebMastersUPC
 
 **Presentación TB1**: [upc-pre-202401-si730-WX54- FromZero-expo-tb1](https://upcedupe-my.sharepoint.com/personal/u20211a046_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211a046_upc_edu_pe%2FDocuments%2Fupc-pre-202401-si730-WX54-%20FromZero-expo-tb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+**Presentación TP**: [upc-pre-202401-si730-WX54- FromZero-expo-tp](https://upcedupe-my.sharepoint.com/personal/u20211a046_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211a046_upc_edu_pe%2FDocuments%2Fupc-pre-202401-si730-WX54-%20FromZero-expo-tb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
