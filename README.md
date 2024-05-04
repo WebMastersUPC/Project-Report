@@ -25,6 +25,7 @@
 | 1.1 | 09/04/2024 | Grupo 4 | Capitulo 3 |
 | 1.1 | 11/04/2024 | Grupo 4 | Capitulo 4 |
 | 1.1 | 12/04/2024 | Grupo 4 | Capitulo 5 |
+| 1.2 | 12/04/2024 | Grupo 4 | Capitulo 5 Sprint 2 |
 
 # Project Report Collaboration Insights
 [URL del repositorio](https://github.com/WebMastersUPC/FromZero-LandingPage.git)
@@ -1384,19 +1385,71 @@ Como organización contamos con un repositorio del landing page, es la cual se e
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
 
-|<a name="_6cxtvwxzjfs6"></a>Sprint #|Sprint 1|
-| :- | :- |
-|Sprint Planning Background||
-|Date|7 de abril del 2024|
-|Time|X horas (GMT -5)|
-|Location|Modalidad remota por Discord|
-|Prepared By|From Zero|
-|Attendees (to planning meeting)|Todos los miembros del grupo From Zero|
-|Sprint n – 0 Review Summary|Dado que se trata del primer sprint, no hay un review summary de un sprint anterior.|
-|Sprint n – 1 Retrospective Summary|En este sprint se planea desarrollar el landing page con el framework de estilos Boostrap, herramienta nueva para algunos miembros del equipo. Además, se conversó sobre el contenido de los textos dentro del landing page y el diseño que se ha implementado anteriormente a través de Figma. Al finalizar este sprint, el landing page debe estar desplegado en Netlify y cualquier usuario debería poder acceder y visualizar la página a través del link.|
-|Sprint Goal & User Stories||
-|Sprint 1 Velocity|8|
-|Sum of Story Points|8|
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 1 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 7/3/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 19:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de la plataforma Discord <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> From Zero <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Alvarez Araguache, Samira Jetzabel
+        <br>
+          Arroyo Ormeño, André Alonso
+           <br>
+         Ramirez Contreras, Zaid Valentino
+          <br>
+           Llacchua Peralta Joseph Ulysses
+          <br>
+	 Velasquez Pizarro, Jair
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
+        <td> Dado que se trata del primer sprint, no hay un review summary de un sprint anterior.<td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+        <td> Dado a que nos encontramos en nuestro primer sprint, aun no identifcamos planes de mejora.<td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Goal</td>
+          <td> En este sprint se espera implementar la landing page de la aplicación web y la startup. Al finalizar este sprint, la landing page debe estar desplegada en Netlifly y cualquier usuario debería poder acceder y visualizar la página a través de un link. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+          <td> 8 <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 8 <td>
+      </tr>
+
+
+  </table>
+  
 
 #### 5.2.1.2. Sprint Backlog 1.
 
@@ -1658,6 +1711,7 @@ El equipo de desarrollo del landing utilizo las ramas para desarrollar cada secc
 <br>
 <br>
 <img src="https://media.discordapp.net/attachments/1236314230395895848/1236330106360954920/image.png?ex=66379da3&is=66364c23&hm=5e881671e5f480394ec9b295d2de68f8d942e84b879c5ac89f75d0294646b5d0&=&format=webp&quality=lossless&width=1920&height=682">
+
 # Conclusiones
 # Conclusiones y recomendaciones.
 
@@ -1707,13 +1761,6 @@ Teorey, T. J., Lightstone, S. S., & Nadeau, T. (2011).
   https://eketab2.wordpress.com/wp-content/uploads/2007/09/databasemodelinganddesignlogical-design.pdf
 ```
 
-``` 
-formato
-
-"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
-        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
-
-```
 # Anexos
 
 **Landing page deployment**: https://sitewebmasters.netlify.app
