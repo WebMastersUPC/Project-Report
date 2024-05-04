@@ -1650,7 +1650,14 @@ Web application deployment: https://webmasterupcapp.netlify.app
 
 <img src="https://media.discordapp.net/attachments/1236314230395895848/1236316157275934730/mensajes.jpg?ex=663790a5&is=66363f25&hm=255edaef7b83ae79d17700105db2cf00e76b9eacde495f294fc7bab23232bd3e&=&format=webp&width=1428&height=1002">
 
-
+#### 5.2.2.6. Team Collaboration Insights during Sprint.
+El equipo de desarrollo del landing utilizo las ramas para desarrollar cada sección, mejorarlo y actualizarlo, la ventaja de usar estas ramas es que permiten actualizar y luego corroborar que no haya algún error al unirla con la rama master(develop). Ahora se presentará el insight del equipo a través de GitHub:
+<br>
+<br>
+<img src="https://media.discordapp.net/attachments/1236314230395895848/1236328223198150756/Sin_titulo.jpg?ex=66379be2&is=66364a62&hm=2a0b6c04af306c927fabd0333fb098f1c532ea1d44962039c18a81f63ae93375&=&format=webp&width=780&height=1002">
+<br>
+<br>
+<img src="https://media.discordapp.net/attachments/1236314230395895848/1236330106360954920/image.png?ex=66379da3&is=66364c23&hm=5e881671e5f480394ec9b295d2de68f8d942e84b879c5ac89f75d0294646b5d0&=&format=webp&quality=lossless&width=1920&height=682">
 # Conclusiones
 # Conclusiones y recomendaciones.
 
