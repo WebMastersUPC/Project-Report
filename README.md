@@ -1739,6 +1739,22 @@ El equipo de desarrollo del landing utilizo las ramas para desarrollar cada secc
 #### 5.3.1. Diseño de Entrevistas.
 
 #### 5.3.2. Registro de Entrevistas.
+**Segmento 1: Segmento empresarios o emprendedores**
+
+**Entrevista 1 (realizada por Zaid Ramirez):**<br>
+**Nombre:** Maverick Mendoza
+**Edad:** 19 años
+**Ocupación:** exEstudiante de Ingeniería de Sistemas, dueño del emprendimiento de comida EnchiTacos
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/interviews/Maverick2.PNG" alt="Entrevista a Maverick Mendoza" style="width:80%;">
+</div>
+
+[Vídeo de entrevista](https://youtu.be/rn22s0uMheg)
+Maverick nos comenta que considera que la aplicación es intuitiva y facil de usar. Del mismo modo, afirma que las vistas contienen toda la información que considera relevante al momento de definir programadores para su emprendimiento. A su vez comenta que e bajo coste del servicio es el punto fuerte de nuestra plataforma. Con estas observaciones, Maverick declará que estaría dispuesto a obtener una subscripcion a nuestra plataforma
+<br><br>
+
+**Segmento 2: Desarrolladores Freelancer**
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
