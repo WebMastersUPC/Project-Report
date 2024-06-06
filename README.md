@@ -1718,6 +1718,32 @@ El equipo de desarrollo del landing utilizo las ramas para desarrollar cada secc
 <br>
 <img src="https://media.discordapp.net/attachments/1236314230395895848/1236330106360954920/image.png?ex=66379da3&is=66364c23&hm=5e881671e5f480394ec9b295d2de68f8d942e84b879c5ac89f75d0294646b5d0&=&format=webp&quality=lossless&width=1920&height=682">
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning n.
+
+#### 5.2.3.2. Sprint Backlog n.
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+## 5.3. Validation Interviews.
+#### 5.3.1. Diseño de Entrevistas.
+
+#### 5.3.2. Registro de Entrevistas.
+
+#### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product.
+
 # Conclusiones
 # Conclusiones y recomendaciones.
 
