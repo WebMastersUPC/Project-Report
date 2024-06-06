@@ -33,8 +33,8 @@
 # Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Zaid Ramirez:<br> **TB1:** Durante la elaboración del proyecto, pude aprender nuevas tecnologías al implementar de manera colaborativa y desplegar con éxito la Landing Page y el diseño de la aplicación web, cumpliendo con los requisitos del backlog y objetivos del sprint. Aplicamos adecuadamente los lenguajes, frameworks y herramientas recomendados, siguiendo las convenciones de programación y buenas prácticas establecidas. Además, buscamos mejorar continuamente al realizar modificaciones basadas en observaciones y recomendaciones, contribuyendo activamente al éxito de esta fase inicial del proyecto. <br>**TP1:** En la entrega parcial del proyecto aprední acerca de vue su consumo de apis y la utilización de componentes. De esta forma pude cumplir mis tareas en este segundo sprint, lo que nos permitio desplegar la pagina funcional y  a tiempo<br> **TB2:** En esta entrega pude aprender acerca de el comportamiento del backend en la aplicación y como se conecta con los requerimientos específicos del cliente. <br> André Arroyo <br> **TB1:** Durante la elaboración del proyecto, tuve la oportunidad de profundizar en el Mapeo del Escenario Futuro y el Mapeo de Impacto, aprendiendo cómo estas metodologías pueden alinear efectivamente los objetivos del proyecto con las expectativas de los stakeholders. Esto fue crucial para establecer una base sólida y claridad en los requisitos del proyecto desde el inicio.En la fase de Especificación de Requisitos, aplicamos las técnicas de redacción colaborativa para desarrollar Historias de Usuario y crear un Product Backlog bien definido. Esta etapa fue esencial para garantizar que cada requisito se documentara con precisión y reflejara las necesidades del usuario final. Mediante revisiones iterativas del backlog y objetivos claros en cada sprint, nos aseguramos de que cada funcionalidad propuesta estuviera alineada con los objetivos del proyecto.<br> **TP1:** Durante la elaboracion del proyecto, apoye en la documentacion y desarrollo del web application, realizando las respectivas correciones que me hacian saber mis compañeros de equipo <br> Samira Alvarez:<br> **TB1:** Para esta entrega, el trabajo se llevó a cabo de manera cooperativa, involucrando a todos los integrantes en el desarrollo de las tareas del proyecto. Para la realización de las entrevistas fue parte fundamental la participación de cada miembro en la recolección de información clave para definir las funcionalidades de nuestra solución. Asímismo, el uso de Gitflow facilitó un flujo de trabajo eficiente, permitiendo a cada miembro contribuir al desarrollo de la landing page de manera coordinada y fluida. De igual forma, el enfoque de metodologías ágiles Scrum nos permitió documentar de manera precisa el trabajo realizado para esta entrega. <br> **TP:** Para este avance del trabajo donde se desarrollo de la parte frontend de nuestra aplicación web, hemos seguido un flujo de trabajo definido utilizando Gitflow para gestionar nuestras ramas de código. Esto nos permitió trabajar de manera coordinada en las diferentes partes del proyecto. Además, hemos utilizado un tablero en Trello para mantener un seguimiento del progreso de nuestras tareas, lo que facilitó la colaboración y la comunicación entre el equipo. <br> Joseph Llacchua : <br> **TB1:**Participé en el proyecto como parte de un equipo multidisciplinario con eficacia, eficiencia y objetividad. Durante mi contribución, destacé en la implementación colaborativa y el despliegue exitoso de la Landing Page y el diseño de la aplicación web, cumpliendo con los requisitos del backlog y los objetivos del sprint. Además, demostré habilidad al aplicar los lenguajes, frameworks y herramientas recomendados, siguiendo las convenciones de programación y buenas prácticas establecidas.En la fase inicial del proyecto, demostré mi capacidad para aprender nuevas tecnologías y adaptarme a ellas, contribuyendo activamente al éxito de esta etapa. Mi enfoque metódico y colaborativo fue evidente al realizar modificaciones basadas en observaciones y recomendaciones, buscando constantemente mejorar el producto. **TP:** Tuve la oportunidad de trabajar en el campo de la investigación y diseño de productos tecnológicos. Durante mi participación en el proyecto, me enfoqué en la fase inicial de investigación, realizando entrevistas y análisis de las mismas para comprender las necesidades y deseos de los usuarios. Además, contribuí al desarrollo de la página de inicio (landing page), asegurándome de que fuera responsive para adaptarse a diferentes dispositivos. También realicé correcciones de componentes para mejorar la usabilidad y la experiencia del usuario. Mi trabajo ayudó a establecer una base sólida para el desarrollo de soluciones centradas en el usuario.<br>Jair Velasquez<br> **TB1:** Durante el desarrollo del TB1, mi principal aporte fue en la elaboración de diagramas (Diagrama de clases y C4 model) aunque de realizo el planteamiento de estas de forma colaborativa para que hayan multiples ideas en la creación de estas. De igual forma, colabore en el desarrolló del landing page, asi como en secciones de la unidad 5 como el Source Code Management y la configuración del Deploy del landing. De igual forma buscamos constantemente mejoras al momento de realizadas modificaciones de acuerdo a observaciones. <br> **TP1:** Durante la elaboracion de esta entrega, apoye tanto en la documentacion como el desarrollo de la aplicacion web tanto de forma visual como el apartado logico.|<br>En este proyecto no solo enriqueció mis habilidades técnicas, sino que también mejoró mi comprensión de metodologías clave como el Mapeo del Escenario Futuro y el Mapeo de Impacto, esenciales para alinear los objetivos del proyecto con las expectativas de los stakeholders. La fase de Especificación de Requisitos fue crucial, permitiéndonos documentar y precisar cada requisito a través de Historias de Usuario y un Product Backlog bien estructurado. Este enfoque colaborativo y metódico no solo garantizó la coherencia entre las funcionalidades y los objetivos del proyecto, sino que también destacó la importancia de la adaptabilidad y el trabajo en equipo en el desarrollo de software.|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Zaid Ramirez:<br> **TB1:**  Durante la elaboración del proyecto, pude identificar problemáticas y aplicar un proceso de UX Design basado en Lean UX. Realizando investigación de UX Research para establecer User Personas, Task Matrix y Journey Maps, integrándolos en el diseño del Landing Page y las Web Apps. Ademas de utilizar las User Stories y principios de diseño para crear propuestas visuales coherentes con nuestros style guideline.<br>**TP1:** Para la entrega utilizamos vue para elaborar la app, me encargue de la logica del login con la api y la pagina principal para la vista de empresas con su consumo a la api<br> **TB2:** En este entregable pude aprender la elaboración del backend y la creación de una API. Pudiendo complacer los requerimientos de datos en el front <br>André Arroyo<br> **TB1:** En nuestro proyecto, utilizamos métodos avanzados de especificación de requisitos para garantizar que el software se ajustara a las necesidades de los usuarios. Empleamos técnicas como el Mapeo del Escenario Futuro, Historias de Usuario y Mapeo de Impacto para definir y priorizar requerimientos esenciales. Asimismo, elaboramos un Product Backlog detallado y configuramos un entorno de desarrollo óptimo, reforzado con convenciones de código rigurosas, para asegurar la calidad y eficacia del software final, cumpliendo con las expectativas y regulaciones del sector.<br> **TP1:**En esta entrega realice la pantalla de postulacion de proyecto de los freelancers, asimismo desarrolle el toolbar para los empresarios y freelancers, asi como el respectivo footer. Por ultimo apoye en la realizacion de la documentacion del sprint 2. <br>Samira Alvarez:<br> **TB1:** En este avance del trabajo se pudo determinar el estado actual del mercado de plataformas de contratación freelance e identificar las fortalezas y debilidades frente a nuestros competidores, así como las estrategias para destacarnos frente a ellos. De igual forma, se analizó el comportamiento, necesidades y preferencias de los segmentos desarrollador freelance y empresario mediante las entrevistas realizadas. Dicha información fue clave para desarrollar el needfinding de nuestros clientes, donde se usó distintas herramientas de mapeo y la creación de user personas de la aplicación web. <br> **TP:** Durante este avance del trabajo, hemos desarrollado los componentes que conforman el frontend de nuestra aplicación web, los cuales permiten a los usuarios ingresar a la aplicación, así como observar la cantidad de entregables por proyecto o agregar y editar su información. <br>Joseph Llacchua :<br> **TB1:** He tenido la oportunidad de trabajar en el sector empresarial de soluciones de software, donde he destacado en áreas como el diseño de experiencia de usuario (UX) y la especificación de requisitos. Durante mi participación en el proyecto, pude identificar problemáticas y aplicar un proceso de UX Design basado en Lean UX. Realicé investigaciones de UX Research para establecer User Personas, Task Matrix y Journey Maps, integrándolos en el diseño del Landing Page y las Web Apps. Además, utilicé las User Stories y principios de diseño para crear propuestas visuales coherentes con nuestros style guidelines. **TP:** Tuve la oportunidad de trabajar en el campo de la investigación y diseño de productos tecnológicos. Durante mi participación en el proyecto, me enfoqué en la fase inicial de investigación, realizando entrevistas y análisis de las mismas para comprender las necesidades y deseos de los usuarios. Además, contribuí al desarrollo de la página de inicio (landing page), asegurándome de que fuera responsive para adaptarse a diferentes dispositivos. También realicé correcciones de componentes para mejorar la usabilidad y la experiencia del usuario. Mi trabajo ayudó a establecer una base sólida para el desarrollo de soluciones centradas en el usuario.<br>Jair Velasquez :<br> **TB1:** En el sector empresarial de soluciones de software, he participado en el diseño de experiencia de usuario (UX) y la especificación de requisitos, concentrándome en la creación de diagramas de clases y modelado de C4 con herramientas como Lucidchart. Además, he contribuido en la creación de prototipos para el landing page y la aplicación web utilizando Figma, integrando estos elementos en propuestas visuales coherentes con nuestros lineamientos de estilo. <br> **TP1:**En esta entrega realice la pantalla de buscar desarrollador, tambien la revision de entregables, agregado a esto trabaje en la logica de ingresar al perfil de un desarrollador. |<br>La combinación de Mapeo del Escenario Futuro, Historias de Usuario, y Mapeo de Impacto nos permitió crear una base sólida que alineó el desarrollo del software con las necesidades y expectativas de los usuarios. El desarrollo de un Product Backlog estructurado, la configuración de un entorno de desarrollo optimizado y la implementación de convenciones de código estrictas aseguraron la calidad y eficiencia del software|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|<br>**Zaid Ramirez:**<br> **TB1:** Durante la elaboración del proyecto, pude aprender nuevas tecnologías al implementar de manera colaborativa y desplegar con éxito la Landing Page y el diseño de la aplicación web, cumpliendo con los requisitos del backlog y objetivos del sprint. Aplicamos adecuadamente los lenguajes, frameworks y herramientas recomendados, siguiendo las convenciones de programación y buenas prácticas establecidas. Además, buscamos mejorar continuamente al realizar modificaciones basadas en observaciones y recomendaciones, contribuyendo activamente al éxito de esta fase inicial del proyecto. <br>**TP1:** En la entrega parcial del proyecto aprední acerca de vue su consumo de apis y la utilización de componentes. De esta forma pude cumplir mis tareas en este segundo sprint, lo que nos permitio desplegar la pagina funcional y  a tiempo<br> **TB2:** En esta entrega pude aprender acerca de el comportamiento del backend en la aplicación y como se conecta con los requerimientos específicos del cliente. <br><br>**André Arroyo:** <br> **TB1:** Durante la elaboración del proyecto, tuve la oportunidad de profundizar en el Mapeo del Escenario Futuro y el Mapeo de Impacto, aprendiendo cómo estas metodologías pueden alinear efectivamente los objetivos del proyecto con las expectativas de los stakeholders. Esto fue crucial para establecer una base sólida y claridad en los requisitos del proyecto desde el inicio.En la fase de Especificación de Requisitos, aplicamos las técnicas de redacción colaborativa para desarrollar Historias de Usuario y crear un Product Backlog bien definido. Esta etapa fue esencial para garantizar que cada requisito se documentara con precisión y reflejara las necesidades del usuario final. Mediante revisiones iterativas del backlog y objetivos claros en cada sprint, nos aseguramos de que cada funcionalidad propuesta estuviera alineada con los objetivos del proyecto.<br> **TP1:** Durante la elaboracion del proyecto, apoye en la documentacion y desarrollo del web application, realizando las respectivas correciones que me hacian saber mis compañeros de equipo <br><br> **Samira Alvarez:**<br> **TB1:** Para esta entrega, el trabajo se llevó a cabo de manera cooperativa, involucrando a todos los integrantes en el desarrollo de las tareas del proyecto. Para la realización de las entrevistas fue parte fundamental la participación de cada miembro en la recolección de información clave para definir las funcionalidades de nuestra solución. Asímismo, el uso de Gitflow facilitó un flujo de trabajo eficiente, permitiendo a cada miembro contribuir al desarrollo de la landing page de manera coordinada y fluida. De igual forma, el enfoque de metodologías ágiles Scrum nos permitió documentar de manera precisa el trabajo realizado para esta entrega. <br> **TP:** Para este avance del trabajo donde se desarrollo de la parte frontend de nuestra aplicación web, hemos seguido un flujo de trabajo definido utilizando Gitflow para gestionar nuestras ramas de código. Esto nos permitió trabajar de manera coordinada en las diferentes partes del proyecto. Además, hemos utilizado un tablero en Trello para mantener un seguimiento del progreso de nuestras tareas, lo que facilitó la colaboración y la comunicación entre el equipo. <br> **TB2:** Para esta entrega se hizo la distirbución de los distintos métodos relaconados con la API de la aplicación, según los requerimientos del usuario definidos en avances anteriores. Para la gestión del progreso de este sprint fue clave el uso de la herramienta Trello. De esta manera, faclitó el seguimiento y el estado de cada tarea a lo largo del sprint, lo que facilitó la colaboración y comunicación entre miembros del equipo.<br><br>**Joseph Llacchua:** <br> **TB1:** Participé en el proyecto como parte de un equipo multidisciplinario con eficacia, eficiencia y objetividad. Durante mi contribución, destacé en la implementación colaborativa y el despliegue exitoso de la Landing Page y el diseño de la aplicación web, cumpliendo con los requisitos del backlog y los objetivos del sprint. Además, demostré habilidad al aplicar los lenguajes, frameworks y herramientas recomendados, siguiendo las convenciones de programación y buenas prácticas establecidas.En la fase inicial del proyecto, demostré mi capacidad para aprender nuevas tecnologías y adaptarme a ellas, contribuyendo activamente al éxito de esta etapa. Mi enfoque metódico y colaborativo fue evidente al realizar modificaciones basadas en observaciones y recomendaciones, buscando constantemente mejorar el producto. <br>**TP:** Tuve la oportunidad de trabajar en el campo de la investigación y diseño de productos tecnológicos. Durante mi participación en el proyecto, me enfoqué en la fase inicial de investigación, realizando entrevistas y análisis de las mismas para comprender las necesidades y deseos de los usuarios. Además, contribuí al desarrollo de la página de inicio (landing page), asegurándome de que fuera responsive para adaptarse a diferentes dispositivos. También realicé correcciones de componentes para mejorar la usabilidad y la experiencia del usuario. Mi trabajo ayudó a establecer una base sólida para el desarrollo de soluciones centradas en el usuario.<br><br>**Jair Velasquez:**<br> **TB1:** Durante el desarrollo del TB1, mi principal aporte fue en la elaboración de diagramas (Diagrama de clases y C4 model) aunque de realizo el planteamiento de estas de forma colaborativa para que hayan multiples ideas en la creación de estas. De igual forma, colabore en el desarrolló del landing page, asi como en secciones de la unidad 5 como el Source Code Management y la configuración del Deploy del landing. De igual forma buscamos constantemente mejoras al momento de realizadas modificaciones de acuerdo a observaciones. <br> **TP1:** Durante la elaboracion de esta entrega, apoye tanto en la documentacion como el desarrollo de la aplicacion web tanto de forma visual como el apartado logico.|<br>En este proyecto no solo enriqueció mis habilidades técnicas, sino que también mejoró mi comprensión de metodologías clave como el Mapeo del Escenario Futuro y el Mapeo de Impacto, esenciales para alinear los objetivos del proyecto con las expectativas de los stakeholders. La fase de Especificación de Requisitos fue crucial, permitiéndonos documentar y precisar cada requisito a través de Historias de Usuario y un Product Backlog bien estructurado. Este enfoque colaborativo y metódico no solo garantizó la coherencia entre las funcionalidades y los objetivos del proyecto, sino que también destacó la importancia de la adaptabilidad y el trabajo en equipo en el desarrollo de software.|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|<br>**Zaid Ramirez:**<br> **TB1:**  Durante la elaboración del proyecto, pude identificar problemáticas y aplicar un proceso de UX Design basado en Lean UX. Realizando investigación de UX Research para establecer User Personas, Task Matrix y Journey Maps, integrándolos en el diseño del Landing Page y las Web Apps. Ademas de utilizar las User Stories y principios de diseño para crear propuestas visuales coherentes con nuestros style guideline.<br>**TP1:** Para la entrega utilizamos vue para elaborar la app, me encargue de la logica del login con la api y la pagina principal para la vista de empresas con su consumo a la api<br> **TB2:** En este entregable pude aprender la elaboración del backend y la creación de una API. Pudiendo complacer los requerimientos de datos en el front <br><br>**André Arroyo:**<br> **TB1:** En nuestro proyecto, utilizamos métodos avanzados de especificación de requisitos para garantizar que el software se ajustara a las necesidades de los usuarios. Empleamos técnicas como el Mapeo del Escenario Futuro, Historias de Usuario y Mapeo de Impacto para definir y priorizar requerimientos esenciales. Asimismo, elaboramos un Product Backlog detallado y configuramos un entorno de desarrollo óptimo, reforzado con convenciones de código rigurosas, para asegurar la calidad y eficacia del software final, cumpliendo con las expectativas y regulaciones del sector.<br> **TP1:**En esta entrega realice la pantalla de postulacion de proyecto de los freelancers, asimismo desarrolle el toolbar para los empresarios y freelancers, asi como el respectivo footer. Por ultimo apoye en la realizacion de la documentacion del sprint 2. <br><br>**Samira Alvarez:**<br> **TB1:** En este avance del trabajo se pudo determinar el estado actual del mercado de plataformas de contratación freelance e identificar las fortalezas y debilidades frente a nuestros competidores, así como las estrategias para destacarnos frente a ellos. De igual forma, se analizó el comportamiento, necesidades y preferencias de los segmentos desarrollador freelance y empresario mediante las entrevistas realizadas. Dicha información fue clave para desarrollar el needfinding de nuestros clientes, donde se usó distintas herramientas de mapeo y la creación de user personas de la aplicación web. <br> **TP:** Durante este avance del trabajo, hemos desarrollado los componentes que conforman el frontend de nuestra aplicación web, los cuales permiten a los usuarios ingresar a la aplicación, así como observar la cantidad de entregables por proyecto o agregar y editar su información. <br>**TB2:** En esta entregase ha desarrollado el backend de nuestra aplicación, tomando en cuenta las necesidades de los segmentos objetivos en cuanto al manejo de datos y al flujo del usuario. Esto fue implementado en el Frontend para realizar pruebas que validen la correcta integración entre ambos sistemas. <br><br>**Joseph Llacchua:**<br> **TB1:** He tenido la oportunidad de trabajar en el sector empresarial de soluciones de software, donde he destacado en áreas como el diseño de experiencia de usuario (UX) y la especificación de requisitos. Durante mi participación en el proyecto, pude identificar problemáticas y aplicar un proceso de UX Design basado en Lean UX. Realicé investigaciones de UX Research para establecer User Personas, Task Matrix y Journey Maps, integrándolos en el diseño del Landing Page y las Web Apps. Además, utilicé las User Stories y principios de diseño para crear propuestas visuales coherentes con nuestros style guidelines. <br>**TP:** Tuve la oportunidad de trabajar en el campo de la investigación y diseño de productos tecnológicos. Durante mi participación en el proyecto, me enfoqué en la fase inicial de investigación, realizando entrevistas y análisis de las mismas para comprender las necesidades y deseos de los usuarios. Además, contribuí al desarrollo de la página de inicio (landing page), asegurándome de que fuera responsive para adaptarse a diferentes dispositivos. También realicé correcciones de componentes para mejorar la usabilidad y la experiencia del usuario. Mi trabajo ayudó a establecer una base sólida para el desarrollo de soluciones centradas en el usuario.<br><br>**Jair Velasquez:**<br> **TB1:** En el sector empresarial de soluciones de software, he participado en el diseño de experiencia de usuario (UX) y la especificación de requisitos, concentrándome en la creación de diagramas de clases y modelado de C4 con herramientas como Lucidchart. Además, he contribuido en la creación de prototipos para el landing page y la aplicación web utilizando Figma, integrando estos elementos en propuestas visuales coherentes con nuestros lineamientos de estilo. <br> **TP1:**En esta entrega realice la pantalla de buscar desarrollador, tambien la revision de entregables, agregado a esto trabaje en la logica de ingresar al perfil de un desarrollador. |<br>La combinación de Mapeo del Escenario Futuro, Historias de Usuario, y Mapeo de Impacto nos permitió crear una base sólida que alineó el desarrollo del software con las necesidades y expectativas de los usuarios. El desarrollo de un Product Backlog estructurado, la configuración de un entorno de desarrollo optimizado y la implementación de convenciones de código estrictas aseguraron la calidad y eficiencia del software|
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
@@ -1719,11 +1719,623 @@ El equipo de desarrollo del landing utilizo las ramas para desarrollar cada secc
 <img src="https://media.discordapp.net/attachments/1236314230395895848/1236330106360954920/image.png?ex=66379da3&is=66364c23&hm=5e881671e5f480394ec9b295d2de68f8d942e84b879c5ac89f75d0294646b5d0&=&format=webp&quality=lossless&width=1920&height=682">
 
 ### 5.2.3. Sprint 3
-#### 5.2.3.1. Sprint Planning n.
+#### 5.2.3.1. Sprint Planning 3.
 
-#### 5.2.3.2. Sprint Backlog n.
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 3 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> XX/0X/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> XX:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de la plataforma Discord <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> nombre <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> nombre
+        <br>
+          nombre
+           <br>
+           nombre 
+          <br>
+           nombre
+          <br>
+          nombre
+              <br>
+          nombre
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
+        <td> resumen <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
+        <td> retrospectiva<td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Goal</td>
+          <td>  goals <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+          <td>  XX  <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> XX <td>
+      </tr>
+
+
+  </table>
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura del tablero y el link en Trello.
+Link de Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-3
+
+<table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 3 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+     <tr>
+      <th> EP1-US01 </th>
+     <th colspan="3"> Barra de navegación en la Landing Page </th>
+      <th> W01  </th>
+     <th> Navbar Section  </th>
+     <th> Implementar la navbar con direcciones a la landing page de Artcollab   </th>
+     <th> 0.3  </th>
+     <th> nombre </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> EP1-US01 </th>
+     <th colspan="3">  Barra de navegación en la Landing Page  </th>
+      <th> W02  </th>
+     <th> Responsive Navbar Section </th>
+     <th> Adaptar la navbar en dispositivos mobiles usando el enfoque mobile first   </th>
+     <th> 0.5  </th>
+     <th> nombre </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> EP1-US02 </th>
+     <th colspan="3"> E1-US02 Visualización de las redes sociales mediante footer </th>
+      <th> W03  </th>
+     <th> Footer Section </th>
+     <th> Implementar la sección footer con las direcciones a las redes sociales   </th>
+     <th> 0.3  </th>
+     <th> nombre </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP1-US02 </th>
+     <th colspan="3"> E1-US02 Visualización de las redes sociales mediante footer </th>
+      <th> W04  </th>
+     <th> Responsive Footer Section </th>
+     <th> Adaptar el footer en dispositivos móviles usando el enfoque mobile first   </th>
+     <th> 0.3  </th>
+     <th> nombre </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP1-US03 </th>
+     <th colspan="3"> E1-US03  Sección de Explora </th>
+      <th> W05  </th>
+     <th> Explora Section </th>
+     <th> Implementar la sección de explora con la información de nuestra startup   </th>
+     <th> 2  </th>
+     <th> nombre </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP1-US04</th>
+     <th colspan="3"> E1-US04 Sección Colabora</th>
+      <th> W06  </th>
+     <th> Colabora Section </th>
+     <th> Implementar la sección Colabora con la finalidad de orientar al usuario sobre nuestros servicios   </th>
+     <th> 2  </th>
+     <th> nombre </th> 
+     <th> Done </th>
+   </tr>
+     </tr>
+     <tr>
+      <th> EP1-US05</th>
+     <th colspan="3"> E1-US05 Sección Hero</th>
+      <th> W07  </th>
+     <th> Hero Section </th>
+     <th> Implementar la sección hero donde ofrecemos una breve descripción sobre nuestra startup.   </th>
+     <th> 2  </th>
+     <th> nombre </th> 
+     <th> Done </th>
+   </tr>
+   
+  <tr>
+      <th> EP1-US17</th>
+     <th colspan="3"> E1-US017   Compatibilidad con diferentes dispositivos </th>
+      <th> W08  </th>
+     <th> Landing Page </th>
+     <th> Adaptar la comptabilidad del landing page a diferentes dispositivos.   </th>
+     <th> 2.5  </th>
+     <th> nombre </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP1-U18 </th>
+     <th colspan="3"> E1-US18 Accesibilidad en el Landing page</th>
+      <th> W09  </th>
+     <th> Landing Page </th>
+     <th> Mejorar la accesibilidad en la landing page pensando en un diseño inclusivo.   </th>
+     <th> 2  </th>
+     <th> nombre </th> 
+     <th> Done </th>
+   </tr>
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
+
+<table>
+
+ <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 3587ed1b0361c3262db1f2bba4bf2630e390d28e </th>
+   <th> Initial commit </th>
+   <th> </th>
+   <th> 30/03/2024 </th>
+  </tr>
+
+   <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> a369c6e8bfb657ea04107fa397946f1a3b877c59 </th>
+   <th> feat: add files via commit </th>
+   <th> </th>
+   <th> 30/03/2024 </th>
+  </tr>
+
+   <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> fa36e5ee1ec4d92e811075823e9c1bce0da09ec0 </th>
+   <th> fix: size elements for small screens fixed </th>
+   <th> </th>
+   <th> 30/03/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> d350eae6a7d2eb2453e676a4b4859bf8e33aca72 </th>
+   <th> Merge pull request #1 from Open-Source-SW54-Group-3-ArtCollab/feature/landingpage </th>
+   <th> </th>
+   <th> 30/03/2024 </th>
+  </tr>
+
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> feature/log-in </th>
+   <th> bd9ad1929dc82d3287624b362353c89819368db4 </th>
+   <th> fix: screen size fixed </th>
+   <th> </th>
+   <th> 02/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> feature/log-in </th>
+   <th> d05a81f4b9d5219481e0160b3e41256ad80ac7fc </th>
+   <th> fix: changed styles for small sizes </th>
+   <th> </th>
+   <th> 02/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> feature/log-in </th>
+   <th> d05a81f4b9d5219481e0160b3e41256ad80ac7fc </th>
+   <th> fix: changed styles for small sizes </th>
+   <th> </th>
+   <th> 02/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 2429795b0c807507dce3fda724bbeb49c87be104 </th>
+   <th> feat: Added hero image </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 22363accf19395050b2318ad25cab3627855ef77 </th>
+   <th> feat: Added Hero section to homepage </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 144d5d5b2ee74e8c7bd643c4949000663c5282d8 </th>
+   <th> fix: refactor code and size screen fixed </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 7988e12c3dd0de54453c378e058cc0354d1d1dcc </th>
+   <th> feat: add register button </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 5c5a0f2f86c48fe464cfa777fe7583f2452c456e </th>
+   <th> feat: add search input and login buttons </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 46d24a5f66e83b71daae52d60cf122fc7d2345e1 </th>
+   <th> fix: input button fixed </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+ <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 33b7d718738303ad32a312fd2bc499efd72e3e1a </th>
+   <th> fix: refactor code </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+ <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> b4db4c54b4731c157bc5788d8df9a86fee41dfc0 </th>
+   <th> fix: irelevant reference deleted and hovers fixed </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 2639cf23c0cb7839cc9ca1d37d44e7ac6b29d050  </th>
+   <th> feat: Added reference to Homepage </th>
+   <th> </th>
+   <th> 04/04/2024 </th>
+  </tr>
+
+
+ <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> fd937272d01bd972e95b07a257d60fcc85d39b48  </th>
+   <th> fix: layouts for small screens fixed </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+ <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> e4fa23af33341ee6ada0d4d95d6f95a34212106a  </th>
+   <th> fix: container size fixed </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+ <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 8be8e2938ec4120d3098c216011ff16e468c8ade  </th>
+   <th> fix: container borders fixed </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 9e7b4e8ca147c90194fa6868d0a53e9cf73a1e65  </th>
+   <th> fix: input type button hover fixed </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> f9749aeabed864c39fb6ab2312fa6fc37da643cf  </th>
+   <th> feat: Update responsive and add fixes </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 393adf84a327e190b9d82d4d519d6f09ca8fb194  </th>
+   <th> feat: test changes </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 5efc80f2801d5fe951f575508d5779fef4fa761f  </th>
+   <th> fix: changed into branch </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 7b54fc3073a66eded4afd94f8b50d4bdaacfb25a  </th>
+   <th> fix: update gap into nav-bar content </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> f68a90608525218a26fe14776d1ca21d35058965  </th>
+   <th> fix: clear feature/footer </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 5b2d5df4019c1dee162068b099709b17d98f32bf  </th>
+   <th> feat: added footer html </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 6b434b4115c8125db4a8560e3298178e99c98daa </th>
+   <th> fix: Corrected icon in md size </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> fa7146de039aff90833e11a83c735cd129c8cb64 </th>
+   <th> fix: Corrected icons in md size again </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 88e5073df0cc1c7c3f1a1da1a6dbb31b882c6fbe </th>
+   <th> fix: Corrected social icons yet again </th>
+   <th> </th>
+   <th> 05/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> c233195488e28c76c1be49d7652b303163f3f67a </th>
+   <th> fix: Corrected gramatical errors </th>
+   <th> </th>
+   <th> 07/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 7bd7040c559bcc42ea421ad5c19b9e327a08318d </th>
+   <th> feat: Added pointer effect for links </th>
+   <th> </th>
+   <th> 07/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> d0a429776e503dd847a36104e925c3248bc14092 </th>
+   <th> fix: Cleaned codes </th>
+   <th> </th>
+   <th> 07/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 3e0d0bd7fbcafd14f47b1ce85b5b849ef7faa5da </th>
+   <th> fix: Corrected pointer effect for links </th>
+   <th> </th>
+   <th> 07/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 6296c32cbf1859e4de16190b91fb03ffc210b0b3 </th>
+   <th> feat: add 'colabora' section </th>
+   <th> </th>
+   <th> 07/04/2024 </th>
+  </tr>
+
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> f9fadceddf9bf04f7c1c9ae881bc476dea6c5816 </th>
+   <th> feat: carousel </th>
+   <th> </th>
+   <th> 08/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 76e0ad2518a5467a5d1e354e18bea4f3ee7bb15f </th>
+   <th> fix: name js </th>
+   <th> </th>
+   <th> 08/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 5ddc0a6a38e08b46829ce499b18d142dfa9f1c2e </th>
+   <th> fix: responsive </th>
+   <th> </th>
+   <th> 08/04/2024 </th>
+  </tr>
+
+ <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> a201ca381e7c183fcb050ed1664ceabd6f204e61 </th>
+   <th> feat: Add Artists </th>
+   <th> </th>
+   <th> 08/04/2024 </th>
+  </tr>
+
+ <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> cd20d390e3e3c7553e4fe7b7cfaa39a93badcb85 </th>
+   <th> Merge branch 'feature/explora' of https://github.com/Open-Source-SW54-Group-3-ArtCollab/Landing-Page into feature/exploras </th>
+   <th> </th>
+   <th> 08/04/2024 </th>
+  </tr>
+
+  <tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 871a09d561091606651be57b644cbb312295877a </th>
+   <th> feat: Add carousel artists </th>
+   <th> </th>
+   <th> 09/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 921956615a29006a83928f3ead07bf91acb16a45 </th>
+   <th> feat: Merge to develop </th>
+   <th> </th>
+   <th> 10/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 8270d3af9cb71b9dae532c9fa36d55524be9cc5f </th>
+   <th> feat: Merge to Feature/explora </th>
+   <th> </th>
+   <th> 10/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 7d1681dffa6926eb7eea55a375973f6d3bdb2afc </th>
+   <th> Merge branch 'feature/colabora' into develop </th>
+   <th> </th>
+   <th> 10/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> c38aa5452145346cbc10a9d3c353ff54506c381f </th>
+   <th> Merge branch 'feature/footer' into develop </th>
+   <th> </th>
+   <th> 10/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 71edef66a60ba9c639bab393f56cae8245e770f2 </th>
+   <th> Merge branch 'feature/log-in' into develop </th>
+   <th> </th>
+   <th> 10/04/2024 </th>
+  </tr>
+
+<tr>
+   <th> Landing-Page </th> 
+   <th> develop </th>
+   <th> 55a34ec3f76fde4b723541a87acb4ac00309ece7 </th>
+   <th> feat: merge with feature/footer and feature/hero </th>
+   <th> </th>
+   <th> 12/04/2024 </th>
+  </tr>
+
+
+  </table>
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
