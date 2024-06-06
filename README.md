@@ -1747,7 +1747,7 @@ El equipo de desarrollo del landing utilizo las ramas para desarrollar cada secc
 **Ocupación:** exEstudiante de Ingeniería de Sistemas, dueño del emprendimiento de comida EnchiTacos
 
 <div style="display:flex;justify-content:center">
-<img src="../assets/interviews/Maverick2.PNG" alt="Entrevista a Maverick Mendoza" style="width:80%;">
+<img src="./assets/interviews/Maverick2.png" alt="Entrevista a Maverick Mendoza" style="width:80%;">
 </div>
 
 [Vídeo de entrevista](https://youtu.be/rn22s0uMheg)
