@@ -1843,36 +1843,36 @@ Link de Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-3
    </tr>
     <tr>
       <th rowspan="4"> E6-US101 </th>
-      <th rowspan="4" colspan="3"> Información de proyectos </th>
+      <th rowspan="4" colspan="3"> Información de mensajes </th>
       <th> T06</th>
       <th> Creación del proyecto </th>
-      <th> Implementar la lógica de creación del proyecto </th>
-      <th> 0 </th>
-      <th> Nombre </th> 
+      <th> Implementar la lógica de creación del mensaje </th>
+      <th> 5</th>
+      <th> Joseph Llacchua  </th> 
       <th> Done </th>
    </tr>
    <tr>
       <th> T07 </th>
       <th> Lectura de datos </th>
-      <th> Implementar la lógica de lectura del proyecto </th>
-      <th> 0 </th>
-      <th> Nombre </th> 
+      <th> Implementar la lógica de lectura del mensaje </th>
+      <th> 4 </th>
+      <th> Joseph Llacchua </th> 
       <th> Done </th>
    </tr>
       <tr>
       <th> T08 </th>
       <th> Actualización de datos </th>
-      <th> Implementar la lógica de actualización del proyecto </th>
-      <th> 0 </th>
-      <th> Nombre </th> 
+      <th> Implementar la lógica de actualización del mensaje </th>
+      <th> 5</th>
+      <th> Joseph Llacchua  </th> 
       <th> Done </th>
    </tr>
       <tr>
       <th> T09 </th>
-      <th> Eliminar proyecto </th>
-      <th> Implementar la lógica de eliminación del proyecto </th>
-      <th> 0 </th>
-      <th> Nombre </th> 
+      <th> Eliminar mensaje </th>
+      <th> Implementar la lógica de eliminación del mensaje </th>
+      <th> 4</th>
+      <th> Joseph Llacchua  </th> 
       <th> Done </th>
    </tr>
     <tr>
