@@ -2404,7 +2404,6 @@ Link de Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-3
   8.	¿Estarías dispuesto/a a hacer uso de nuestra aplicación? ¿Por qué?
   9.	¿Estaría dispuesto a suscribirse al plan de WebMaster?
 
-<br>
 
 **Segmento objetivo: Desarrolladores freelance**
 
