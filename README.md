@@ -2350,6 +2350,47 @@ Link de Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-3
 ## 5.3. Validation Interviews.
 #### 5.3.1. Diseño de Entrevistas.
 
+**Segmento objetivo: Empresarios o emprendedores**
+
+  **Preguntas generales:**
+  1. ¿Cuál es su nombre? 
+  2. ¿Cuántos años tienes? 
+  3. ¿Dónde resides actualmente? 
+  4. ¿Cuál es el nombre de tu empresa o emprendimiento? 
+
+  **Preguntas de validación:**
+  1.	¿Qué opinión tiene con respecto al diseño de la aplicación?
+  2.	¿Le parece intuitiva y fácil de manejar?
+  3.	¿Cómo se siente en la parte de navegación, le es fácil ir de una pantalla a otra?
+  4.	¿Consideras que la aplicación te proporciona las suficientes herramientas para contratar freelancers y gestionar tus proyectos?
+  5.	¿Qué característica te llama más la atención de la aplicación? ¿Por qué?
+  6.	¿Cuál crees que es el punto fuerte de la aplicación?
+  7. ¿Cree que podrá encontrar a un freelancer para un hipotético proyecto utilizando nuestra aplicación?
+  8.	¿Estarías dispuesto/a a hacer uso de nuestra aplicación? ¿Por qué?
+  9.	¿Estaría dispuesto a suscribirse al plan de WebMaster?
+
+<br>
+
+**Segmento objetivo: Desarrolladores freelance**
+
+  **Preguntas generales:**
+  1. ¿Cuál es su nombre? 
+  2. ¿Cuántos años tienes? 
+  3. ¿Dónde resides actualmente? 
+  4. ¿Cuál es tu área de especialidad en el desarrollo de software (móvil, escritorio, web, ciberseguridad, etc.)? 
+
+  **Preguntas de validación:**
+  1.	¿Qué opinión tiene con respecto al diseño de la aplicación?
+  2.	¿Le parece intuitiva y fácil de manejar?
+  3.	¿Cómo se siente en la parte de navegación, le es fácil ir de una pantalla a otra?
+  4.	¿Las pantallas contienen todas las opciones disponibles para ofrecer tus trabajos freelance?
+  5.	¿Qué característica te llama más la atención de la aplicación? ¿Por qué?
+  6.	¿Estarías dispuesto/a a hacer uso de nuestra aplicación? ¿Por qué?
+  7.	¿Cree que se hará fácil conseguir trabajo gracias a nuestra plataforma?
+  8.	¿Qué opinión tiene con respecto a la opción de publicar tu portafolio?
+  9.	¿Estaría dispuesto a registrarse a WebMaster?
+
+
 #### 5.3.2. Registro de Entrevistas.
 **Segmento 1: Segmento empresarios o emprendedores**
 
