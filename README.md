@@ -2375,6 +2375,9 @@ Link de Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-3
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+En esta sección se presentan las capturas de las pantallas más relevantes del web application las cuales se desarrollaron en este sprint
+
+<img src="./assets/ApiExecution/AuthProfile.png" alt="Profile and Authentification Endpoints" style=" width : 80%">
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
