@@ -2381,6 +2381,15 @@ En esta sección se presentan las capturas de las pantallas más relevantes del 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+En esta sección se presentan los endpoints desarrollados en el presente sprint y se adjuntan capturas de las acciones CRUD realizadas con OpenApi. En el alcance del sprint, se han desarrollado los bounded context de autenticación, perfil, actividades, reclutamiento y organizaciones.
+Se adjunta el link del repositorio de la API en Github: 
+https://github.com/WebMastersUPC/WebMasterAPI
+
+| Bounded Context | Authentication | |
+|---------------|------------------------------------------|---|
+| Entity     | Endpoint URL                      | Swagger | 
+| User, Developer, Enterprise     | /api/v1/auth/                      | <img src="./assets/sprint3/auth-swagger.png"> |  
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
