@@ -2456,6 +2456,22 @@ Maverick nos comenta que considera que la aplicación es intuitiva y facil de us
 
 **Segmento 2: Desarrolladores Freelancer**
 
+**Entrevista 1** 
+
+  - Entrevistador: Samira Jetzabel Alvarez Araguache 
+  - Entrevistado: Alessandro Medina Agnini
+  - Edad: 20 años
+  - Residencia: Lima - Surco
+  - Enlace del video: [https://upcedupe-my.sharepoint.com](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/EQs0p0bapO1GrR3b5FGP1BIBBGxIgMv7CmrOrKdy2CAoCg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8OHjW9)
+
+<img src="./assets/interviews/Alessandro2.PNG" alt="Entrevista 1 segmento desarrolladores freelance" style="width:60% align-center">
+	
+Resumen: 
+<br>
+Se entrevistó a Alessandro Medina, un joven de 20 años estudiante de Ciencias de la Computación quien se dedica al trabajo freelance. Alessandro se especializa en el desarrollo web como Front-End, con el uso de HTML5, CSS3, JS, React y Angular. utilizando tecnologías como HTML5, CSS3, JS, React y Angular. Él ha participado en diversos proyectos, principalmente en la creación de landing pages para emprendedores y pequeñas empresas.
+
+Resalta de manera positiva la parte visual de la aplicación, destacando su diseño intuitivo y su interfaz amigable, donde menciona que es lo suficientemente fácil de usar, incluso para usuarios con poca experiencia interactuando con tecnología. En cuanto a la navegación, considera que la toolbar facilita el flujo a través de la aplicación, permitiendo ir de manera fluida de pantalla en pantalla. También, considera que la app cuenta con todas las herramientas necesarias para trabajar en la plataforma como un desarrollador, como indicar el stack tecnológico y la posibilidad de mostrar tu portafolio. Destaca la personalización que tienen las empresas en cuanto a la descripción del proyecto y los entregables, lo que hace más facil considerar la postulación a este tipo de trabajos. Además, según las funcionalidades que ha podido observar en la aplicación, menciona que la plataforma sí le facilitaría la búsqueda de empleo en un proyecto de desarrollo de software. En conclusión, Alessandro dice estar dispuesto a registrarse a Webmaster. 
+
 #### 5.3.3. Evaluaciones según heurísticas.
 
 ## 5.4. Video About-the-Product.
