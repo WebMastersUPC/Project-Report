@@ -813,7 +813,7 @@ Link: <https://miro.com/app/board/uXjVKdVpEPw=/?share_link_id=435283866563> <br>
 |6|E1-US106|Sección de footer a la aplicación en landing page|**Como** usuario **quiero** visualizar la sección de footer **para** acceder a links de la página|2|
 |7|E1-US107|Sección para conocer al equipo de trabajo|**Como** posible cliente, **quiero** conocer más sobre el equipo que desarrolla la aplicación **para** adquirir confianza de dicho equipo de trabajo.|2|
 |8|E1-US108|Atención al cliente|**Como** usuario **quiero** el servicio de atención al cliente **para** poder reportar fallas en el aplicativo o incumplimiento entre empresario y freelancer|3|
-|9|E2-US101|Registro e inicio de sesión|**Como** usuario **quiero** tener en la app un apartado de inicio de sesión **para** que se guarde mi información|4|
+|9|E2-US101|Registro e inicio de sesión|**Como** usuario **quiero** tener en la app un apartado de inicio de sesión **para** que se guarde mi información|3|
 |10|E2-US102|Formulario de login|**Como** usuario de la página web, **quiero** ingresar con mi cuenta con la cual me registre **para** usar las herramientas a mi disposición.|3|
 |11|E2-US103|Recuperación de contraseñas|**Como** usuario **quiero** que la aplicación tenga un apartado que me permita recuperar mi contraseña en caso me olvide  **para** ingresar a mi cuenta de usuario|3|
 |12|E3-US101|Pantalla de inicio del empresario|**Como** empresario **quiero** visualizar todos los proyectos publicados **para** poder ver fácilmente el progreso de los mismos|3|
@@ -1855,36 +1855,36 @@ Link de Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-3
    </tr>
     <tr>
       <th rowspan="4"> E6-US101 </th>
-      <th rowspan="4" colspan="3"> Información de mensajes </th>
+      <th rowspan="4" colspan="3"> Información de proyectos  </th>
       <th> T06</th>
       <th> Creación del proyecto </th>
-      <th> Implementar la lógica de creación del mensaje </th>
-      <th> 5</th>
-      <th> Joseph Llacchua  </th> 
+      <th> Implementar la lógica de creación del proyecto </th>
+      <th> 7</th>
+      <th> André Arroyo  </th> 
       <th> Done </th>
    </tr>
    <tr>
       <th> T07 </th>
-      <th> Lectura de datos </th>
-      <th> Implementar la lógica de lectura del mensaje </th>
+      <th> Lectura de datos del proyecto </th>
+      <th> Implementar la lógica de lectura de datos del proyecto </th>
       <th> 4 </th>
-      <th> Joseph Llacchua </th> 
+      <th> André Arroyo </th> 
       <th> Done </th>
    </tr>
       <tr>
       <th> T08 </th>
-      <th> Actualización de datos </th>
-      <th> Implementar la lógica de actualización del mensaje </th>
-      <th> 5</th>
-      <th> Joseph Llacchua  </th> 
+      <th> Actualización de datos del proyecto </th>
+      <th> Implementar la lógica de actualización de datos del proyecto </th>
+      <th> 6</th>
+      <th> André Arroyo  </th> 
       <th> Done </th>
    </tr>
       <tr>
       <th> T09 </th>
-      <th> Eliminar mensaje </th>
-      <th> Implementar la lógica de eliminación del mensaje </th>
+      <th> Eliminar Projecto </th>
+      <th> Implementar la lógica de eliminación del proyecto </th>
       <th> 4</th>
-      <th> Joseph Llacchua  </th> 
+      <th> André Arroyo  </th> 
       <th> Done </th>
    </tr>
     <tr>
@@ -1945,6 +1945,40 @@ Link de Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-3
       <th> Implementar la lógica de actualización del perfil </th>
       <th> 8 </th>
       <th> Zaid Ramirez </th> 
+      <th> Done </th>
+   </tr>
+    <tr>
+      <th rowspan="4"> E6-US104 </th>
+      <th rowspan="4" colspan="3"> Información de mensajes </th>
+      <th> T17</th>
+      <th> Creación del proyecto </th>
+      <th> Implementar la lógica de creación del mensaje </th>
+      <th> 5</th>
+      <th> Joseph Llacchua  </th> 
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> T18 </th>
+      <th> Lectura de datos </th>
+      <th> Implementar la lógica de lectura del mensaje </th>
+      <th> 4 </th>
+      <th> Joseph Llacchua </th> 
+      <th> Done </th>
+   </tr>
+      <tr>
+      <th> T19 </th>
+      <th> Actualización de datos </th>
+      <th> Implementar la lógica de actualización del mensaje </th>
+      <th> 5</th>
+      <th> Joseph Llacchua  </th> 
+      <th> Done </th>
+   </tr>
+      <tr>
+      <th> T20 </th>
+      <th> Eliminar mensaje </th>
+      <th> Implementar la lógica de eliminación del mensaje </th>
+      <th> 4</th>
+      <th> Joseph Llacchua  </th> 
       <th> Done </th>
    </tr>
 </table>
@@ -2380,6 +2414,7 @@ Link de Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-3
    <th> </th>
    <th> 12/04/2024 </th>
   </tr>
+
 
 
   </table>
