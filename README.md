@@ -845,6 +845,13 @@ Link: <https://miro.com/app/board/uXjVKdVpEPw=/?share_link_id=435283866563> <br>
 |29|E4-US107|Mayor visibilidad en postulación de proyectos|**Como** freelancer premium **quiero** tener prioridad en la lista de postulación **para** tener mayor probabilidad de ser aceptado en el desarrollo del proyecto|3|
 |30|E3-US110|Sistema de verificado para el empresario|**Como** empresario premium **quiero** el sistema de verificado **para** dar mayor fiabilidad y confianza a los freelancer|3|
 |31|E4-US108|Sistema de verificado para los freelancer|**Como** freelancer premium **quiero** el sistema de verificado **para** generar mayor fiabilidad a los empresarios|3|
+|32|E5-US100|Preferencia de idioma|**Como** empresario o freelance **quiero** configurar preferencias de idioma **para** utilizar la aplicación según mi preferencia de idioma|2|
+|33|E5-US101|Página no encontrada|**Como** empresario o freelance **quiero** ser informado de una página no encontrada en la aplicación **para** darme cuenta que estoy en una página errónea y volver al inicio. |1|
+|34|E6-US100|Autenticación de usuario|**Como** desarrollador **quiero** autenticación de datos a través del backend API **para** que los usuarios puedan autenticarse en la aplicación|5|
+|35|E6-US101|Información de proyectos |**Como** desarrollador **quiero** funciones de información de proyectos **para** que los usuarios puedan manipular la información de los proyectos|8|
+|36|E6-US102|Información de entregables de proyectos|**Como** desarrollador **quiero** funciones de información de los entregables de proyectos **para** que los usuarios puedan manipular la información de los entregables de proyectos|8|
+|37|E6-US103|Información del perfil del usuario|**Como** usuario **quiero** funciones de información del perfil **para** que pueda manipular la información de mi perfil de usuario|5|
+|38|E6-US104|Información de mensajes|**Como** usuario **quiero** funciones de comunicación mediante mensajes **para** poder comunicarme con el developer o empresario|8|
 
 
 # Capítulo IV: Product Design
@@ -1788,7 +1795,7 @@ El equipo de desarrollo del landing utilizo las ramas para desarrollar cada secc
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 29 <td>
+          <td> 37 <td>
       </tr>
   </table>
 
@@ -1822,17 +1829,17 @@ Link de Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-3
       <th> T01 </th>
       <th> Traducción Inglés </th>
       <th> Crear el i18n para inglés </th>
-      <th> 0 </th>
-      <th> Nombre </th> 
+      <th> 5 </th>
+      <th> André Arroyo </th> 
       <th> Done </th>
    </tr>
    <tr>
       <th> T02 </th>
       <th> Traducción español </th>
       <th> Crear el i18n para español </th>
-      <th> 0 </th>
-      <th> Nombre </th> 
-      <th> In-Process </th>
+      <th> 5 </th>
+      <th> André Arroyo </th> 
+      <th> Done </th>
    </tr>
     <tr>
       <th> E5-US101 </th>
@@ -1841,8 +1848,8 @@ Link de Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-3
       <th> Vista Página no encontrada </th>
       <th> Crear vista para página no encontrada </th>
       <th> 0 </th>
-      <th> Nombre </th> 
-      <th> Done </th>
+      <th> André Arroyo </th> 
+      <th> In-Process </th>
    </tr>
       <tr>
       <th rowspan="2"> E6-US100 </th>
