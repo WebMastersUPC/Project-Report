@@ -2044,6 +2044,8 @@ https://github.com/WebMastersUPC/WebMasterAPI
 | Entity     | Endpoint URL                      | Swagger | 
 | User, Developer, Enterprise     | /api/v1/auth/                      | <img src="./assets/sprint3/auth-swagger.png"> |  
 | Project, Developers     | /api/v1/Projects/{projectId}/Deliverables/  | <img src="./assets/sprint3/endpoints.PNG"> |  
+| **Bounded Context** | **Profiles**  ||
+| User, Developer, Enterprise     | /api/v1/Profile/Developers, /api/v1/Profile/Enterprises   | <img src="./assets/sprint3/profile-swagger.png"> | 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
