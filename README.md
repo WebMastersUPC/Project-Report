@@ -2522,6 +2522,10 @@ Resalta de manera positiva la parte visual de la aplicación, destacando su dise
 #### 5.3.3. Evaluaciones según heurísticas.
 
 ## 5.4. Video About-the-Product.
+En el video About the Product, promocionamos nuestra plataforma enseñando las principales características de nuestra aplicación. El contenido de este compprende la introducción, modelo de negocio, características, beneficios y testimonios de los principales usuarios por cada segmento.
+
+Enlace al video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/ERdXq-s7_blMit5gCEA8-0EBQGiCa_ooyq04H86XekBsng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RkxjZ7 
+
 
 # Conclusiones
 # Conclusiones y recomendaciones.
@@ -2532,6 +2536,11 @@ Resalta de manera positiva la parte visual de la aplicación, destacando su dise
   
 - **Identificación de una Necesidad Clara:** La startup From Zero ha identificado una necesidad creciente en el mercado, donde las empresas y emprendimientos requieren una presencia en línea sólida para potenciar sus estrategias de marketing digital. Esta identificación precisa de una necesidad puede ser un factor clave para el éxito, ya que abordar una demanda real puede generar un gran interés y participación.
 
+
+# About the team
+En esta sección se encuentra el Video About the Team, donde mencionamos el proceso de desarrollo realizado para la aplicación web, tanto del frontend como del backend, junto con las evidencias de trabajo en conjunto.
+
+Enlace del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/Ec8Adg6452ZIsIarrMtNqgMB8uRL41108z4br_RMYevW5g?e=jB3T2x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 
 # Bibliografía
 ```
