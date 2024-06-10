@@ -2046,7 +2046,7 @@ https://github.com/WebMastersUPC/WebMasterAPI
 |---------------|------------------------------------------|---|
 | Entity     | Endpoint URL                      | Swagger | 
 | User, Developer, Enterprise     | /api/v1/auth/                      | <img src="./assets/sprint3/auth-swagger.png"> |  
-| **Bounded Context** | **Projects**  ||
+| Enterprise, Developer, Project | /api/Project/  |<img src="./assets/sprint3/Project-Swagger.png">|
 | Project, Developers     | /api/v1/Projects/{projectId}/Deliverables/  | <img src="./assets/sprint3/endpoints.PNG"> |  
 | **Bounded Context** | **Profiles**  ||
 | User, Developer, Enterprise     | /api/v1/Profile/Developers, /api/v1/Profile/Enterprises   | <img src="./assets/sprint3/profile-swagger.png"> | 
@@ -2178,6 +2178,34 @@ Resumen:
 Se entrevistó a Alessandro Medina, un joven de 20 años estudiante de Ciencias de la Computación quien se dedica al trabajo freelance. Alessandro se especializa en el desarrollo web como Front-End, con el uso de HTML5, CSS3, JS, React y Angular. utilizando tecnologías como HTML5, CSS3, JS, React y Angular. Él ha participado en diversos proyectos, principalmente en la creación de landing pages para emprendedores y pequeñas empresas.
 
 Resalta de manera positiva la parte visual de la aplicación, destacando su diseño intuitivo y su interfaz amigable, donde menciona que es lo suficientemente fácil de usar, incluso para usuarios con poca experiencia interactuando con tecnología. En cuanto a la navegación, considera que la toolbar facilita el flujo a través de la aplicación, permitiendo ir de manera fluida de pantalla en pantalla. También, considera que la app cuenta con todas las herramientas necesarias para trabajar en la plataforma como un desarrollador, como indicar el stack tecnológico y la posibilidad de mostrar tu portafolio. Destaca la personalización que tienen las empresas en cuanto a la descripción del proyecto y los entregables, lo que hace más facil considerar la postulación a este tipo de trabajos. Además, según las funcionalidades que ha podido observar en la aplicación, menciona que la plataforma sí le facilitaría la búsqueda de empleo en un proyecto de desarrollo de software. En conclusión, Alessandro dice estar dispuesto a registrarse a Webmaster. 
+
+**Entrevista 2** 
+
+  - Entrevistador: André Alonso Arroyo Ormeño 
+  - Entrevistado: Mauricio Oliveira Paucar
+  - Edad: 24 años
+  - Residencia: Lima - Distrito San martin de Porres
+  - Enlace del video: [https://upcedupe-my.sharepoint.com](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114714_upc_edu_pe/Eb1f4sd2BAlJjHp77LxIzlUBmQL3UMGnzbg3638bRb3xzA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=7S9vaW)
+
+  <img src="./assets/interviews/Mauricio.png" alt="Entrevista 2 segmento desarrollador freelancer" style="width:60% align-center">
+
+  Resumen:
+  <br>
+  Mauricio Oliveria, es una persona especializada en el área del backend. Desde su punto de vista, la aplicación representa unos colores adecuados, asi como también le permite identificar los botones que llevan a otras pantallas. Recalca que la app web fucionaba correctamente en tanto los botones asi como la pantalla de home devoloper y explorar proyectos. La barra de navegación le fue fácil de usar y el funcionamiento fue el correcto. Esta conforme con la información personal presentada en el home developer, pero que le gustaría una función para que las empresas puedan ver su portafolio. Lo que más le llamo la atención fue la pantalla de explorar proyectos, pues es ahí donde se ve los miles de propuestas que puede postular un freelancer. El entrevistado comenta que si usaría nuestra aplicación sobre todo en momentos en los cuales no sea fácil conseguir trabajo. Adicionalmente, expresa que si estaría de acuerdo que se agregue la opción de portafolio sobre todo para poder demostrar su conocimiento adquirido a las empresas. Por último, si estaría de acuerdo en crearse una cuenta para web master debido a la posibilidad de conseguir proyectos de desarrollo remunerado
+
+  **Entrevista 3** 
+
+  - Entrevistador: André Alonso Arroyo Ormeño 
+  - Entrevistado: Rodrigo Perez de la fuente
+  - Edad: 24 años
+  - Residencia: Lima - San Isidro
+  - Enlace del video: [https://upcedupe-my.sharepoint.com](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114714_upc_edu_pe/EbF-92sjCVhHlckZ9kQS0fcB2gpyz-MWBMlh1Xm2y4B8_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9Yk0hm)
+
+  <img src="./assets/interviews/Rodrigo Perez de la fuente.png" alt="Entrevista 3 segmento desarrollador freelnacer"  style="width:60% align-center"> >
+
+  Resumen:
+  <br>
+  Rodrigo Perez de la fuente, es una persona especializada en el desarrollo web y móvil y tiene experiencia trabajando en empresas SAAS. Respecto a la web app, le parece que tanto los botones como el tamaño de letra y colores están bien. Para la barra de navegación cumple su objetivo, pues le es sencillo cambiar de una pantalla a otra. Lo que más le llamo la atención fue la seguridad de los trabajos, pues solo cuando es aceptado la solicitud desarrollo es que el freelancer puede acceder a la documentación del proyecto. Si estaría dispuesto a usar nuestra aplicación, porque para él podría ser un ingreso más. Adicionalmente, para él es esencial la opción de poder mostrar el portafolio, porque asi podría demostrar sus conocimientos e incrementar su probabilidad de ser aceptado en el desarrollo del proyecto. Para finalizar, dado que tiene una vista buena de la aplicación web, pues si estaría dispuesto a registrarse en el mismo
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
