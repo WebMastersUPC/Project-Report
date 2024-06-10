@@ -2053,7 +2053,37 @@ https://github.com/WebMastersUPC/WebMasterAPI
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+De igual forma que en el primer y segundo sprint, se siguio utilizando Netlify para el deploy de la aplicacion web y landing page. Por lo tanto, se realizaran los mismos pasos mencionados en el anterior sprint, que como ventaja Netlify ofrece una actualizacion automatica con los ultimos cambios en el repositorio.
+
+<img src="./assets/sprint3/software-deployment.png">
+
+De este modo, se tiene un servicio de despliegue automatizado que agrega los cambios realizados sin tener que hacerlo de forma manual.
+
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+Ahora se presentaran los insights del trabajo colaborativo en Github.
+
+Como se han incluido vistas core faltantes en la aplicacion web respecto al segmento faltante (desarrolladores). De paso que se agregaron funciones para preferencia de idioma.
+
+Link del repositorio de la aplicacion web.
+https://github.com/WebMastersUPC/webmaster-app
+
+<img src="./assets/sprint3/Team Insights/web-app-overview.png">
+
+Se presenta el Gitflow a continuacion con las distintas ramas que se han trabajado para implementar estos features.
+
+<img src="./assets/sprint3/Team Insights/web-app-gitflow-1.png">
+
+Link del repositorio del API Restful:
+https://github.com/WebMastersUPC/WebMasterAPI
+En esta repositorio al ser el backend, se han implementado los endpoints de login, perfiles, proyectos, entregables, mensajes y soporte.
+
+<img src="./assets/sprint3/Team Insights/api-overview.png">
+
+De igual forma, se presentan el Gitflow de las ramas que se han trabajado para la implementacion de los features.
+
+<img src="./assets/sprint3/Team Insights/api-gitflow.png">
 
 ## 5.3. Validation Interviews.
 #### 5.3.1. Diseño de Entrevistas.
