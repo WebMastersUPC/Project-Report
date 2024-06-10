@@ -2277,7 +2277,7 @@ En el video About the Product, promocionamos nuestra plataforma enseñando las p
 # About the team
 En esta sección se encuentra el Video About the Team, donde mencionamos el proceso de desarrollo realizado para la aplicación web, tanto del frontend como del backend, junto con las evidencias de trabajo en conjunto.
 
-Enlace del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/Ec8Adg6452ZIsIarrMtNqgMB8uRL41108z4br_RMYevW5g?e=jB3T2x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+[Enlace del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/Ec8Adg6452ZIsIarrMtNqgMB8uRL41108z4br_RMYevW5g?e=jB3T2x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )
 
 # Bibliografía
 ```
