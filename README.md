@@ -2161,6 +2161,20 @@ Maverick nos comenta que considera que la aplicación es intuitiva y facil de us
 Matías Vázquez es un estudiante de 19 años que reside en Lima, Perú, y dirige su empredimiento llamada TecnoSolutions. Durante la entrevista, compartió sus opiniones sobre la plataforma WebMaster, destinada a conectar empresas con desarrolladores independientes.Matias sugiere incluir una sección de reseñas o calificaciones para los freelancers, lo que ayudaría a tener una mejor idea de su desempeño previo.
 <br><br>
 
+**Entrevista 3** 
+
+  - Entrevistador: Jair Velasquez Pizarro
+  - Entrevistado: Alexandra Ñañez
+  - Edad: 22 años
+  - Residencia: Lima 
+  - Enlace del video: [https://upcedupe-my.sharepoint.com](https://upcedupe-my.sharepoint.com/personal/u202218114_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218114_upc_edu_pe%2FDocuments%2FEntrevista%20Alexandra%20Webmaster%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ece709989-e2fd-48b0-8293-20a526c1ec71)
+
+<div style="display:flex;justify-content:center">
+<img src="./assets/interviews/Alexandra2.png" alt="Entrevista a Alexandra Ñañez" style="width:80%;">
+</div>
+Alexandra nos comenta que considera que la aplicación web es bastante intuitiva y fácil se usar. De igual forma, afirma que considera acertado la funcionalidad de contacto con los desarrolladores ya que así se podría realizar un proyecto de mejor forma gracias a la comunicación que habría. También resalta de forma positiva el agregado de cambio de idioma ya que esto permite ser más global. Por último nos confirma que si utilizaría la aplicación ya que al no tener muchos conocimientos del desarrollo de aplicaciones de software una página así le vendría bien si ocupa desarrollar una aplicación para su negocio.
+<br><br>
+
 
 **Segmento 2: Desarrolladores Freelancer**
 
