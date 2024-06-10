@@ -2046,6 +2046,7 @@ https://github.com/WebMastersUPC/WebMasterAPI
 |---------------|------------------------------------------|---|
 | Entity     | Endpoint URL                      | Swagger | 
 | User, Developer, Enterprise     | /api/v1/auth/                      | <img src="./assets/sprint3/auth-swagger.png"> |  
+| **Bounded Context** | **Project**  ||
 | Enterprise, Developer, Project | /api/Project/  |<img src="./assets/sprint3/Project-Swagger.png">|
 | Project, Developers     | /api/v1/Projects/{projectId}/Deliverables/  | <img src="./assets/sprint3/endpoints.PNG"> |  
 | **Bounded Context** | **Profiles**  ||
