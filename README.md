@@ -494,7 +494,7 @@ Mi entrevistado es William Ramos Vicente, es desarrollador backend de las plataf
   - Entrevistado: Rodriguez Peres de la fuente
   - Edad: 25 años
   - Residencia: Lima - San Isidro
-  - Enlace del video:[https://upcedupe-my.sharepoint.com](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114714_upc_edu_pe/ER783YYxQqdJgX20BuNmQHgB0eaQUC2pfRwUTsSv5BGNCA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=geaDiw)
+  - Enlace del video: [https://upcedupe-my.sharepoint.com](https://www.youtube.com/watch?v=M46C6zZlmWA)
 
   <img src="./assets/interviews/Rodrigo Perez de la fuente.png" alt="Entrevista 3 desarrolladores freelance" style="width:60% align-center">
 
@@ -2322,6 +2322,8 @@ Teorey, T. J., Lightstone, S. S., & Nadeau, T. (2011).
 
 **Landing page deployment**: https://sitewebmasters.netlify.app
 
+**Web Application deployment**: https://webmasterupcapp.netlify.app/login
+
 **Web Application Prototyping**: [Link a figma](https://www.figma.com/proto/5iojd3qBJ11W0yVLzEvabk/Mockup-Webmaster?type=design&node-id=1202-2&t=NFKzpbUoKtnoQftu-1&scaling=scale-down&page-id=2%3A325&starting-point-node-id=1202%3A2&show-proto-sidebar=1&mode=design)
 
 **Control de proyectos**
@@ -2333,3 +2335,5 @@ Teorey, T. J., Lightstone, S. S., & Nadeau, T. (2011).
 **Presentación TB1**: [upc-pre-202401-si730-WX54- FromZero-expo-tb1](https://upcedupe-my.sharepoint.com/personal/u20211a046_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211a046_upc_edu_pe%2FDocuments%2Fupc-pre-202401-si730-WX54-%20FromZero-expo-tb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
 **Presentación TP**: [upc-pre-202401-si730-WX54- FromZero-expo-tp](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/EWb6bGboSn9JsFRCSFm0NW8Bq7ki0MbRUHdUGEybfBbvFw?e=ZxmLgT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Presentación TB2**: [upc-pre-202401-si730-WX54- FromZero-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218114_upc_edu_pe/EYH_MrtfwTRAkoRP4kwNh8UB6kqOmw6OaTBpFM-KThWyHg?e=CxE88N&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
