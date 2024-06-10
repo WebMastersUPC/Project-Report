@@ -2050,7 +2050,11 @@ https://github.com/WebMastersUPC/WebMasterAPI
 | Enterprise, Developer, Project | /api/Project/  |<img src="./assets/sprint3/Project-Swagger.png">|
 | Project, Developers     | /api/v1/Projects/{projectId}/Deliverables/  | <img src="./assets/sprint3/endpoints.PNG"> |  
 | **Bounded Context** | **Profiles**  ||
-| User, Developer, Enterprise     | /api/v1/Profile/Developers, /api/v1/Profile/Enterprises   | <img src="./assets/sprint3/profile-swagger.png"> | 
+| User, Developer, Enterprise     | /api/Profile/Developers, /api/v1/Profile/Enterprises   | <img src="./assets/sprint3/profile-swagger.png"> | 
+| **Bounded Context** | **Messages**  ||
+| User, Message     | /api/Messages/  | <img src="./assets/sprint3/mess-swagger.png"> | 
+| **Bounded Context** | **Support**  ||
+| User,  Support   |  /api/SupportRequest/ | <img src="./assets/sprint3/supp-swagger.png"> | 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
