@@ -2261,7 +2261,7 @@ Resalta de manera positiva la parte visual de la aplicación, destacando su dise
 ## 5.4. Video About-the-Product.
 En el video About the Product, promocionamos nuestra plataforma enseñando las principales características de nuestra aplicación. El contenido de este compprende la introducción, modelo de negocio, características, beneficios y testimonios de los principales usuarios por cada segmento.
 
-Enlace al video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/ERdXq-s7_blMit5gCEA8-0EBQGiCa_ooyq04H86XekBsng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RkxjZ7 
+[Enlace al video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/ERdXq-s7_blMit5gCEA8-0EBQGiCa_ooyq04H86XekBsng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RkxjZ7 )
 
 
 # Conclusiones
