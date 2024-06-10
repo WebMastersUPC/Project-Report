@@ -2046,6 +2046,7 @@ https://github.com/WebMastersUPC/WebMasterAPI
 |---------------|------------------------------------------|---|
 | Entity     | Endpoint URL                      | Swagger | 
 | User, Developer, Enterprise     | /api/v1/auth/                      | <img src="./assets/sprint3/auth-swagger.png"> |  
+| **Bounded Context** | **Projects**  ||
 | Project, Developers     | /api/v1/Projects/{projectId}/Deliverables/  | <img src="./assets/sprint3/endpoints.PNG"> |  
 | **Bounded Context** | **Profiles**  ||
 | User, Developer, Enterprise     | /api/v1/Profile/Developers, /api/v1/Profile/Enterprises   | <img src="./assets/sprint3/profile-swagger.png"> | 
@@ -2100,29 +2101,32 @@ https://github.com/WebMastersUPC/WebMasterAPI
 #### 5.3.2. Registro de Entrevistas.
 **Segmento 1: Segmento empresarios o emprendedores**
 
-**Entrevista 1 (realizada por Zaid Ramirez):**<br>
-**Nombre:** Maverick Mendoza
-**Edad:** 19 años
-**Ocupación:** exEstudiante de Ingeniería de Sistemas, dueño del emprendimiento de comida EnchiTacos
+**Entrevista 1** 
+
+  - Entrevistador: Zaid Ramirez
+  - Entrevistado: Maverick Mendoza
+  - Edad: 19 años
+  - Residencia: Lima 
+  - Enlace del video: [https://upcedupe-my.sharepoint.com](https://youtu.be/rn22s0uMheg)
 
 <div style="display:flex;justify-content:center">
 <img src="./assets/interviews/Maverick2.png" alt="Entrevista a Maverick Mendoza" style="width:80%;">
 </div>
-
-[Vídeo de entrevista](https://youtu.be/rn22s0uMheg)
 Maverick nos comenta que considera que la aplicación es intuitiva y facil de usar. Del mismo modo, afirma que las vistas contienen toda la información que considera relevante al momento de definir programadores para su emprendimiento. A su vez comenta que e bajo coste del servicio es el punto fuerte de nuestra plataforma. Con estas observaciones, Maverick declará que estaría dispuesto a obtener una subscripcion a nuestra plataforma
 <br><br>
 
-**Entrevista 2 (realizada por Joseph Llacchua):**<br>
-**Nombre:** Matías Vázquez<br>
-**Edad:** 19 años<br>
-**Ocupación:** Dueño del emprendimiento de TecnoSolutions<br>
+**Entrevista 2** 
+
+  - Entrevistador: Joseph Llacchua
+  - Entrevistado: Matías Vázquez
+  - Edad: 19 años
+  - Residencia: Lima 
+  - Enlace del video: [https://upcedupe-my.sharepoint.com](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/EaEF4DWfaRxJp1OFy4R5GdoBw1hIjd9tEbQFHSlp0T2m7g?e=Pdd0C0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <div style="display:flex;justify-content:center">
 <img src="./assets/interviews/Matias2.png" alt="Entrevista a Matías Vázquez" style="width:80%;">
 </div>
 
-[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317002_upc_edu_pe/EaEF4DWfaRxJp1OFy4R5GdoBw1hIjd9tEbQFHSlp0T2m7g?e=Pdd0C0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 Matías Vázquez es un estudiante de 19 años que reside en Lima, Perú, y dirige su empredimiento llamada TecnoSolutions. Durante la entrevista, compartió sus opiniones sobre la plataforma WebMaster, destinada a conectar empresas con desarrolladores independientes.Matias sugiere incluir una sección de reseñas o calificaciones para los freelancers, lo que ayudaría a tener una mejor idea de su desempeño previo.
 <br><br>
 
