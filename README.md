@@ -2257,7 +2257,6 @@ Resalta de manera positiva la parte visual de la aplicación, destacando su dise
   <br>
   Rodrigo Perez de la fuente, es una persona especializada en el desarrollo web y móvil y tiene experiencia trabajando en empresas SAAS. Respecto a la web app, le parece que tanto los botones como el tamaño de letra y colores están bien. Para la barra de navegación cumple su objetivo, pues le es sencillo cambiar de una pantalla a otra. Lo que más le llamo la atención fue la seguridad de los trabajos, pues solo cuando es aceptado la solicitud desarrollo es que el freelancer puede acceder a la documentación del proyecto. Si estaría dispuesto a usar nuestra aplicación, porque para él podría ser un ingreso más. Adicionalmente, para él es esencial la opción de poder mostrar el portafolio, porque asi podría demostrar sus conocimientos e incrementar su probabilidad de ser aceptado en el desarrollo del proyecto. Para finalizar, dado que tiene una vista buena de la aplicación web, pues si estaría dispuesto a registrarse en el mismo
 
-#### 5.3.3. Evaluaciones según heurísticas.
 
 ## 5.4. Video About-the-Product.
 En el video About the Product, promocionamos nuestra plataforma enseñando las principales características de nuestra aplicación. El contenido de este compprende la introducción, modelo de negocio, características, beneficios y testimonios de los principales usuarios por cada segmento.
