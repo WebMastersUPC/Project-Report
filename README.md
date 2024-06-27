@@ -2281,6 +2281,7 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
 
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
 | Repository   | Branch              | Commit ID                               | Commit Message                                                | Commited on (Date)|
+|--------------|---------------------|-----------------------------------------|---------------------------------------------------------------|-------------------|
 | WebMasterAPI | feature/deliverables|893e347fcdb4bc96de38ccf98bdffc507e689371 |feat: add resources folder                                     | 10/06/2024        |
 | WebMasterAPI | develop             |3d3f237a29cc6f44cf7ae3ce0d16e17bcf52cae0 |Merge pull request #12 from WebMastersUPC/feature/deliverables | 10/06/2024        |
 | WebMasterAPI | feature/projectV3   |a5bc0a5571d79a3888e9a169fe8688094d1026eb |feat: added new method AddApplicant                            | 11/06/2024        |
