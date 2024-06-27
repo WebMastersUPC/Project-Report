@@ -2,7 +2,7 @@
 # INGENIERÍA DE SISTEMAS DE SOFTWARE
 ## CURSO: SI730 Aplicaciones Web | SECCIÓN WX54 
  Profesor: Alex Humberto Sánchez Ponce
-# Informe de TP
+# Informe de TF
 **Nombre del Startup**: "From Zero"
 **Nombre del Producto**: "Webmasters"
 ### Integrantes:
