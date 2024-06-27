@@ -2174,17 +2174,17 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
       <th rowspan="2"> E6-US100 </th>
       <th rowspan="2" colspan="3"> Autenticación de usuario </th>
       <th> T01 </th>
-      <th> Seguridad de contraseña </th>
-      <th> Implementar encriptación mediante hash para las contraseñas de los usuarios </th>
-      <th> 5</th>
+      <th> Seguridad de contraseña y Validación de usuario</th>
+      <th> Implementar encriptación mediante hash para las contraseñas de los usuarios e implementar de token JWT para proteger las rutas de la aplicacion. </th>
+      <th> 3</th>
       <th> Jair Velasquez </th> 
       <th> Done </th>
    </tr>
    <tr>
       <th> T02 </th>
-      <th> Validación de usuario </th>
-      <th> Implementar de token JWT para proteger las rutas de la aplicacion. </th>
-      <th> 5 </th>
+      <th> Implementacion de los endpoints </th>
+      <th> Implementar el uso de los endpoints en el front </th>
+      <th> 8 </th>
       <th> Jair Velasquez </th> 
       <th> Done </th>
    </tr>
