@@ -2285,7 +2285,18 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
-#### 5.2.4.7.Software Deployment Evidence for Sprint Review. 
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+De igual forma que en el primer y segundo sprint, se siguio utilizando Netlify para el deploy de la aplicacion web y landing page. Por lo tanto, se realizaran los mismos pasos mencionados en el anterior sprint, que como ventaja Netlify ofrece una actualizacion automatica con los ultimos cambios en el repositorio.
+
+**Landing Page Deployment**
+
+<img src="./assets/sprint3/landingpage-deployment.png">
+
+**Aplicacion web deployment**
+<img src="./assets/sprint3/software-deployment.png">
+
+De este modo, se tiene un servicio de despliegue automatizado que agrega los cambios realizados sin tener que hacerlo de forma manual.
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
