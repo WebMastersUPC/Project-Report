@@ -2280,35 +2280,71 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
 #### 5.2.4.3.Development Evidence for Sprint Review. 
 
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
-| Repository   | Branch              | Commit ID                               | Commit Message                                                | Commited on (Date)|
-|--------------|---------------------|-----------------------------------------|---------------------------------------------------------------|-------------------|
-| WebMasterAPI | feature/deliverables|893e347fcdb4bc96de38ccf98bdffc507e689371 |feat: add resources folder                                     | 10/06/2024        |
-| WebMasterAPI | develop             |3d3f237a29cc6f44cf7ae3ce0d16e17bcf52cae0 |Merge pull request #12 from WebMastersUPC/feature/deliverables | 10/06/2024        |
-| WebMasterAPI | feature/projectV3   |a5bc0a5571d79a3888e9a169fe8688094d1026eb |feat: added new method AddApplicant                            | 11/06/2024        |
-| WebMasterAPI | feature/deliverables|d1edb0da69c77a44bf272aa45d5b28eecb96d194 |feat: add updload deliverable by developer                     | 11/06/2024        |
-| WebMasterAPI | feature/deliverables|8d45593ac9a650908cf48ee27c7bb1b1cb974d65 |feat: add upload response and request                          | 11/06/2024        |
-| WebMasterAPI | feature/projectV3   |d3b0e350e9686ddc5138d0cc95b1b0ab9e852764 |feat: fix some bugs and fix methods update and adddevelopers   | 14/06/2024        |
-| WebMasterAPI | feature/messages    |58da681853eeebc50a11a61fe4e8968ee499bc05 |feat:aff "v1" controller messaging                             | 17/06/2024        |
-| WebMasterAPI | feature/projectV3   |22a071f281f4af8ec8b91f2fc1c44d5cf3d5eb3a |feat: method DeleteApplicants added                            | 18/06/2024        |
-| WebMasterAPI | develop             |acade88ff58e4190bdc448089081380c1042f9b2 |Merge branch 'develop' into Feature/projectv3                  | 19/06/2024        |
-| WebMasterAPI | develop             |6d3eb05a78f9fca66c2fd5dd6a0709c276e6e70d |Merge pull request #13 from WebMastersUPC/Feature/projectv3    | 19/06/2024        |
-| WebMasterAPI | feature/deliverables|bc694f184c896a300bac28eeb09be60dcacea5de |feat: add GET method for deliverables by developers            | 20/06/2024        |
-| WebMasterAPI | develop             |22f9948087ecba0cce167f0c9b80bc04443a7129 |Merge pull request #14 from WebMastersUPC/feature/deliverables | 20/06/2024        |
-| WebMasterAPI | feature/deliverables|66e3b8dc179d9a81df60fb360f2094bfb2aaaa0f |feat: add upload deliverable restriction                       | 21/06/2024        |
-| WebMasterAPI | develop             |9c9e161d160e1c8d7535440a26ba9595b79bda16 |Merge pull request #15 from WebMastersUPC/feature/deliverables | 21/06/2024        |
-| WebMasterAPI | feature/projectV3   |59cf59857cd4583bf39ae582eaa0d5ff7b7b5034 |feat: method GetAvaliableProjects added                        | 21/06/2024        |
-| WebMasterAPI | feature/projectV3   |3d5c01771a205d1b6d1c0bc602edc4b56e3860e6 |feat: methods getproject by enterprise and developers ids aaded| 22/06/2024        |
-| WebMasterAPI | feature/profiles    |7d23f17049cbca1a2feac04024c271742a4b7bd1 |feat: added get by developer_id                                | 23/06/2024        |
-| WebMasterAPI | feature/profiles    |7884dda05abbc36578de458528e535dfca268de7 |feat: adding get by enterprise_id                              | 24/06/2024        |
-| WebMasterAPI | feature/deliverables|867f2ba99369b9f8143359e97d494bc6f4165729 |feat: change GET methods by deliverableId                      | 24/06/2024        |
-| WebMasterAPI | develop             |81368657215d707b246a4d304e45e9f3c3dbc3b8 |Merge pull request #17 from WebMastersUPC/feature/deliverables | 24/06/2024        |
-| WebMasterAPI | feature/deliverables|fcfc253a9d818d6de64b35bae410caff8c42161d |chore: change parameter for GETmethod for uploaded deliverables| 25/06/2024        |
-| WebMasterAPI | feature/deliverables|c43af4faba25d47be8c8b46f828ce39ebee2a8fa |chore: change parameter value for approve or reject method     | 26/06/2024        |
-| WebMasterAPI | feature/deliverables|dafb8980b837472a64f33135247f2749338a3fe2 |chore: refactor uploadDeliverableAsync method                  | 26/06/2024        |
-| WebMasterAPI | feature/deliverables|c1000c4edc5a908f486205a628817db78a17aaac |chore: refactor deadline                                       | 26/06/2024        |
-| WebMasterAPI | feature/deliverables|b5f0af42ab7c98004675a4c18af071e0b00a25c4 |Merge branch 'develop' into feature/deliverables               | 26/06/2024        |
-| WebMasterAPI | develop             |b5f0af42ab7c98004675a4c18af071e0b00a25c4 |Merge pull request #18 from WebMastersUPC/feature/deliverables | 26/06/2024        |
-| WebMasterAPI | feature/profiles    |e7a512edda60fd1a9b77020701193df7c5e9b1ce |udpate: updated request                                        | 26/06/2024        |
+| Repository   | Branch                 | Commit ID                               | Commit Message                                                | Commited on (Date)|
+|--------------|------------------------|-----------------------------------------|---------------------------------------------------------------|-------------------|
+| WebMasterAPI | feature/deliverables   |893e347fcdb4bc96de38ccf98bdffc507e689371 |feat: add resources folder                                     | 10/06/2024        |
+| WebMasterAPI | develop                |3d3f237a29cc6f44cf7ae3ce0d16e17bcf52cae0 |Merge pull request #12 from WebMastersUPC/feature/deliverables | 10/06/2024        |
+| WebMasterAPI | feature/projectV3      |a5bc0a5571d79a3888e9a169fe8688094d1026eb |feat: added new method AddApplicant                            | 11/06/2024        |
+| WebMasterAPI | feature/deliverables   |d1edb0da69c77a44bf272aa45d5b28eecb96d194 |feat: add updload deliverable by developer                     | 11/06/2024        |
+| WebMasterAPI | feature/deliverables   |8d45593ac9a650908cf48ee27c7bb1b1cb974d65 |feat: add upload response and request                          | 11/06/2024        |
+| WebMasterAPI | feature/projectV3      |d3b0e350e9686ddc5138d0cc95b1b0ab9e852764 |feat: fix some bugs and fix methods update and adddevelopers   | 14/06/2024        |
+| WebMasterAPI | feature/messages       |58da681853eeebc50a11a61fe4e8968ee499bc05 |feat:aff "v1" controller messaging                             | 17/06/2024        |
+| WebMasterAPI | feature/projectV3      |22a071f281f4af8ec8b91f2fc1c44d5cf3d5eb3a |feat: method DeleteApplicants added                            | 18/06/2024        |
+| WebMasterAPI | develop                |acade88ff58e4190bdc448089081380c1042f9b2 |Merge branch 'develop' into Feature/projectv3                  | 19/06/2024        |
+| WebMasterAPI | develop                |6d3eb05a78f9fca66c2fd5dd6a0709c276e6e70d |Merge pull request #13 from WebMastersUPC/Feature/projectv3    | 19/06/2024        |
+| WebMasterAPI | feature/deliverables   |bc694f184c896a300bac28eeb09be60dcacea5de |feat: add GET method for deliverables by developers            | 20/06/2024        |
+| WebMasterAPI | develop                |22f9948087ecba0cce167f0c9b80bc04443a7129 |Merge pull request #14 from WebMastersUPC/feature/deliverables | 20/06/2024        |
+| WebMasterAPI | feature/deliverables   |66e3b8dc179d9a81df60fb360f2094bfb2aaaa0f |feat: add upload deliverable restriction                       | 21/06/2024        |
+| WebMasterAPI | develop                |9c9e161d160e1c8d7535440a26ba9595b79bda16 |Merge pull request #15 from WebMastersUPC/feature/deliverables | 21/06/2024        |
+| WebMasterAPI | feature/projectV3      |59cf59857cd4583bf39ae582eaa0d5ff7b7b5034 |feat: method GetAvaliableProjects added                        | 21/06/2024        |
+| WebMasterAPI | feature/projectV3      |3d5c01771a205d1b6d1c0bc602edc4b56e3860e6 |feat: methods getproject by enterprise and developers ids aaded| 22/06/2024        |
+| WebMasterAPI | feature/profiles       |7d23f17049cbca1a2feac04024c271742a4b7bd1 |feat: added get by developer_id                                | 23/06/2024        |
+| WebMasterAPI | feature/profiles       |7884dda05abbc36578de458528e535dfca268de7 |feat: adding get by enterprise_id                              | 24/06/2024        |
+| WebMasterAPI | feature/deliverables   |867f2ba99369b9f8143359e97d494bc6f4165729 |feat: change GET methods by deliverableId                      | 24/06/2024        |
+| WebMasterAPI | develop                |81368657215d707b246a4d304e45e9f3c3dbc3b8 |Merge pull request #17 from WebMastersUPC/feature/deliverables | 24/06/2024        |
+| WebMasterAPI | feature/deliverables   |fcfc253a9d818d6de64b35bae410caff8c42161d |chore: change parameter for GETmethod for uploaded deliverables| 25/06/2024        |
+| WebMasterAPI | feature/deliverables   |c43af4faba25d47be8c8b46f828ce39ebee2a8fa |chore: change parameter value for approve or reject method     | 26/06/2024        |
+| WebMasterAPI | feature/deliverables   |dafb8980b837472a64f33135247f2749338a3fe2 |chore: refactor uploadDeliverableAsync method                  | 26/06/2024        |
+| WebMasterAPI | feature/deliverables   |c1000c4edc5a908f486205a628817db78a17aaac |chore: refactor deadline                                       | 26/06/2024        |
+| WebMasterAPI | feature/deliverables   |b5f0af42ab7c98004675a4c18af071e0b00a25c4 |Merge branch 'develop' into feature/deliverables               | 26/06/2024        |
+| WebMasterAPI | develop                |b5f0af42ab7c98004675a4c18af071e0b00a25c4 |Merge pull request #18 from WebMastersUPC/feature/deliverables | 26/06/2024        |
+| WebMasterAPI | feature/profiles       |e7a512edda60fd1a9b77020701193df7c5e9b1ce |udpate: updated request                                        | 26/06/2024        |
+| webmaster-app|feature/api-connection  |1c0ec89dcdfdd6213336bc8a6a4967077f9d9814 |feat: adding token in Home                                     | 17/06/2024        |
+| webmaster-app|feature/api-connection  |e108aa028280d83ecf7238ede1bea1682e24311c |feat:add messaging service connected                           | 17/06/2024        |
+| webmaster-app|feature/api-connection  |a8921172b81fe43f14a62f1776c048521bcdf7a9 |feat: add API connection to backend and frontend               | 18/06/2024        |
+| webmaster-app|feature/api-connection  |4e8c823679d9b383dcf2d065450cfb550b4e0769 |feat: add API connect for user relationship support requests   | 23/06/2024        |
+| webmaster-app|feature/api-connection  |4cc3b86ce4212fce011ad48a41bdbba6364769af |feat: Fix jwt-decode import                                    | 24/06/2024        |
+| webmaster-app|feature/api-connection  |fb7119ab7f9ddaeabb9379296c2645f0f11764c6 |feat: add connect messages to API and message form with file upload and form submission| 24/06/2024 |
+| webmaster-app|feature/api-connection  |84511aef771c7467c8d5586432b593dd0ef0ee14 |feat: added put in service                                     | 26/06/2024        |
+| webmaster-app|feature/api-connection  |0c1e5ca2d75094196fd2638b60dddedac638fa1d |feat: updated search-developer service                         | 26/06/2024        |
+| webmaster-app|feature/api-deliverables|1c0ec89dcdfdd6213336bc8a6a4967077f9d9814 |feat: adding token in Home                                     | 17/06/2024        |
+| webmaster-app|feature/api-deliverables|e108aa028280d83ecf7238ede1bea1682e24311c |feat:add messaging service connected                           | 17/06/2024        |
+| webmaster-app|feature/api-deliverables|a8921172b81fe43f14a62f1776c048521bcdf7a9 |feat: add API connection to backend and frontend               | 18/06/2024        |
+| webmaster-app|feature/api-deliverables|afec92c99685035ddef5295d438ab8d0420ec2ed |feat: implement GET and CREATE method on the deliverable list  | 23/06/2024        |
+| webmaster-app|feature/api-deliverables|f3e61fabc02541243e49ab6aa1e11afeafef6858 |feat: implement PUT method for deliverables                    | 24/06/2024        |
+| webmaster-app|feature/api-deliverables|f4c1f4a90692f1cdd2d2c79d234e9b00a2162850 |feat: implement GET method for deliverable's uploads by the developer| 25/06/2024  |
+| webmaster-app|feature/api-deliverables|b7896a71247aae47739495caaf3d2799e3cd958f |feat: implements approve and reject deliverables methods       | 26/06/2024        |
+| webmaster-app|feature/api-deliverables|9d76850f14dd3b3390735e1207ff6ed6ebaae749 |feat: implement GET method for developer's view for deliverables list| 26/06/2024  |
+| webmaster-app|feature/api-deliverables|72d4773ee52d7e646baee9aaa14b7993c845400c |feat: implement the PUT method for uploading developer deliverables| 26/06/2024    |
+| webmaster-app|feature/api-deliverables|a333a9e3e55b00218a42e328ddd97c537a0544be |fix: revert changes on review-deliverable.component.vue        | 26/06/2024        |
+| webmaster-app|feature/api-deliverables|691b0c686cdd40ec2495d86536906c3bd50c3fef |feat: update model and fetchDeliverables                       | 26/06/2024        |
+| webmaster-app|feature/api-deliverables|a1a97812ff4a52236215f89e1469614477bad124 |chore: improve responsive and general style                    | 27/06/2024        |
+| webmaster-app|feature/api-project     |1c0ec89dcdfdd6213336bc8a6a4967077f9d9814 |feat: adding token in Home                                     | 17/06/2024        |
+| webmaster-app|feature/api-project     |e108aa028280d83ecf7238ede1bea1682e24311c |feat:add messaging service connected                           | 17/06/2024        |
+| webmaster-app|feature/api-project     |a8921172b81fe43f14a62f1776c048521bcdf7a9 |feat: add API connection to backend and frontend               | 18/06/2024        |
+| webmaster-app|feature/api-project     |10ee17711770a8ed838586d031188cd16c9bef32 |feat: project service added                                    | 20/06/2024        |
+| webmaster-app|feature/api-project     |277c5e3b6cb01be729069dc821168e457d4c8eff |feat: method getAvailableProjects added                        | 21/06/2024        |
+| webmaster-app|feature/api-project     |765cbda44bad6199f80228f00c191b01eed64b09 |feat: added enterprise id in local storage                     | 23/06/2024        |
+| webmaster-app|feature/api-project     |5494a290d1fc4f899ec9d66a5e825d69e6da9996 |feat: visualize data project and applicants                    | 23/06/2024        |
+| webmaster-app|feature/api-project     |564aab8fa6fb4633dc038640cc20baa7ed9823f5 |feat: fix bug routes                                           | 23/06/2024        |
+| webmaster-app|feature/api-project     |cef7f5664b8eee993370597ca7fe6225b9045286 |feat: advance search-project api connection                    | 24/06/2024        |
+| webmaster-app|feature/api-project     |f93097047dda62d547446d2658f4c5bbac3e6f8d |feat: fixing bug search projects                               | 24/06/2024        |
+| webmaster-app|feature/api-project     |4a4c4c290ff03072d17ac837548161a337325fa8 |feat: implement visualization data of apply project with backend| 25/06/2024       |
+| webmaster-app|feature/api-project     |d0d9746457e1a6447285e14232c56f58be6ee965 |feat: add addplicant mehtod in postulate project               | 26/06/2024        |
+| webmaster-app|feature/api-project     |c144749f3ba67074805e444c3c8ee42d2d6ebd20 |feat: fix bug with toolbar                                     | 26/06/2024        |
+| webmaster-app|feature/api-project     |46385bbf9f4adeff1f8bc298b271ba593e2c2df9 |feat: create project with api added                            | 26/06/2024        |
+| webmaster-app|feature/api-project     |58415936ca6402f7eac44cc64e603bb8a2b0e426 |feat: fix bug about project in home enterprise                 | 26/06/2024        |
+
 
 
 #### 5.2.4.5.Execution Evidence for Sprint Review.
