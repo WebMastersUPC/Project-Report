@@ -2280,6 +2280,35 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
 #### 5.2.4.3.Development Evidence for Sprint Review. 
 
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
+| Repository   | Branch              | Commit ID                               | Commit Message                                                | Commited on (Date)|
+| WebMasterAPI | feature/deliverables|893e347fcdb4bc96de38ccf98bdffc507e689371 |feat: add resources folder                                     | 10/06/2024        |
+| WebMasterAPI | develop             |3d3f237a29cc6f44cf7ae3ce0d16e17bcf52cae0 |Merge pull request #12 from WebMastersUPC/feature/deliverables | 10/06/2024        |
+| WebMasterAPI | feature/projectV3   |a5bc0a5571d79a3888e9a169fe8688094d1026eb |feat: added new method AddApplicant                            | 11/06/2024        |
+| WebMasterAPI | feature/deliverables|d1edb0da69c77a44bf272aa45d5b28eecb96d194 |feat: add updload deliverable by developer                     | 11/06/2024        |
+| WebMasterAPI | feature/deliverables|8d45593ac9a650908cf48ee27c7bb1b1cb974d65 |feat: add upload response and request                          | 11/06/2024        |
+| WebMasterAPI | feature/projectV3   |d3b0e350e9686ddc5138d0cc95b1b0ab9e852764 |feat: fix some bugs and fix methods update and adddevelopers   | 14/06/2024        |
+| WebMasterAPI | feature/messages    |58da681853eeebc50a11a61fe4e8968ee499bc05 |feat:aff "v1" controller messaging                             | 17/06/2024        |
+| WebMasterAPI | feature/projectV3   |22a071f281f4af8ec8b91f2fc1c44d5cf3d5eb3a |feat: method DeleteApplicants added                            | 18/06/2024        |
+| WebMasterAPI | develop             |acade88ff58e4190bdc448089081380c1042f9b2 |Merge branch 'develop' into Feature/projectv3                  | 19/06/2024        |
+| WebMasterAPI | develop             |6d3eb05a78f9fca66c2fd5dd6a0709c276e6e70d |Merge pull request #13 from WebMastersUPC/Feature/projectv3    | 19/06/2024        |
+| WebMasterAPI | feature/deliverables|bc694f184c896a300bac28eeb09be60dcacea5de |feat: add GET method for deliverables by developers            | 20/06/2024        |
+| WebMasterAPI | develop             |22f9948087ecba0cce167f0c9b80bc04443a7129 |Merge pull request #14 from WebMastersUPC/feature/deliverables | 20/06/2024        |
+| WebMasterAPI | feature/deliverables|66e3b8dc179d9a81df60fb360f2094bfb2aaaa0f |feat: add upload deliverable restriction                       | 21/06/2024        |
+| WebMasterAPI | develop             |9c9e161d160e1c8d7535440a26ba9595b79bda16 |Merge pull request #15 from WebMastersUPC/feature/deliverables | 21/06/2024        |
+| WebMasterAPI | feature/projectV3   |59cf59857cd4583bf39ae582eaa0d5ff7b7b5034 |feat: method GetAvaliableProjects added                        | 21/06/2024        |
+| WebMasterAPI | feature/projectV3   |3d5c01771a205d1b6d1c0bc602edc4b56e3860e6 |feat: methods getproject by enterprise and developers ids aaded| 22/06/2024        |
+| WebMasterAPI | feature/profiles    |7d23f17049cbca1a2feac04024c271742a4b7bd1 |feat: added get by developer_id                                | 23/06/2024        |
+| WebMasterAPI | feature/profiles    |7884dda05abbc36578de458528e535dfca268de7 |feat: adding get by enterprise_id                              | 24/06/2024        |
+| WebMasterAPI | feature/deliverables|867f2ba99369b9f8143359e97d494bc6f4165729 |feat: change GET methods by deliverableId                      | 24/06/2024        |
+| WebMasterAPI | develop             |81368657215d707b246a4d304e45e9f3c3dbc3b8 |Merge pull request #17 from WebMastersUPC/feature/deliverables | 24/06/2024        |
+| WebMasterAPI | feature/deliverables|fcfc253a9d818d6de64b35bae410caff8c42161d |chore: change parameter for GETmethod for uploaded deliverables| 25/06/2024        |
+| WebMasterAPI | feature/deliverables|c43af4faba25d47be8c8b46f828ce39ebee2a8fa |chore: change parameter value for approve or reject method     | 26/06/2024        |
+| WebMasterAPI | feature/deliverables|dafb8980b837472a64f33135247f2749338a3fe2 |chore: refactor uploadDeliverableAsync method                  | 26/06/2024        |
+| WebMasterAPI | feature/deliverables|c1000c4edc5a908f486205a628817db78a17aaac |chore: refactor deadline                                       | 26/06/2024        |
+| WebMasterAPI | feature/deliverables|b5f0af42ab7c98004675a4c18af071e0b00a25c4 |Merge branch 'develop' into feature/deliverables               | 26/06/2024        |
+| WebMasterAPI | develop             |b5f0af42ab7c98004675a4c18af071e0b00a25c4 |Merge pull request #18 from WebMastersUPC/feature/deliverables | 26/06/2024        |
+| WebMasterAPI | feature/profiles    |e7a512edda60fd1a9b77020701193df7c5e9b1ce |udpate: updated request                                        | 26/06/2024        |
+
 
 #### 5.2.4.5.Execution Evidence for Sprint Review.
 
