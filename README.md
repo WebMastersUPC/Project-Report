@@ -2226,16 +2226,16 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
       <th rowspan="2"> E6-US103 </th>
       <th rowspan="2" colspan="3"> Información del perfil </th>
       <th> T07</th>
-      <th> i </th>
-      <th> i </th>
+      <th> Mostrar información </th>
+      <th> Mostrar la información del perfil en la carta con las opciones para editar </th>
       <th> 10 </th>
       <th> Zaid Ramirez </th> 
       <th> Done </th>
    </tr>
    <tr>
       <th> T08 </th>
-      <th> i </th>
-      <th> i </th>
+      <th> Edición de perfil </th>
+      <th> Implementar mediante uso de endpoints la posibilidad de editar la información del perfil </th>
       <th> 6 </th>
       <th> Zaid Ramirez </th> 
       <th> Done </th>
