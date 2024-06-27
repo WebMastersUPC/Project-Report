@@ -2441,7 +2441,7 @@ Resalta de manera positiva la parte visual de la aplicación, destacando su dise
 ## 5.4. Video About-the-Product.
 En el video About the Product, promocionamos nuestra plataforma enseñando las principales características de nuestra aplicación. El contenido de este compprende la introducción, modelo de negocio, características, beneficios y testimonios de los principales usuarios por cada segmento.
 
-[Enlace al video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/ERdXq-s7_blMit5gCEA8-0EBQGiCa_ooyq04H86XekBsng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RkxjZ7 )
+[Enlace al video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/Efdt488GT55MjGxfuG_Z07sBL1i7yIo0WGhF1r6gCI53YQ?e=zjc9Pb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 # Conclusiones
@@ -2457,7 +2457,7 @@ En el video About the Product, promocionamos nuestra plataforma enseñando las p
 # About the team
 En esta sección se encuentra el Video About the Team, donde mencionamos el proceso de desarrollo realizado para la aplicación web, tanto del frontend como del backend, junto con las evidencias de trabajo en conjunto.
 
-[Enlace del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/Ec8Adg6452ZIsIarrMtNqgMB8uRL41108z4br_RMYevW5g?e=jB3T2x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )
+[Enlace del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a046_upc_edu_pe/EQYUI_HdUlJKhlj0UAdUuwcBXF5dTPABphb-C0mFGmqnig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=t9InRw)
 
 # Bibliografía
 ```
