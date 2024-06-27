@@ -2121,6 +2121,41 @@ De igual forma, se presentan el Gitflow de las ramas que se han trabajado para l
 
 <img src="./assets/sprint3/Team Insights/api-gitflow.png">
 
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4.
+
+En el siguiente apartado, se presentará el sprint planning 4, donde se mostrará la planificación e implementación del web application. Asimismo, se mostrarán el proyecto finalizado e insights de colaboración a través de Github.
+
+|<a name="_6cxtvwxzjfs6"></a>Sprint #|Sprint 4|
+| :- | :- |
+|Sprint Planning Background||
+|Date|18/06/2024|
+|Time|20 horas (GMT -5)|
+|Location|Modalidad remota por Discord|
+|Prepared By|Jair Velasquez Pizarro|
+|Attendees (to planning meeting)|Todos los miembros del grupo From Zero|
+|Sprint n – 3 Review Summary|En el sprint 3, se han desarrollado RESTful API con framework de Net Core en los bounnded context de autenticacion, perfiles, creacion de proyecto y seguimiento de proyecto.|
+|Sprint n – 4 Retrospective Summary|En este sprint 4 se finalizarán el RESTful API con el framework de Net Core con los bounded context de autenticación, perfiles, creación de proyectos, seguimiento de proyectos y seguimiento de entregables, messages, soporte. Al finalizar este sprint, se podrá apreciar la aplicación terminada y se podrán ingresar y recibir datos gracias al backend y su conexion a la base de datos desplegada.|
+|Sprint Goal & User Stories||
+|Sprint 4 Velocity|56|
+|Sum of Story Points|56|
+
+#### 5.2.4.2. Sprint Backlog 4.
+
+#### 5.2.4.3.Development Evidence for Sprint Review. 
+
+#### 5.2.4.4.Testing Suite Evidence for Sprint Review.
+
+#### 5.2.4.5.Execution Evidence for Sprint Review.
+
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review. 
+
+#### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+
 ## 5.3. Validation Interviews.
 #### 5.3.1. Diseño de Entrevistas.
 
