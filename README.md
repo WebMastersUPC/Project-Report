@@ -2146,6 +2146,137 @@ En el siguiente apartado, se presentará el sprint planning 4, donde se mostrar�
 
 #### 5.2.4.2. Sprint Backlog 4.
 
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura del tablero y el link en Trello.
+Link a board en Trello: En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura del tablero y el link en Trello.
+Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
+
+
+<table style="width:100%; height:100px;">
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 4 </th>
+   </tr>
+   <tr>
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item / Task</th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+      <tr>
+      <th rowspan="2"> E6-US100 </th>
+      <th rowspan="2" colspan="3"> Autenticación de usuario </th>
+      <th> T01 </th>
+      <th> Seguridad de contraseña </th>
+      <th> Implementar encriptación mediante hash para las contraseñas de los usuarios </th>
+      <th> 5</th>
+      <th> Jair Velasquez </th> 
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> T02 </th>
+      <th> Validación de usuario </th>
+      <th> Implementar de token JWT para proteger las rutas de la aplicacion. </th>
+      <th> 5 </th>
+      <th> Jair Velasquez </th> 
+      <th> Done </th>
+   </tr>
+    <tr>
+      <th rowspan="2"> E6-US101 </th>
+      <th rowspan="2" colspan="3"> Información de proyectos  </th>
+      <th> T03</th>
+      <th> Creación del proyecto </th>
+      <th> Implementar la lógica de creación del proyecto </th>
+      <th> 7</th>
+      <th> André Arroyo  </th> 
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> T04 </th>
+      <th> Lectura de datos del proyecto </th>
+      <th> Implementar la lógica de lectura de datos del proyecto </th>
+      <th> 4 </th>
+      <th> André Arroyo </th> 
+      <th> Done </th>
+    <tr>
+      <th rowspan="2"> E6-US102 </th>
+      <th rowspan="2" colspan="3"> Información de entregables de proyectos </th>
+      <th> T05</th>
+      <th> Creación del entregable </th>
+      <th> Implementar la lógica de creación del entregable </th>
+      <th> 10 </th>
+      <th> Samira Alvarez </th> 
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> T06 </th>
+      <th> Lectura de datos </th>
+      <th> Implementar la lógica de lectura del entregable</th>
+      <th> 5 </th>
+      <th> Samira Alvarez </th> 
+      <th> Done </th>
+    <tr>
+      <th rowspan="2"> E6-US103 </th>
+      <th rowspan="2" colspan="3"> Información del perfil </th>
+      <th> T07</th>
+      <th> Creación del perfil </th>
+      <th> Implementar la lógica de creación del perfil </th>
+      <th> 10 </th>
+      <th> Zaid Ramirez </th> 
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> T08 </th>
+      <th> Lectura de datos </th>
+      <th> Implementar la lógica de lectura del perfil</th>
+      <th> 6 </th>
+      <th> Zaid Ramirez </th> 
+      <th> Done </th>
+    <tr>
+      <th rowspan="2"> E6-US104 </th>
+      <th rowspan="2" colspan="3"> Información de mensajes </th>
+      <th> T09</th>
+      <th> Creación del proyecto </th>
+      <th> Implementar la lógica de creación del mensaje </th>
+      <th> 5</th>
+      <th> Joseph Llacchua  </th> 
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> T10 </th>
+      <th> Lectura de datos </th>
+      <th> Implementar la lógica de lectura del mensaje </th>
+      <th> 4 </th>
+      <th> Joseph Llacchua </th> 
+      <th> Done </th>
+   </tr>
+    <tr>
+      <th rowspan="2"> E6-US105 </th>
+      <th rowspan="2" colspan="3"> Información de tickets a soporte </th>
+      <th> T11</th>
+      <th> Creación del proyecto </th>
+      <th> Implementar la lógica de creación del mensaje </th>
+      <th> 5</th>
+      <th> Joseph Llacchua  </th> 
+      <th> Done </th>
+   </tr>
+   <tr>
+      <th> T12 </th>
+      <th> Lectura de datos </th>
+      <th> Implementar la lógica de lectura del mensaje </th>
+      <th> 4 </th>
+      <th> Joseph Llacchua </th> 
+      <th> Done </th>
+   </tr>
+</table>
+
 #### 5.2.4.3.Development Evidence for Sprint Review. 
 
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
