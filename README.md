@@ -2192,16 +2192,16 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
       <th rowspan="2"> E6-US101 </th>
       <th rowspan="2" colspan="3"> Información de proyectos  </th>
       <th> T03</th>
-      <th> Creación del proyecto </th>
-      <th> Implementar la lógica de creación del proyecto </th>
+      <th> a </th>
+      <th> a </th>
       <th> 7</th>
       <th> André Arroyo  </th> 
       <th> Done </th>
    </tr>
    <tr>
       <th> T04 </th>
-      <th> Lectura de datos del proyecto </th>
-      <th> Implementar la lógica de lectura de datos del proyecto </th>
+      <th> a </th>
+      <th> a </th>
       <th> 4 </th>
       <th> André Arroyo </th> 
       <th> Done </th>
@@ -2209,16 +2209,16 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
       <th rowspan="2"> E6-US102 </th>
       <th rowspan="2" colspan="3"> Información de entregables de proyectos </th>
       <th> T05</th>
-      <th> Creación del entregable </th>
-      <th> Implementar la lógica de creación del entregable </th>
+      <th> e </th>
+      <th> e </th>
       <th> 10 </th>
       <th> Samira Alvarez </th> 
       <th> Done </th>
    </tr>
    <tr>
       <th> T06 </th>
-      <th> Lectura de datos </th>
-      <th> Implementar la lógica de lectura del entregable</th>
+      <th> e </th>
+      <th> e </th>
       <th> 5 </th>
       <th> Samira Alvarez </th> 
       <th> Done </th>
@@ -2226,16 +2226,16 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
       <th rowspan="2"> E6-US103 </th>
       <th rowspan="2" colspan="3"> Información del perfil </th>
       <th> T07</th>
-      <th> Creación del perfil </th>
-      <th> Implementar la lógica de creación del perfil </th>
+      <th> i </th>
+      <th> i </th>
       <th> 10 </th>
       <th> Zaid Ramirez </th> 
       <th> Done </th>
    </tr>
    <tr>
       <th> T08 </th>
-      <th> Lectura de datos </th>
-      <th> Implementar la lógica de lectura del perfil</th>
+      <th> i </th>
+      <th> i </th>
       <th> 6 </th>
       <th> Zaid Ramirez </th> 
       <th> Done </th>
@@ -2243,16 +2243,16 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
       <th rowspan="2"> E6-US104 </th>
       <th rowspan="2" colspan="3"> Información de mensajes </th>
       <th> T09</th>
-      <th> Creación del proyecto </th>
-      <th> Implementar la lógica de creación del mensaje </th>
+      <th> o </th>
+      <th> o </th>
       <th> 5</th>
       <th> Joseph Llacchua  </th> 
       <th> Done </th>
    </tr>
    <tr>
       <th> T10 </th>
-      <th> Lectura de datos </th>
-      <th> Implementar la lógica de lectura del mensaje </th>
+      <th> o</th>
+      <th> o </th>
       <th> 4 </th>
       <th> Joseph Llacchua </th> 
       <th> Done </th>
@@ -2261,16 +2261,16 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
       <th rowspan="2"> E6-US105 </th>
       <th rowspan="2" colspan="3"> Información de tickets a soporte </th>
       <th> T11</th>
-      <th> Creación del proyecto </th>
-      <th> Implementar la lógica de creación del mensaje </th>
+      <th> u </th>
+      <th> u </th>
       <th> 5</th>
       <th> Joseph Llacchua  </th> 
       <th> Done </th>
    </tr>
    <tr>
       <th> T12 </th>
-      <th> Lectura de datos </th>
-      <th> Implementar la lógica de lectura del mensaje </th>
+      <th> u </th>
+      <th> u </th>
       <th> 4 </th>
       <th> Joseph Llacchua </th> 
       <th> Done </th>
