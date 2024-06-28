@@ -2140,9 +2140,9 @@ En el siguiente apartado, se presentará el sprint planning 4, donde se mostrar�
 |Attendees (to planning meeting)|Todos los miembros del grupo From Zero|
 |Sprint n – 3 Review Summary|En el sprint 3, se han desarrollado RESTful API con framework de Net Core en los bounnded context de autenticacion, perfiles, creacion de proyecto y seguimiento de proyecto.|
 |Sprint n – 4 Retrospective Summary|En este sprint 4 se finalizarán el RESTful API con el framework de Net Core con los bounded context de autenticación, perfiles, creación de proyectos, seguimiento de proyectos y seguimiento de entregables, messages, soporte. Al finalizar este sprint, se podrá apreciar la aplicación terminada y se podrán ingresar y recibir datos gracias al backend y su conexion a la base de datos desplegada.|
-|Sprint Goal & User Stories||
-|Sprint 4 Velocity|56|
-|Sum of Story Points|56|
+|Sprint Goal & User Stories|31|
+|Sprint 4 Velocity|31|
+|Sum of Story Points|31|
 
 #### 5.2.4.2. Sprint Backlog 4.
 
@@ -2373,6 +2373,7 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
 
 #### 5.2.4.5.Execution Evidence for Sprint Review.
 
+En este evidencia se adjuntan la lógica agregada en el apartado de deliverables para manejar lo correspondiente en la entrega de estos.
 <img src="./assets/final-execution/deliverables-1.jpg">
 <img src="./assets/final-execution/deliverables-2.png">
 <img src="./assets/final-execution/deliverable-3.jpg">
