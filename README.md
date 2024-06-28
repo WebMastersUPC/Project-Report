@@ -2189,26 +2189,47 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
       <th> Done </th>
    </tr>
     <tr>
-      <th rowspan="2"> E6-US101 </th>
-      <th rowspan="2" colspan="3"> Información de proyectos  </th>
+      <th rowspan="5"> E6-US101 </th>
+      <th rowspan="5" colspan="3"> Información de proyectos  </th>
       <th> T03</th>
-      <th> a </th>
-      <th> a </th>
-      <th> 7</th>
+      <th> Conexion del backend con el frontend del home enterprise </th>
+      <th> Permitir la visualizacion de proyectos pertenecientes al enterprise asi como elegir el developer </th>
+      <th> 5</th>
       <th> André Arroyo  </th> 
       <th> Done </th>
    </tr>
    <tr>
       <th> T04 </th>
-      <th> a </th>
-      <th> a </th>
+      <th> Conexion del backend con el frontend del home developer </th>
+      <th> Permitir la visualizacion de proyectos asociado al developer </th>
       <th> 4 </th>
+      <th> André Arroyo </th> 
+      <th> Done </th>
+    <tr>
+      <th> T05 </th>
+      <th> Conexion del backend con el frontend del buscar proyectos disponibles </th>
+      <th> Permitir la visualizacion de proyectos disponibles </th>
+      <th> 5 </th>
+      <th> André Arroyo </th> 
+      <th> Done </th>
+    <tr>
+      <th> T06 </th>
+      <th> Conexion del backend con el frontend de postular proyecto </th>
+      <th> Permitir a los developers mandar su solicitud de desarrollo </th>
+      <th> 5 </th>
+      <th> André Arroyo </th> 
+      <th> Done </th>
+    <tr>
+      <th> T07 </th>
+      <th> Conexion del backend con el frontend de crear proyecto </th>
+      <th> Permitir la creacion y edicion del proyecto del enterprise </th>
+      <th> 6 </th>
       <th> André Arroyo </th> 
       <th> Done </th>
     <tr>
       <th rowspan="2"> E6-US102 </th>
       <th rowspan="2" colspan="3"> Información de entregables de proyectos </th>
-      <th> T05</th>
+      <th> T08</th>
       <th> Subir entregables </th>
       <th> Permitir la subida de entregables por parte del desarrollador, así como la implementación de la lógica de negocio detrás de la acción </th>
       <th> 10 </th>
@@ -2216,7 +2237,7 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
       <th> Done </th>
    </tr>
    <tr>
-      <th> T06 </th>
+      <th> T09 </th>
       <th> Implementación de los endpoints </th>
       <th> Conexión de los endpoints de los entregables en el frontend de la aplicación. </th>
       <th> 8 </th>
@@ -2225,7 +2246,7 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
     <tr>
       <th rowspan="2"> E6-US103 </th>
       <th rowspan="2" colspan="3"> Información del perfil </th>
-      <th> T07</th>
+      <th> T10</th>
       <th> Mostrar información </th>
       <th> Mostrar la información del perfil en la carta con las opciones para editar </th>
       <th> 10 </th>
@@ -2233,7 +2254,7 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
       <th> Done </th>
    </tr>
    <tr>
-      <th> T08 </th>
+      <th> T11 </th>
       <th> Edición de perfil </th>
       <th> Implementar mediante uso de endpoints la posibilidad de editar la información del perfil </th>
       <th> 6 </th>
@@ -2242,7 +2263,7 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
     <tr>
       <th rowspan="2"> E6-US104 </th>
       <th rowspan="2" colspan="3"> Información de mensajes </th>
-      <th> T09</th>
+      <th> T12</th>
       <th> o </th>
       <th> o </th>
       <th> 5</th>
@@ -2250,7 +2271,7 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
       <th> Done </th>
    </tr>
    <tr>
-      <th> T10 </th>
+      <th> T13 </th>
       <th> o</th>
       <th> o </th>
       <th> 4 </th>
@@ -2260,7 +2281,7 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
     <tr>
       <th rowspan="2"> E6-US105 </th>
       <th rowspan="2" colspan="3"> Información de tickets a soporte </th>
-      <th> T11</th>
+      <th> T14</th>
       <th> u </th>
       <th> u </th>
       <th> 5</th>
@@ -2268,7 +2289,7 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
       <th> Done </th>
    </tr>
    <tr>
-      <th> T12 </th>
+      <th> T15 </th>
       <th> u </th>
       <th> u </th>
       <th> 4 </th>
