@@ -2367,7 +2367,7 @@ De este modo, se tiene un servicio de despliegue automatizado que agrega los cam
 
 
 ## 5.3. Validation Interviews.
-#### 5.3.1. Diseño de Entrevistas.
+### 5.3.1. Diseño de Entrevistas.
 
 **Segmento objetivo: Empresarios o emprendedores**
 
@@ -2409,7 +2409,7 @@ De este modo, se tiene un servicio de despliegue automatizado que agrega los cam
   9.	¿Estaría dispuesto a registrarse a WebMaster?
 
 
-#### 5.3.2. Registro de Entrevistas.
+### 5.3.2. Registro de Entrevistas.
 **Segmento 1: Segmento empresarios o emprendedores**
 
 **Entrevista 1** 
