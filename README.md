@@ -2415,6 +2415,26 @@ De este modo, se tiene un servicio de despliegue automatizado que agrega los cam
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
+Se presentaran los insights del trabajo grupal en Github.
+
+Link del repositorio de la Aplicación web:
+
+https://github.com/WebMastersUPC/webmaster-app
+
+En este avance se hicieron agregaron los endpoints para poder consumir de la API creada en el anterior sprint, se enfoco en ese apartado y el cumplimiento de la lógica.
+
+<img src="./assets/sprint4-insights/web-app-pulse.png">
+<img src="./assets/sprint4-insights/web-app-network.png">
+
+Link del repositorio de la Web API:
+
+https://github.com/WebMastersUPC/WebMasterAPI
+
+En este avance se hicieron agregaron algunos endpoints que faltaban, como tambien mejora del rendimiento de las respuestas recibidas..
+
+<img src="./assets/sprint4-insights/web-api-pulse.png">
+<img src="./assets/sprint4-insights/web-api-network.png">
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
