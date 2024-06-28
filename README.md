@@ -2421,6 +2421,23 @@ De igual forma que en el primer y segundo sprint, se siguio utilizando Netlify p
 **Aplicacion web deployment**
 <img src="./assets/sprint3/software-deployment.png">
 
+**API web aplication**
+<br>
+Para lograr el despliegue de la Api web aplication en Azure, primero se realizo el despliegue mediante una herramiento del IDE de visual studio 2022, dandole click derecho al proyecto y entrando a la opcion de **Publicar**.
+<img src="./assets/sprint4-deployment/azure-1.png">
+Luego se selecciona la opcion de Azure App Service (Linux)
+<img src="./assets/sprint4-deployment/azure-2.png">
+A continuación, se crea una nueva instancia donde se asigna al grupo de recursos creado en el anterior Sprint donde se encuentra la base de datos.
+<img src="./assets/sprint4-deployment/azure-3.png">
+Se procede a presionar la opcion de **Publicar** hasta que se marque que la publicacion de ha realizado de forma correcta.
+<img src="./assets/sprint4-deployment/azure-4.png">
+Aquí se pueden visualizar el grupo de recursos creado, donde se encuentra el webmasterApi y la base de datos.
+<img src="./assets/sprint4-deployment/azure-group.png">
+Una vez deployado la API web se puede ingresar para ver la documentación del swagger con todos los endpoint creados con sus respectivos bounded context.
+<img src="./assets/sprint4-deployment/swagger-ui.png">
+Por ultimo se verifica con postman para probar un endpoint.
+<img src="./assets/sprint4-deployment/test-postman.png">
+
 De este modo, se tiene un servicio de despliegue automatizado que agrega los cambios realizados sin tener que hacerlo de forma manual.
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
