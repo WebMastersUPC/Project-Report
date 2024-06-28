@@ -2505,12 +2505,12 @@ Resalta de manera positiva la parte visual de la aplicación, destacando su dise
 ### 5.3.3. Evaluaciones según heurísticas
 Con base a las diversas opiniones en las entrevistas realizadas, tanto de empresas como de desarrolladores freelancer se obtiene que:
 
-La aplicación es intuitiva y fácil de usar.
-La navegación es sencilla y permite ir de una vista a otra sin problemas.
-Las vistas contienen toda la información necesaria para manejar los servicios contratados.
-La aplicación es beneficiosa para las empresas y los desarrolladores, ya que facilita la contratación y prestación de servicios.
-La información contenida en la aplicación es clara y completa.
-La mayoría de los entrevistados estarían dispuestos a suscribirse o registrarse en Webmaster.
+- La aplicación es intuitiva y fácil de usar.
+- La navegación es sencilla y permite ir de una vista a otra sin problemas.
+- Las vistas contienen toda la información necesaria para manejar los servicios contratados.
+- La aplicación es beneficiosa para las empresas y los desarrolladores, ya que facilita la contratación y prestación de servicios.
+- La información contenida en la aplicación es clara y completa.
+- La mayoría de los entrevistados estarían dispuestos a suscribirse o registrarse en Webmaster.
 
 
 ## 5.4. Video About-the-Product.
