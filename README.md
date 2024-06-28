@@ -2350,6 +2350,25 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
+En esta sección se presentan los endpoints desarrollados en el presente sprint y se adjuntan capturas de las acciones CRUD realizadas con OpenApi. En el alcance del sprint, se han desarrollado los bounded context de autenticación, perfil, actividades, reclutamiento y organizaciones.
+Se adjunta el link del repositorio de la API en Github: 
+https://github.com/WebMastersUPC/WebMasterAPI
+
+| Bounded Context | Authentication | |
+|---------------|------------------------------------------|---|
+| Entity     | Endpoint URL                      | Swagger | 
+| User, Developer, Enterprise     | /api/v1/auth/                      | <img src="./assets/sprint3/auth-swagger.png"> |  
+| **Bounded Context** | **Project**  ||
+| Enterprise, Developer, Project | /api/Project/  |<img src="./assets/sprint3/Project-Swagger.png">|
+| Project, Developers     | /api/v1/Projects/{projectId}/Deliverables/  | <img src="./assets/sprint3/endpoints.PNG"> |  
+| **Bounded Context** | **Profiles**  ||
+| User, Developer, Enterprise     | /api/Profile/Developers, /api/v1/Profile/Enterprises   | <img src="./assets/sprint3/profile-swagger.png"> | 
+| **Bounded Context** | **Messages**  ||
+| User, Message     | /api/Messages/  | <img src="./assets/sprint3/mess-swagger.png"> | 
+| **Bounded Context** | **Support**  ||
+| User,  Support   |  /api/SupportRequest/ | <img src="./assets/sprint3/supp-swagger.png"> | 
+
+
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 
 De igual forma que en el primer y segundo sprint, se siguio utilizando Netlify para el deploy de la aplicacion web y landing page. Por lo tanto, se realizaran los mismos pasos mencionados en el anterior sprint, que como ventaja Netlify ofrece una actualizacion automatica con los ultimos cambios en el repositorio.
