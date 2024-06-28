@@ -2352,6 +2352,11 @@ Link a board en Trello: https://trello.com/b/KIKPNSgj/fromzero-sprint-4
 
 #### 5.2.4.5.Execution Evidence for Sprint Review.
 
+<img src="./assets/final-execution/deliverables-1.jpg">
+<img src="./assets/final-execution/deliverables-2.png">
+<img src="./assets/final-execution/deliverable-3.jpg">
+<img src="./assets/final-execution/deliverable-4.jpg">
+
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
 En esta sección se presentan los endpoints desarrollados en el presente sprint y se adjuntan capturas de las acciones CRUD realizadas con OpenApi. En el alcance del sprint, se han desarrollado los bounded context de autenticación, perfil, actividades, reclutamiento y organizaciones.
@@ -2364,7 +2369,7 @@ https://github.com/WebMastersUPC/WebMasterAPI
 | User, Developer, Enterprise     | /api/v1/auth/                      | <img src="./assets/sprint3/auth-swagger.png"> |  
 | **Bounded Context** | **Project**  ||
 | Enterprise, Developer, Project | /api/Project/  |<img src="./assets/sprint3/Project-Swagger.png">|
-| Project, Developers     | /api/v1/Projects/{projectId}/Deliverables/  | <img src="./assets/sprint3/endpoints.PNG"> |  
+| Project, Developers     | /api/v1/Projects/{projectId}/Deliverables/  | <img src="./assets/sprint3/deliverables-endpoints.PNG"> |  
 | **Bounded Context** | **Profiles**  ||
 | User, Developer, Enterprise     | /api/Profile/Developers, /api/v1/Profile/Enterprises   | <img src="./assets/sprint3/profile-swagger.png"> | 
 | **Bounded Context** | **Messages**  ||
