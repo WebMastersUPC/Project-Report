@@ -2369,6 +2369,7 @@ https://github.com/WebMastersUPC/WebMasterAPI
 | User, Developer, Enterprise     | /api/v1/auth/                      | <img src="./assets/sprint3/auth-swagger.png"> |  
 | **Bounded Context** | **Project**  ||
 | Enterprise, Developer, Project | /api/Project/  |<img src="./assets/sprint3/Project-Swagger.png">|
+| **Bounded Context** | **Deliverables**  ||
 | Project, Developers     | /api/v1/Projects/{projectId}/Deliverables/  | <img src="./assets/sprint3/deliverables-endpoints.PNG"> |  
 | **Bounded Context** | **Profiles**  ||
 | User, Developer, Enterprise     | /api/Profile/Developers, /api/v1/Profile/Enterprises   | <img src="./assets/sprint3/profile-swagger.png"> | 
