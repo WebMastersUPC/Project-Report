@@ -2379,6 +2379,15 @@ En este evidencia se adjuntan la lógica agregada en el apartado de deliverables
 <img src="./assets/final-execution/deliverable-3.jpg">
 <img src="./assets/final-execution/deliverable-4.jpg">
 
+Se evidencia la creación de una cuenta en la aplicación por parte del desarrollador.
+<img src="./assets/final-execution/profile.png">
+Se evidencia la creación de una cuenta en la aplicación por parte de una empresa con varios proyectos.
+<img src="./assets/final-execution/home-with-projects.png">
+Se evidencia el apartado de explorar proyectos por parte del segmento de desarrollador.
+<img src="./assets/final-execution/explore-projects.png">
+Se evidencia el apartado de exporar desarrolladores por parte del segmento de empresa.
+<img src="./assets/final-execution/explore-developers.png">
+
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
 En esta sección se presentan los endpoints desarrollados en el presente sprint y se adjuntan capturas de las acciones CRUD realizadas con OpenApi. En el alcance del sprint, se han desarrollado los bounded context de autenticación, perfil, actividades, reclutamiento y organizaciones.
